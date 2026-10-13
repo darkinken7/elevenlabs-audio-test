@@ -39,6 +39,10 @@ elif cmd == 'done':
             if not okk: bad += 1
         log(rec); print(rec['status'], s['n'], e['key'], rec.get('dur'), e['speak'][:60])
     sys.exit(1 if bad else 0)
+elif cmd == 'bsubmit':   # bsubmit <id> <flow> <session> <gen> <credits> <n_from> <n_to>  (ns liên tục)
+    bid, flow, ses, gen, cr, nl = sys.argv[2:8]; ns = [int(x) for x in nl.split(',')]
+    log({'ts': now(), 'event': 'batch_submitted', 'batch': bid, 'ns': ns, 'flow': flow, 'session': ses, 'gen': gen, 'credits': float(cr), 'chars_sent': sum(len(Q[n]['tts']) + 2 for n in ns) - 2, 'model': 'eleven_multilingual_v2', 'voice_id': 'pMrwpTuGOma7Nubxs5jo', 'status': 'submitted'})
+    json.dump({'session': ses, 'ns': ns}, open(R + '/state/batches/' + bid + '.json', 'w'))
 elif cmd == 'sum':
     st = latest(); c = sum(float(v.get('credits', 0)) for v in st.values()); by = {}
     for v in st.values(): by[v['status']] = by.get(v['status'], 0) + 1

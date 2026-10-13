@@ -1,0 +1,609 @@
+{
+ "why": "v1 đọc sai cấu trúc Treppe",
+ "remove_keys": [
+  "b5a85565bb49",
+  "c1d44ff03aff"
+ ],
+ "add_rows": [
+  {
+   "key": "929bfa38f09c",
+   "text": "Das Auto wird repariert.",
+   "speak": "Das Auto wird repariert.",
+   "cls": "de",
+   "chars": 24,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii6#0.0.a"
+    }
+   ]
+  },
+  {
+   "key": "770a00452dcc",
+   "text": "Das Auto ist repariert.",
+   "speak": "Das Auto ist repariert.",
+   "cls": "de",
+   "chars": 23,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii6#0.0.b"
+    }
+   ]
+  },
+  {
+   "key": "eab1e5d06e9d",
+   "text": "Das Auto würde repariert.",
+   "speak": "Das Auto würde repariert.",
+   "cls": "de",
+   "chars": 25,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii6#0.1.a"
+    }
+   ]
+  },
+  {
+   "key": "0c3177e9d7f8",
+   "text": "Das Auto wäre repariert.",
+   "speak": "Das Auto wäre repariert.",
+   "cls": "de",
+   "chars": 24,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii6#0.1.b"
+    }
+   ]
+  },
+  {
+   "key": "e929177acb0a",
+   "text": "Das Auto ist repariert worden.",
+   "speak": "Das Auto ist repariert worden.",
+   "cls": "de",
+   "chars": 30,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii6#0.2.a"
+    }
+   ]
+  },
+  {
+   "key": "0e2a2e2c1b91",
+   "text": "Das Auto ist repariert gewesen.",
+   "speak": "Das Auto ist repariert gewesen.",
+   "cls": "de",
+   "chars": 31,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii6#0.2.b"
+    }
+   ]
+  },
+  {
+   "key": "7647f6c6e0fc",
+   "text": "Das Auto wäre repariert worden.",
+   "speak": "Das Auto wäre repariert worden.",
+   "cls": "de",
+   "chars": 31,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii6#0.3.a"
+    }
+   ]
+  },
+  {
+   "key": "b5e94db91a71",
+   "text": "Das Auto wäre repariert gewesen.",
+   "speak": "Das Auto wäre repariert gewesen.",
+   "cls": "de",
+   "chars": 32,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii6#0.3.b"
+    }
+   ]
+  },
+  {
+   "key": "60096ec2cb0e",
+   "text": "Das Haus wird gebaut.",
+   "speak": "Das Haus wird gebaut.",
+   "cls": "de",
+   "chars": 21,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii7#0.0.a"
+    }
+   ]
+  },
+  {
+   "key": "e43c0176b785",
+   "text": "Das Haus ist gebaut.",
+   "speak": "Das Haus ist gebaut.",
+   "cls": "de",
+   "chars": 20,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii7#0.0.b"
+    }
+   ]
+  },
+  {
+   "key": "d05b941c3316",
+   "text": "Das Haus muss gebaut werden.",
+   "speak": "Das Haus muss gebaut werden.",
+   "cls": "de",
+   "chars": 28,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii7#0.1.a"
+    }
+   ]
+  },
+  {
+   "key": "6558584f0888",
+   "text": "Das Haus muss gebaut sein.",
+   "speak": "Das Haus muss gebaut sein.",
+   "cls": "de",
+   "chars": 26,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii7#0.1.b"
+    }
+   ]
+  },
+  {
+   "key": "f22b542acbc7",
+   "text": "Das Haus müsste gebaut werden.",
+   "speak": "Das Haus müsste gebaut werden.",
+   "cls": "de",
+   "chars": 30,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii7#0.2.a"
+    }
+   ]
+  },
+  {
+   "key": "7bbeb58c7da0",
+   "text": "Das Haus müsste gebaut sein.",
+   "speak": "Das Haus müsste gebaut sein.",
+   "cls": "de",
+   "chars": 28,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii7#0.2.b"
+    }
+   ]
+  },
+  {
+   "key": "b174e35826df",
+   "text": "Das Haus hätte gebaut werden müssen.",
+   "speak": "Das Haus hätte gebaut werden müssen.",
+   "cls": "de",
+   "chars": 36,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii7#0.3.a"
+    }
+   ]
+  },
+  {
+   "key": "874403057a01",
+   "text": "Das Haus hätte gebaut sein müssen.",
+   "speak": "Das Haus hätte gebaut sein müssen.",
+   "cls": "de",
+   "chars": 34,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "konjunktiv-trainer",
+     "kind": "treppe",
+     "ref": "kii7#0.3.b"
+    }
+   ]
+  },
+  {
+   "key": "fc970577bf39",
+   "text": "Der Antrag wird bearbeitet.",
+   "speak": "Der Antrag wird bearbeitet.",
+   "cls": "de",
+   "chars": 27,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv3#0.0.a"
+    }
+   ]
+  },
+  {
+   "key": "83815d31ad15",
+   "text": "Der Antrag ist bearbeitet.",
+   "speak": "Der Antrag ist bearbeitet.",
+   "cls": "de",
+   "chars": 26,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv3#0.0.b"
+    }
+   ]
+  },
+  {
+   "key": "503c9fda2d1e",
+   "text": "Der Antrag muss bearbeitet werden.",
+   "speak": "Der Antrag muss bearbeitet werden.",
+   "cls": "de",
+   "chars": 34,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv3#0.1.a"
+    }
+   ]
+  },
+  {
+   "key": "228bf4fcdc3b",
+   "text": "Der Antrag muss bearbeitet sein.",
+   "speak": "Der Antrag muss bearbeitet sein.",
+   "cls": "de",
+   "chars": 32,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv3#0.1.b"
+    }
+   ]
+  },
+  {
+   "key": "b6308655c338",
+   "text": "Der Antrag musste bearbeitet werden.",
+   "speak": "Der Antrag musste bearbeitet werden.",
+   "cls": "de",
+   "chars": 36,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv3#0.2.a"
+    }
+   ]
+  },
+  {
+   "key": "f37411e188eb",
+   "text": "Der Antrag musste bearbeitet sein.",
+   "speak": "Der Antrag musste bearbeitet sein.",
+   "cls": "de",
+   "chars": 34,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv3#0.2.b"
+    }
+   ]
+  },
+  {
+   "key": "073f5c95e691",
+   "text": "…, dass der Antrag bearbeitet werden muss.",
+   "speak": "…, dass der Antrag bearbeitet werden muss.",
+   "cls": "de",
+   "chars": 42,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv3#0.3.a"
+    }
+   ]
+  },
+  {
+   "key": "26042c6d6078",
+   "text": "…, dass der Antrag bearbeitet sein muss.",
+   "speak": "…, dass der Antrag bearbeitet sein muss.",
+   "cls": "de",
+   "chars": 40,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv3#0.3.b"
+    }
+   ]
+  },
+  {
+   "key": "5f58cd74a29e",
+   "text": "Die Tür wird geschlossen.",
+   "speak": "Die Tür wird geschlossen.",
+   "cls": "de",
+   "chars": 25,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv4#0.0.a"
+    }
+   ]
+  },
+  {
+   "key": "1544a1a5f400",
+   "text": "Die Tür ist geschlossen.",
+   "speak": "Die Tür ist geschlossen.",
+   "cls": "de",
+   "chars": 24,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv4#0.0.b"
+    }
+   ]
+  },
+  {
+   "key": "4ee06cab6fe5",
+   "text": "Die Tür würde geschlossen.",
+   "speak": "Die Tür würde geschlossen.",
+   "cls": "de",
+   "chars": 26,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv4#0.1.a"
+    }
+   ]
+  },
+  {
+   "key": "e9892148e1b3",
+   "text": "Die Tür wäre geschlossen.",
+   "speak": "Die Tür wäre geschlossen.",
+   "cls": "de",
+   "chars": 25,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv4#0.1.b"
+    }
+   ]
+  },
+  {
+   "key": "7ae4be57bb72",
+   "text": "Die Tür ist geschlossen worden.",
+   "speak": "Die Tür ist geschlossen worden.",
+   "cls": "de",
+   "chars": 31,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv4#0.2.a"
+    }
+   ]
+  },
+  {
+   "key": "975e01d28f19",
+   "text": "Die Tür ist geschlossen gewesen.",
+   "speak": "Die Tür ist geschlossen gewesen.",
+   "cls": "de",
+   "chars": 32,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv4#0.2.b"
+    }
+   ]
+  },
+  {
+   "key": "cba66ca3688d",
+   "text": "Die Tür wäre geschlossen worden.",
+   "speak": "Die Tür wäre geschlossen worden.",
+   "cls": "de",
+   "chars": 32,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv4#0.3.a"
+    }
+   ]
+  },
+  {
+   "key": "b30336563dac",
+   "text": "Die Tür wäre geschlossen gewesen.",
+   "speak": "Die Tür wäre geschlossen gewesen.",
+   "cls": "de",
+   "chars": 33,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv4#0.3.b"
+    }
+   ]
+  },
+  {
+   "key": "0097529c83e0",
+   "text": "Der Fehler wird korrigiert.",
+   "speak": "Der Fehler wird korrigiert.",
+   "cls": "de",
+   "chars": 27,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv5#0.0.a"
+    }
+   ]
+  },
+  {
+   "key": "2572bd85c691",
+   "text": "Der Fehler ist korrigiert.",
+   "speak": "Der Fehler ist korrigiert.",
+   "cls": "de",
+   "chars": 26,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv5#0.0.b"
+    }
+   ]
+  },
+  {
+   "key": "335ab4856bab",
+   "text": "Der Fehler muss korrigiert werden.",
+   "speak": "Der Fehler muss korrigiert werden.",
+   "cls": "de",
+   "chars": 34,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv5#0.1.a"
+    }
+   ]
+  },
+  {
+   "key": "444d588c4a1b",
+   "text": "Der Fehler muss korrigiert sein.",
+   "speak": "Der Fehler muss korrigiert sein.",
+   "cls": "de",
+   "chars": 32,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv5#0.1.b"
+    }
+   ]
+  },
+  {
+   "key": "4f22e8e8ba28",
+   "text": "Der Fehler müsste korrigiert werden.",
+   "speak": "Der Fehler müsste korrigiert werden.",
+   "cls": "de",
+   "chars": 36,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv5#0.2.a"
+    }
+   ]
+  },
+  {
+   "key": "74a0fc3c5c2a",
+   "text": "Der Fehler müsste korrigiert sein.",
+   "speak": "Der Fehler müsste korrigiert sein.",
+   "cls": "de",
+   "chars": 34,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv5#0.2.b"
+    }
+   ]
+  },
+  {
+   "key": "08a62a375cd6",
+   "text": "Der Fehler hätte korrigiert werden müssen.",
+   "speak": "Der Fehler hätte korrigiert werden müssen.",
+   "cls": "de",
+   "chars": 42,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv5#0.3.a"
+    }
+   ]
+  },
+  {
+   "key": "7941aab4636f",
+   "text": "Der Fehler hätte korrigiert sein müssen.",
+   "speak": "Der Fehler hätte korrigiert sein müssen.",
+   "cls": "de",
+   "chars": 40,
+   "group": "lernen+treppe",
+   "uses": [
+    {
+     "app": "passiv-trainer",
+     "kind": "treppe",
+     "ref": "zv5#0.3.b"
+    }
+   ]
+  }
+ ]
+}
