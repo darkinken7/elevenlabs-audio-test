@@ -13,7 +13,7 @@ for (const r of M.rows) {
 }
 const q = [...by.values()].sort((a, b) => G.indexOf(a.group) - G.indexOf(b.group));
 // Văn bản gửi TTS: chỉ đổi ký hiệu không đọc được (· ↔ → =) thành dấu ngắt; nội dung chữ giữ nguyên
-const tts = (t) => t.replace(/\s*·\s*/g, (m, o, s) => /[.!?]$/.test(s.slice(0, o)) ? ' ' : '. ').replace(/\s*(↔|→|⇒|=)\s*/g, ', ').replace(/\s+/g, ' ').trim();
+const tts = (t) => t.replace(/\s*·\s*/g, (m, o, s) => /[.!?]$/.test(s.slice(0, o)) ? ' ' : '. ').replace(/\s*(↔|→|⇒|=)\s*/g, ', ').replace(/…\./g, '…').replace(/\s+/g, ' ').trim();
 q.forEach((e, i) => { e.n = i; e.tts = tts(e.speak); });
 fs.writeFileSync(new URL('../state/queue.json', import.meta.url), JSON.stringify(q));
 const s = {}; for (const e of q) { s[e.group] = s[e.group] || [0, 0]; s[e.group][0]++; s[e.group][1] += e.chars; }
