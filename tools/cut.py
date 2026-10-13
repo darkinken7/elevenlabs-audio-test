@@ -29,19 +29,21 @@ def rms(p, a, b):
     return round(20 * math.log10(max(1e-9, math.sqrt(sum(v * v for v in x) / len(x)) / 32768)), 1)
 res = []; bad = 0
 for k, (n, a, b) in enumerate(spans):
-    fw, lw = W[a], W[b]
-    prev_end = W[a - 1]['end'] if a > 0 else 0.0; next_start = W[b + 1]['start'] if b + 1 < len(W) else dur
-    s = 0.0 if a == 0 else max(fw['start'] - PAD, (prev_end + fw['start']) / 2)
+    a0 = a
+    while a0 < b and not re.search(r'\w', W[a0]['text']): a0 += 1   # token mở đầu không có chữ (vd „…,“) → bỏ khỏi mốc bắt đầu
+    fw, lw = W[a0], W[b]
+    prev_end = W[a0 - 1]['end'] if a0 > 0 else 0.0; next_start = W[b + 1]['start'] if b + 1 < len(W) else dur
+    s = 0.0 if a0 == 0 else max(fw['start'] - PAD, (prev_end + fw['start']) / 2)
     e = dur if b + 1 == len(W) else min(lw['end'] + PAD, (lw['end'] + next_start) / 2)
     out = R + '/mp3/' + Q[n]['key'] + '.mp3'; tmp = out + '.part.mp3'
     fi, fo = 0.006, 0.012
     subprocess.run(['ffmpeg', '-y', '-v', 'error', '-ss', f'{s:.3f}', '-t', f'{e - s:.3f}', '-i', master, '-af', f'afade=t=in:d={fi},afade=t=out:st={max(0, e - s - fo):.3f}:d={fo}', '-ar', '44100', '-b:a', '128k', '-codec:a', 'libmp3lame', tmp], check=True)
     os.replace(tmp, out)
     d = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', out], capture_output=True, text=True).stdout)
-    head = rms(master, s, s + 0.03) if a else -99.0; tail = rms(master, e - 0.03, e) if b + 1 < len(W) else -99.0
+    head = rms(master, s, s + 0.03) if a0 else -99.0; tail = rms(master, e - 0.03, e) if b + 1 < len(W) else -99.0
     spoken = lw['end'] - fw['start']
-    ok = abs(d - (e - s)) < 0.12 and d >= spoken - 0.01 and fw['start'] - s >= 0.03 - 1e-9 + (0 if a else -1) and (lw['end'] + 0.03 <= e or b + 1 == len(W)) and head < -45 and tail < -45
-    if a == 0: ok = ok and d >= spoken
+    ok = abs(d - (e - s)) < 0.12 and d >= spoken - 0.01 and fw['start'] - s >= 0.03 - 1e-9 + (0 if a0 else -1) and (lw['end'] + 0.03 <= e or b + 1 == len(W)) and head < -45 and tail < -45
+    if a0 == 0: ok = ok and d >= spoken
     rec = dict(ts=now(), event='result', n=n, key=Q[n]['key'], batch=bid, status='ok' if ok else 'check_fail', dur=round(d, 3), size=os.path.getsize(out), file='mp3/' + Q[n]['key'] + '.mp3', lead=round(fw['start'] - s, 3), trail=round(e - lw['end'], 3), head_rms=head, tail_rms=tail, words=b - a + 1)
     bad += not ok; res.append(rec)
     print(rec['status'], n, f"dur={d:.2f} lead={rec['lead']} trail={rec['trail']} head={head} tail={tail}", Q[n]['tts'][:50])
