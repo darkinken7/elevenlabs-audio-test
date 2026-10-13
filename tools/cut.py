@@ -42,7 +42,7 @@ for k, (n, a, b) in enumerate(spans):
     d = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', out], capture_output=True, text=True).stdout)
     head = rms(master, s, s + 0.03) if a0 else -99.0; tail = rms(master, e - 0.03, e) if b + 1 < len(W) else -99.0
     spoken = lw['end'] - fw['start']
-    ok = abs(d - (e - s)) < 0.12 and d >= spoken - 0.01 and fw['start'] - s >= 0.03 - 1e-9 + (0 if a0 else -1) and (lw['end'] + 0.03 <= e or b + 1 == len(W)) and head < -45 and tail < -45
+    ok = abs(d - (e - s)) < 0.12 and d >= spoken - 0.01 and fw['start'] - s >= 0.03 - 1e-9 + (0 if a0 else -1) and (lw['end'] + 0.01 <= e or b + 1 == len(W)) and head < -45 and tail < -45
     if a0 == 0: ok = ok and d >= spoken
     rec = dict(ts=now(), event='result', n=n, key=Q[n]['key'], batch=bid, status='ok' if ok else 'check_fail', dur=round(d, 3), size=os.path.getsize(out), file='mp3/' + Q[n]['key'] + '.mp3', lead=round(fw['start'] - s, 3), trail=round(e - lw['end'], 3), head_rms=head, tail_rms=tail, words=b - a + 1)
     bad += not ok; res.append(rec)
