@@ -1,0 +1,93 @@
+diff -ruN a/theme/out/fvg-trainer.jsx b/theme/out/fvg-trainer.jsx
+--- a/theme/out/fvg-trainer.jsx	2026-10-13 17:20:58.948332829 +0000
++++ b/theme/out/fvg-trainer.jsx	2026-10-13 17:20:58.963224769 +0000
+@@ -1262,8 +1262,27 @@
+ }
+ // 2026-10-12: 🔊 đọc câu tiếng Đức bằng speechSynthesis của trình duyệt (đã thử OK). Không có → nút ẩn.
+ const TTS_OK = typeof window !== "undefined" && !!window.speechSynthesis && typeof window.SpeechSynthesisUtterance === "function";
++// 2026-10-13: MP3 ElevenLabs (Lea Brandt, eleven_multilingual_v2) nếu có trong bảng window.__GT_AUDIO = { base: "<thư mục mp3>/", files: { "<câu đã chuẩn hóa>": "<key>.mp3" } };
++// câu chưa có MP3, hoặc tải file lỗi → giữ cách đọc cũ bằng speechSynthesis.
++let GT_AUDIO_EL = null;
+ function speakDe(text) {
+   try {
++    const A = typeof window !== "undefined" && window.__GT_AUDIO;
++    const key = String(text || "").replace(/\*/g, "").replace(/\s\/\s/g, ", ").replace(/\([^)]*\)/g, " ").replace(/\s+/g, " ").replace(/\s+([.,!?;:])/g, "$1").trim();
++    const f = A && A.files && A.files[key];
++    if (f && typeof window.Audio === "function") {
++      if (window.speechSynthesis) window.speechSynthesis.cancel();
++      if (GT_AUDIO_EL) GT_AUDIO_EL.pause();
++      const el = new window.Audio((A.base || "") + f); GT_AUDIO_EL = el;
++      const fb = () => { if (GT_AUDIO_EL === el) { GT_AUDIO_EL = null; speakSynth(text); } };
++      el.onerror = fb; const p = el.play(); if (p && p.catch) p.catch(fb);
++      return;
++    }
++    speakSynth(text);
++  } catch (e) { speakSynth(text); }
++}
++function speakSynth(text) {
++  try {
+     const synth = window.speechSynthesis; if (!synth) return;
+     const plain = String(text || "").replace(/\*/g, "").replace(/\s\/\s/g, ", ").replace(/\([^)]*\)/g, " ").replace(/\s+/g, " ").replace(/\s+([.,!?;:])/g, "$1").trim();
+     if (!plain) return;
+diff -ruN a/theme/out/mix-review.jsx b/theme/out/mix-review.jsx
+--- a/theme/out/mix-review.jsx	2026-10-13 17:20:58.919793832 +0000
++++ b/theme/out/mix-review.jsx	2026-10-13 17:20:58.938740470 +0000
+@@ -955,8 +955,27 @@
+ }
+ // 2026-10-12: 🔊 đọc câu tiếng Đức bằng speechSynthesis của trình duyệt (đã thử OK). Không có → nút ẩn.
+ const TTS_OK = typeof window !== "undefined" && !!window.speechSynthesis && typeof window.SpeechSynthesisUtterance === "function";
++// 2026-10-13: MP3 ElevenLabs (Lea Brandt, eleven_multilingual_v2) nếu có trong bảng window.__GT_AUDIO = { base: "<thư mục mp3>/", files: { "<câu đã chuẩn hóa>": "<key>.mp3" } };
++// câu chưa có MP3, hoặc tải file lỗi → giữ cách đọc cũ bằng speechSynthesis.
++let GT_AUDIO_EL = null;
+ function speakDe(text) {
+   try {
++    const A = typeof window !== "undefined" && window.__GT_AUDIO;
++    const key = String(text || "").replace(/\*/g, "").replace(/\s\/\s/g, ", ").replace(/\([^)]*\)/g, " ").replace(/\s+/g, " ").replace(/\s+([.,!?;:])/g, "$1").trim();
++    const f = A && A.files && A.files[key];
++    if (f && typeof window.Audio === "function") {
++      if (window.speechSynthesis) window.speechSynthesis.cancel();
++      if (GT_AUDIO_EL) GT_AUDIO_EL.pause();
++      const el = new window.Audio((A.base || "") + f); GT_AUDIO_EL = el;
++      const fb = () => { if (GT_AUDIO_EL === el) { GT_AUDIO_EL = null; speakSynth(text); } };
++      el.onerror = fb; const p = el.play(); if (p && p.catch) p.catch(fb);
++      return;
++    }
++    speakSynth(text);
++  } catch (e) { speakSynth(text); }
++}
++function speakSynth(text) {
++  try {
+     const synth = window.speechSynthesis; if (!synth) return;
+     const plain = String(text || "").replace(/\*/g, "").replace(/\s\/\s/g, ", ").replace(/\([^)]*\)/g, " ").replace(/\s+/g, " ").replace(/\s+([.,!?;:])/g, "$1").trim();
+     if (!plain) return;
+diff -ruN a/theme/parts/ui.jsx b/theme/parts/ui.jsx
+--- a/theme/parts/ui.jsx	2026-10-13 17:20:58.893874402 +0000
++++ b/theme/parts/ui.jsx	2026-10-13 17:20:58.910677581 +0000
+@@ -1763,8 +1763,27 @@
+ }
+ // 2026-10-12: 🔊 đọc câu tiếng Đức bằng speechSynthesis của trình duyệt (đã thử OK). Không có → nút ẩn.
+ const TTS_OK = typeof window !== "undefined" && !!window.speechSynthesis && typeof window.SpeechSynthesisUtterance === "function";
++// 2026-10-13: MP3 ElevenLabs (Lea Brandt, eleven_multilingual_v2) nếu có trong bảng window.__GT_AUDIO = { base: "<thư mục mp3>/", files: { "<câu đã chuẩn hóa>": "<key>.mp3" } };
++// câu chưa có MP3, hoặc tải file lỗi → giữ cách đọc cũ bằng speechSynthesis.
++let GT_AUDIO_EL = null;
+ function speakDe(text) {
+   try {
++    const A = typeof window !== "undefined" && window.__GT_AUDIO;
++    const key = String(text || "").replace(/\*/g, "").replace(/\s\/\s/g, ", ").replace(/\([^)]*\)/g, " ").replace(/\s+/g, " ").replace(/\s+([.,!?;:])/g, "$1").trim();
++    const f = A && A.files && A.files[key];
++    if (f && typeof window.Audio === "function") {
++      if (window.speechSynthesis) window.speechSynthesis.cancel();
++      if (GT_AUDIO_EL) GT_AUDIO_EL.pause();
++      const el = new window.Audio((A.base || "") + f); GT_AUDIO_EL = el;
++      const fb = () => { if (GT_AUDIO_EL === el) { GT_AUDIO_EL = null; speakSynth(text); } };
++      el.onerror = fb; const p = el.play(); if (p && p.catch) p.catch(fb);
++      return;
++    }
++    speakSynth(text);
++  } catch (e) { speakSynth(text); }
++}
++function speakSynth(text) {
++  try {
+     const synth = window.speechSynthesis; if (!synth) return;
+     const plain = String(text || "").replace(/\*/g, "").replace(/\s\/\s/g, ", ").replace(/\([^)]*\)/g, " ").replace(/\s+/g, " ").replace(/\s+([.,!?;:])/g, "$1").trim();
+     if (!plain) return;

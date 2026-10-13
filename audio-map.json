@@ -1,0 +1,18 @@
+{
+"base": "mp3/",
+"voice": "Lea Brandt – Explainer (pMrwpTuGOma7Nubxs5jo)",
+"model": "eleven_multilingual_v2",
+"files": {
+"Es kamen so wenige Leute, dass die Versammlung abgesagt wurde.": "78c4dab49fab.mp3",
+"Ich schreibe meiner Freundin jeden Tag aus Heimweh mit dem Computer eine E-Mail über meine Probleme im Internetcafé.": "36c6bac851eb.mp3",
+"Ich gehe aus Müdigkeit ins Bett ↔ Ich schlafe vor Müdigkeit ein.": "4ce4532ac35c.mp3",
+"Wir lernen schrittweise. · Glücklicherweise haben wir bestanden.": "65c1ded25e7c.mp3",
+"Worauf wartest du? · Woran denkst du? · Womit schreibst du? · Wovor hast du Angst?": "4e3d85097c08.mp3",
+"während des Essens · wegen des Regens · trotz der Kälte · innerhalb einer Woche.": "8db6cecb60b9.mp3",
+"der kleine Hund · den kleinen Hund · dem kleinen Hund · das kleine Auto · die kleinen Häuser.": "6637029c197e.mp3",
+"grüner Wald · kaltes Wasser · frische Milch · mit heißem Kaffee.": "2c9905ea1b57.mp3",
+"ein großer Hund · ein neues Auto · eine schöne Blume · mein altes Fahrrad.": "78e368468284.mp3",
+"Die Touristen kommen von überallher. · Er reist irgendwohin.": "116cae3b0a21.mp3",
+"Ich hätte mehr lernen müssen.": "c216205d0266.mp3"
+}
+}
