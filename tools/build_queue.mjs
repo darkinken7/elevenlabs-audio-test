@@ -13,7 +13,7 @@ for (const r of M.rows) {
 }
 const q = [...by.values()].sort((a, b) => G.indexOf(a.group) - G.indexOf(b.group));
 // Văn bản gửi TTS: chỉ đổi ký hiệu không đọc được (· ↔ → =) thành dấu ngắt; nội dung chữ giữ nguyên
-const tts = (t) => t.replace(/\s*·\s*/g, (m, o, s) => /[.!?]$/.test(s.slice(0, o)) ? ' ' : '. ').replace(/\s*(↔|→|⇒|=)\s*/g, ', ').replace(/…\./g, '…').replace(/[✓✔✗✘]/g, '').replace(/\.,/g, '.').replace(/\s+/g, ' ').trim();
+const tts = (t) => t.replace(/\s*·\s*/g, (m, o, s) => /[.!?]$/.test(s.slice(0, o)) ? ' ' : '. ').replace(/\s*(↔|→|⇒|=)\s*/g, ', ').replace(/…\./g, '…').replace(/[✓✔✗✘①②③④⑤⑥⑦⑧⑨⑩]/g, '').replace(/\.,/g, '.').replace(/\s+/g, ' ').trim();
 q.forEach((e, i) => { e.n = i; e.tts = tts(e.speak); if (!/[.!?…]$/.test(e.tts) && i > 14 && ![15,16,17,44,45,46].includes(i)) e.tts += '.'; });  // cụm không dấu câu: thêm '.' để model ngắt rõ (n≤52 giữ nguyên chữ đã gửi)
 // Hiệu chỉnh (xem tools/extra_treppe.mjs): đánh dấu skip mục rác (giữ nguyên n); câu Treppe bổ sung nối thêm cuối (n mới), câu đã có thì gộp thêm vị trí dùng
 const C = JSON.parse(fs.readFileSync(new URL('../source/manifest.corrections.json', import.meta.url)));
