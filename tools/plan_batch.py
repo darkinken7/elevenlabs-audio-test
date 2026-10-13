@@ -17,7 +17,7 @@ todo = sorted([e for e in Q if e['n'] not in have and e['n'] not in pend and not
 if not todo: print('{}'); sys.exit()
 g = todo[0]['group']; ns = []; c = 0
 for e in todo:
-    if e['group'] != g: break
+    pass
     L = len(e['tts']) + 2
     if ns and c + L > MAXC: break
     ns.append(e['n']); c += L
