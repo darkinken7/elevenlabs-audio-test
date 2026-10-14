@@ -914,19 +914,6 @@
   ]
  },
  {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 1347,
-  "tts": "trotz + Genitiv.",
-  "file": "mp3/97f932459ff2.mp3",
-  "uses": [
-   {
-    "app": "cluster-c-angaben-konnektoren",
-    "kind": "form",
-    "ref": "nc3_KZ_f23"
-   }
-  ]
- },
- {
   "cat": "2_de_bai_chua_hoan_chinh",
   "n": 1404,
   "tts": "die ganze Zeit, in der …",
@@ -1086,19 +1073,6 @@
  },
  {
   "cat": "3_kho_doc_bang_TTS",
-  "n": 2242,
-  "tts": "trauern um + Akk.",
-  "file": "mp3/a6a7df9f1724.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "write",
-    "ref": "w45"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
   "n": 2260,
   "tts": "erstaunt sein über + Akk.",
   "file": "mp3/628323fd0045.mp3",
@@ -1107,19 +1081,6 @@
     "app": "wortschatz",
     "kind": "write",
     "ref": "w64"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 2261,
-  "tts": "jdn erstaunt anschauen.",
-  "file": "mp3/42e7bd6c5218.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "write",
-    "ref": "w65"
    }
   ]
  },
@@ -1185,19 +1146,6 @@
     "app": "wortschatz",
     "kind": "write",
     "ref": "w77"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 2279,
-  "tts": "etw. bezweifeln.",
-  "file": "mp3/4c579c4870c0.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "write",
-    "ref": "w85"
    }
   ]
  },
@@ -1785,19 +1733,6 @@
  },
  {
   "cat": "3_kho_doc_bang_TTS",
-  "n": 3898,
-  "tts": "für etw. schwärmen.",
-  "file": "mp3/aa4a673a83f3.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "lie1"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
   "n": 3899,
   "tts": "total verknallt in + Akk.",
   "file": "mp3/eea5edf7e24a.mp3",
@@ -1819,19 +1754,6 @@
     "app": "wortschatz",
     "kind": "error",
     "ref": "hae2"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 3903,
-  "tts": "unter + D. leiden.",
-  "file": "mp3/3e1b103a0fca.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "ane2"
    }
   ]
  },
@@ -1884,19 +1806,6 @@
     "app": "wortschatz",
     "kind": "error",
     "ref": "lie8"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 3931,
-  "tts": "verrückt nach jdm sein.",
-  "file": "mp3/807ca26ec5c9.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "lie9"
    }
   ]
  },
@@ -2006,19 +1915,6 @@
  },
  {
   "cat": "3_kho_doc_bang_TTS",
-  "n": 3944,
-  "tts": "jdn küssen.",
-  "file": "mp3/2a8880bb0fe4.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "lie22"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
   "n": 3945,
   "tts": "mit jdm liiert sein.",
   "file": "mp3/bed6833cb0a6.mp3",
@@ -2066,19 +1962,6 @@
     "app": "wortschatz",
     "kind": "error",
     "ref": "lie28"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 3952,
-  "tts": "jdm nahe stehen.",
-  "file": "mp3/d277120ae75f.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "lie30"
    }
   ]
  },
@@ -2266,19 +2149,6 @@
  },
  {
   "cat": "3_kho_doc_bang_TTS",
-  "n": 3970,
-  "tts": "jdn verachten.",
-  "file": "mp3/8515b422b7f8.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "hae21"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
   "n": 3971,
   "tts": "Verachtung empfinden für/gegenüber jdn.",
   "file": "mp3/6dbd093e1eeb.mp3",
@@ -2287,19 +2157,6 @@
     "app": "wortschatz",
     "kind": "error",
     "ref": "hae22"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 3972,
-  "tts": "jdn nicht ertragen können.",
-  "file": "mp3/acf90d41b21c.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "hae23"
    }
   ]
  },
@@ -2331,19 +2188,6 @@
  },
  {
   "cat": "3_kho_doc_bang_TTS",
-  "n": 3976,
-  "tts": "jdn schneiden.",
-  "file": "mp3/ccdccd907ceb.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "hae27"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
   "n": 3977,
   "tts": "jdn wie die Pest meiden.",
   "file": "mp3/51238f1a44ba.mp3",
@@ -2365,32 +2209,6 @@
     "app": "wortschatz",
     "kind": "error",
     "ref": "hae29"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 3979,
-  "tts": "jdm gram sein.",
-  "file": "mp3/2ebe85d01bf8.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "hae30"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 3980,
-  "tts": "vor etw. bange sein.",
-  "file": "mp3/78746b04cfae.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "ane4"
    }
   ]
  },
@@ -2664,32 +2482,6 @@
     "app": "wortschatz",
     "kind": "error",
     "ref": "wue25"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 4027,
-  "tts": "bei etw. hochgehen.",
-  "file": "mp3/6b8879e7a540.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "wue26"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 4029,
-  "tts": "jdm schwillt der Kamm.",
-  "file": "mp3/0274b0ac5d1b.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "wue28"
    }
   ]
  },
@@ -3124,19 +2916,6 @@
  },
  {
   "cat": "3_kho_doc_bang_TTS",
-  "n": 4103,
-  "tts": "jdm den Atem rauben.",
-  "file": "mp3/f8d0a1a9b471.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "ube23"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
   "n": 4105,
   "tts": "jdm eine Überraschung bereiten.",
   "file": "mp3/124b34176be5.mp3",
@@ -3384,19 +3163,6 @@
  },
  {
   "cat": "3_kho_doc_bang_TTS",
-  "n": 4135,
-  "tts": "jdm etw. nicht gönnen.",
-  "file": "mp3/d0080ef37594.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "uhe29"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
   "n": 4136,
   "tts": "hochnäsig gegenüber jdm sein.",
   "file": "mp3/46778fd398dc.mp3",
@@ -3535,32 +3301,6 @@
     "app": "wortschatz",
     "kind": "error",
     "ref": "kue6"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 4167,
-  "tts": "sich an etw. erinnern.",
-  "file": "mp3/fe7be470e791.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "kue8"
-   }
-  ]
- },
- {
-  "cat": "3_kho_doc_bang_TTS",
-  "n": 4168,
-  "tts": "von etw. geprägt sein.",
-  "file": "mp3/baa6cf5b7881.mp3",
-  "uses": [
-   {
-    "app": "wortschatz",
-    "kind": "error",
-    "ref": "kue9"
    }
   ]
  },

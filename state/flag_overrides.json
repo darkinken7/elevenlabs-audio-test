@@ -1,0 +1,215 @@
+{
+ "_doc": "Kết quả kiểm nhận dạng thật (Scribe trên file tải lên) từng file bị cờ. enable=true ⇒ flags.py không loại file khỏi audio-index. Chỉ file được kiểm RIÊNG từng cái; không suy rộng từ mẫu.",
+ "session": "j195nycU0VlWsbU54auf",
+ "master": "qc/review/ver1_20261014.mp3",
+ "items": {
+  "4167": {
+   "display": "sich an etw. erinnern.",
+   "spoken_expected": "sich an etwas erinnern.",
+   "heard": "Sich an etwas erinnern",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "4027": {
+   "display": "bei etw. hochgehen.",
+   "spoken_expected": "bei etwas hochgehen.",
+   "heard": "bei etwas hochgehen",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "4168": {
+   "display": "von etw. geprägt sein.",
+   "spoken_expected": "von etwas geprägt sein.",
+   "heard": "von etwas geprägt sein",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "3980": {
+   "display": "vor etw. bange sein.",
+   "spoken_expected": "vor etwas bange sein.",
+   "heard": "vor etwas Bange sein",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "3898": {
+   "display": "für etw. schwärmen.",
+   "spoken_expected": "für etwas schwärmen.",
+   "heard": "für etwas schwärmen",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "2279": {
+   "display": "etw. bezweifeln.",
+   "spoken_expected": "etwas bezweifeln.",
+   "heard": "etwas bezweifeln",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "3976": {
+   "display": "jdn schneiden.",
+   "spoken_expected": "jemanden schneiden.",
+   "heard": "jemanden schneiden",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "3944": {
+   "display": "jdn küssen.",
+   "spoken_expected": "jemanden küssen.",
+   "heard": "jemanden küssen",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "2261": {
+   "display": "jdn erstaunt anschauen.",
+   "spoken_expected": "jemanden erstaunt anschauen.",
+   "heard": "jemanden erstaunt anschauen",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "3972": {
+   "display": "jdn nicht ertragen können.",
+   "spoken_expected": "jemanden nicht ertragen können.",
+   "heard": "jemanden nicht ertragen können",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "3970": {
+   "display": "jdn verachten.",
+   "spoken_expected": "jemanden verachten.",
+   "heard": "jemanden verachten",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "3979": {
+   "display": "jdm gram sein.",
+   "spoken_expected": "jemandem gram sein.",
+   "heard": "jemandem gram sein",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "3952": {
+   "display": "jdm nahe stehen.",
+   "spoken_expected": "jemandem nahe stehen.",
+   "heard": "jemandem nahestehen",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "4029": {
+   "display": "jdm schwillt der Kamm.",
+   "spoken_expected": "jemandem schwillt der Kamm.",
+   "heard": "jemandem schwillt der Kamm",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "4103": {
+   "display": "jdm den Atem rauben.",
+   "spoken_expected": "jemandem den Atem rauben.",
+   "heard": "jemandem den Atem rauben",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "3931": {
+   "display": "verrückt nach jdm sein.",
+   "spoken_expected": "verrückt nach jemandem sein.",
+   "heard": "verrückt nach jemandem sein",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "248": {
+   "display": "war + PII.",
+   "spoken_expected": "war plus Partizip zwei.",
+   "heard": "War plus P E I",
+   "enable": false,
+   "verification": "asr_individual",
+   "reason": "PII bị đọc từng chữ „P E I“ → cần „Partizip zwei“"
+  },
+  "256": {
+   "display": "würde + PII.",
+   "spoken_expected": "würde plus Partizip zwei.",
+   "heard": "würde plus P E I",
+   "enable": false,
+   "verification": "asr_individual",
+   "reason": "PII bị đọc từng chữ „P E I“ → cần „Partizip zwei“"
+  },
+  "257": {
+   "display": "wäre + PII.",
+   "spoken_expected": "wäre plus Partizip zwei.",
+   "heard": "wäre plus P E I",
+   "enable": false,
+   "verification": "asr_individual",
+   "reason": "PII bị đọc từng chữ „P E I“ → cần „Partizip zwei“"
+  },
+  "251": {
+   "display": "war + PII + worden.",
+   "spoken_expected": "war plus Partizip zwei plus worden.",
+   "heard": "War plus P E I plus worden",
+   "enable": false,
+   "verification": "asr_individual",
+   "reason": "PII bị đọc từng chữ „P E I“ → cần „Partizip zwei“"
+  },
+  "1335": {
+   "display": "+ Dativ.",
+   "spoken_expected": "plus Dativ.",
+   "heard": "Dativ",
+   "enable": false,
+   "verification": "asr_individual",
+   "reason": "ký hiệu „+“ đứng đầu bị bỏ, chỉ nghe „Dativ“"
+  },
+  "1347": {
+   "display": "trotz + Genitiv.",
+   "spoken_expected": "trotz plus Genitiv.",
+   "heard": "Trotz plus Genitiv",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "2280": {
+   "display": "zweifeln an + D.",
+   "spoken_expected": "zweifeln an plus Dativ.",
+   "heard": "Zweifeln an plus Deg.",
+   "enable": false,
+   "verification": "asr_individual",
+   "reason": "„D.“ bị đọc „Deg“"
+  },
+  "3903": {
+   "display": "unter + D. leiden.",
+   "spoken_expected": "unter plus Dativ leiden.",
+   "heard": "Unter plus Dativ leiden",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "2242": {
+   "display": "trauern um + Akk.",
+   "spoken_expected": "trauern um plus Akkusativ.",
+   "heard": "Trauern um plus Akkusativ",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  },
+  "4135": {
+   "display": "jdm etw. nicht gönnen.",
+   "spoken_expected": "jemandem etwas nicht gönnen.",
+   "heard": "Jemandem etwas nicht gönnen",
+   "enable": true,
+   "verification": "asr_individual",
+   "reason": ""
+  }
+ }
+}

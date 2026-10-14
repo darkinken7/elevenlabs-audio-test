@@ -1,0 +1,5549 @@
+{
+ "_doc": "Lời đọc chuẩn hóa (spoken form) cho các câu bị gắn cờ — KHÔNG đổi chữ hiển thị trong app.",
+ "items": [
+  {
+   "n": 15,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Der Mann, dessen Auto gestohlen wurde… Die Frau, deren Kind krank ist… Die Leute, deren Haus brannte…",
+   "has_file": true,
+   "file": "mp3/fa0be339653d.mp3",
+   "uses": [
+    "cluster-e-satz-operationen:rs4#2"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Der Mann, dessen Auto gestohlen wurde <break time=\"0.7s\" /> Die Frau, deren Kind krank ist <break time=\"0.7s\" /> Die Leute, deren Haus brannte <break time=\"0.7s\" />"
+  },
+  {
+   "n": 74,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Höflich: Könnten Sie mir helfen? Ich hätte gern …",
+   "has_file": true,
+   "file": "mp3/3940405607d2.mp3",
+   "uses": [
+    "konjunktiv-trainer:kii4#2"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Höflich: Könnten Sie mir helfen? Ich hätte gern <break time=\"0.7s\" />"
+  },
+  {
+   "n": 86,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Präsens + Zeitangabe: Diesen Sommer lerne ich schwimmen.",
+   "has_file": true,
+   "file": "mp3/9c8c5bc4cd75.mp3",
+   "uses": [
+    "vermutung-futur-trainer:vm3#0"
+   ],
+   "spoken": "Präsens plus Zeitangabe: Diesen Sommer lerne ich schwimmen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 88,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "etw. vor. haben, … zu: Ich habe vor, eine Sprache zu lernen.",
+   "has_file": true,
+   "file": "mp3/ae597a69fe89.mp3",
+   "uses": [
+    "vermutung-futur-trainer:vm3#2"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "etw. vor. haben, <break time=\"0.7s\" /> zu: Ich habe vor, eine Sprache zu lernen."
+  },
+  {
+   "n": 89,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "an. fangen, sich etw. vor. nehmen, … zu: Ich habe mir vorgenommen, mich mehr zu bewegen.",
+   "has_file": true,
+   "file": "mp3/2b7b0414606f.mp3",
+   "uses": [
+    "vermutung-futur-trainer:vm3#3"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "an. fangen, sich etw. vor. nehmen, <break time=\"0.7s\" /> zu: Ich habe mir vorgenommen, mich mehr zu bewegen."
+  },
+  {
+   "n": 179,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "werden + Partizip II.",
+   "has_file": true,
+   "file": "mp3/b64a87448954.mp3",
+   "uses": [
+    "passiv-trainer:f28"
+   ],
+   "spoken": "werden plus Partizip zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 180,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sein + Partizip II.",
+   "has_file": true,
+   "file": "mp3/5ecbf4fa3573.mp3",
+   "uses": [
+    "passiv-trainer:f29"
+   ],
+   "spoken": "sein plus Partizip zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 247,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "wurde + PII.",
+   "has_file": true,
+   "file": "mp3/83c9441d3992.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f01"
+   ],
+   "spoken": "wurde plus Partizip zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 248,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "war + PII.",
+   "has_file": true,
+   "file": "mp3/8eb0799cfd0a.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f02"
+   ],
+   "spoken": "war plus Partizip zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false,
+   "asr": {
+    "enable": false,
+    "heard": "War plus P E I",
+    "reason": "PII bị đọc từng chữ „P E I“ → cần „Partizip zwei“"
+   }
+  },
+  {
+   "n": 249,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "ist + PII + worden.",
+   "has_file": true,
+   "file": "mp3/66523f144588.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f03"
+   ],
+   "spoken": "ist plus Partizip zwei plus worden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 250,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "ist + PII + gewesen.",
+   "has_file": true,
+   "file": "mp3/1a8cce51b5f9.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f04"
+   ],
+   "spoken": "ist plus Partizip zwei plus gewesen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 251,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "war + PII + worden.",
+   "has_file": true,
+   "file": "mp3/2fa8b53323d2.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f05"
+   ],
+   "spoken": "war plus Partizip zwei plus worden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false,
+   "asr": {
+    "enable": false,
+    "heard": "War plus P E I plus worden",
+    "reason": "PII bị đọc từng chữ „P E I“ → cần „Partizip zwei“"
+   }
+  },
+  {
+   "n": 252,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "war + PII + gewesen.",
+   "has_file": true,
+   "file": "mp3/81b85d1cc038.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f06"
+   ],
+   "spoken": "war plus Partizip zwei plus gewesen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 253,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "wird + PII + werden.",
+   "has_file": true,
+   "file": "mp3/ace969564452.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f07"
+   ],
+   "spoken": "wird plus Partizip zwei plus werden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 254,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Modalverb + PII + werden.",
+   "has_file": true,
+   "file": "mp3/7a70f7ddf0d0.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f08"
+   ],
+   "spoken": "Modalverb plus Partizip zwei plus werden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 255,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Modalverb + PII + sein.",
+   "has_file": true,
+   "file": "mp3/74c2a26e0712.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f09"
+   ],
+   "spoken": "Modalverb plus Partizip zwei plus sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 256,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "würde + PII.",
+   "has_file": true,
+   "file": "mp3/00e4d69fc198.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f10"
+   ],
+   "spoken": "würde plus Partizip zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false,
+   "asr": {
+    "enable": false,
+    "heard": "würde plus P E I",
+    "reason": "PII bị đọc từng chữ „P E I“ → cần „Partizip zwei“"
+   }
+  },
+  {
+   "n": 257,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "wäre + PII.",
+   "has_file": true,
+   "file": "mp3/2e7629d7e5d5.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f11"
+   ],
+   "spoken": "wäre plus Partizip zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false,
+   "asr": {
+    "enable": false,
+    "heard": "wäre plus P E I",
+    "reason": "PII bị đọc từng chữ „P E I“ → cần „Partizip zwei“"
+   }
+  },
+  {
+   "n": 258,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "bleiben + PII.",
+   "has_file": true,
+   "file": "mp3/6ebf25d99060.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f12"
+   ],
+   "spoken": "bleiben plus Partizip zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 268,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Wenn der Fehler korrigiert würde, …",
+   "has_file": true,
+   "file": "mp3/a08406809977.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f22"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Wenn der Fehler korrigiert würde, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 269,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Wenn das Fenster geöffnet wäre, …",
+   "has_file": true,
+   "file": "mp3/2a41a37da9ba.mp3",
+   "uses": [
+    "passiv-trainer:np1_ZV_f23"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Wenn das Fenster geöffnet wäre, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 658,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Wenn ich Zeit hätte, …",
+   "has_file": true,
+   "file": "mp3/a959d7bac4e0.mp3",
+   "uses": [
+    "konjunktiv-trainer:p40"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Wenn ich Zeit hätte, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 659,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Wenn ich reich wäre, …",
+   "has_file": true,
+   "file": "mp3/f29e680c1767.mp3",
+   "uses": [
+    "konjunktiv-trainer:p42"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Wenn ich reich wäre, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 661,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, würde ich bestehen.",
+   "has_file": true,
+   "file": "mp3/fd3abd7fc4d0.mp3",
+   "uses": [
+    "konjunktiv-trainer:p48"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , würde ich bestehen."
+  },
+  {
+   "n": 667,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Infinitivstamm + e.",
+   "has_file": true,
+   "file": "mp3/0d33c4283a35.mp3",
+   "uses": [
+    "konjunktiv-trainer:f57"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "„Infinitivstamm + e“: chữ „e“ đơn lẻ, TTS có thể đọc tên chữ cái hoặc âm — cần nghe"
+  },
+  {
+   "n": 773,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "denn. weil/da. wegen+G. nämlich.",
+   "has_file": true,
+   "file": "mp3/8e07ac159cb2.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f2"
+   ],
+   "spoken": "denn. weil, oder, da. wegen plus Genitiv. nämlich.",
+   "status": "manual",
+   "review": true,
+   "note": "giữ ranh giới câu sau „G.“"
+  },
+  {
+   "n": 776,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "bevor/ehe. nachdem.",
+   "has_file": true,
+   "file": "mp3/66edef4ab59f.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f5"
+   ],
+   "spoken": "bevor, oder, ehe. nachdem.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 778,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "ohne…zu. ohne dass.",
+   "has_file": true,
+   "file": "mp3/6ea833f9ab6b.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f7"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "ohne <break time=\"0.7s\" /> zu. ohne dass."
+  },
+  {
+   "n": 779,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "trotz + Genitiv. ungeachtet + Genitiv.",
+   "has_file": true,
+   "file": "mp3/4d2eea5f2229.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f8"
+   ],
+   "spoken": "trotz plus Genitiv. ungeachtet plus Genitiv.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 787,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, denn er ist krank.",
+   "has_file": true,
+   "file": "mp3/407fb38101c3.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:t2"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , denn er ist krank."
+  },
+  {
+   "n": 788,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Wegen des Regens …",
+   "has_file": true,
+   "file": "mp3/374a11dbd171.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:t3",
+    "cluster-d-praep-kasus:t10"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Wegen des Regens <break time=\"0.7s\" />"
+  },
+  {
+   "n": 794,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Trotz des Regens …",
+   "has_file": true,
+   "file": "mp3/cbd6f950fad9.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:t9"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Trotz des Regens <break time=\"0.7s\" />"
+  },
+  {
+   "n": 821,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "trotzdem. dennoch. zwar…aber.",
+   "has_file": true,
+   "file": "mp3/85ed34f3215b.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f9"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "trotzdem. dennoch. zwar <break time=\"0.7s\" /> aber."
+  },
+  {
+   "n": 824,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "seit. seitdem. seit + D.",
+   "has_file": true,
+   "file": "mp3/e956fb53264b.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f12"
+   ],
+   "spoken": "seit. seitdem. seit plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 825,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "bis. bis + A. bis zu + D.",
+   "has_file": true,
+   "file": "mp3/21f8735a3be4.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f13"
+   ],
+   "spoken": "bis. bis plus Akkusativ. bis zu plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 826,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "durch + A. mit + D.",
+   "has_file": true,
+   "file": "mp3/84bd56dd2d10.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f14"
+   ],
+   "spoken": "durch plus Akkusativ. mit plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 827,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "statt…zu. statt dass. statt + G.",
+   "has_file": true,
+   "file": "mp3/95a5643f3044.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f15"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "statt <break time=\"0.7s\" /> zu. statt dass. statt + G."
+  },
+  {
+   "n": 828,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "mithilfe. anhand + Genitiv.",
+   "has_file": true,
+   "file": "mp3/965d97fb3c95.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f16"
+   ],
+   "spoken": "mithilfe. anhand plus Genitiv.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 831,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "wegen. aufgrund. infolge + Genitiv.",
+   "has_file": true,
+   "file": "mp3/c27b0534653b.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f19"
+   ],
+   "spoken": "wegen. aufgrund. infolge plus Genitiv.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 843,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, denn sie ist müde.",
+   "has_file": true,
+   "file": "mp3/17c50584f68e.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:t11"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , denn sie ist müde."
+  },
+  {
+   "n": 844,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, weil er keine Zeit hat.",
+   "has_file": true,
+   "file": "mp3/e1eb074c6bd8.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:t12"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , weil er keine Zeit hat."
+  },
+  {
+   "n": 846,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Aufgrund vieler Fehler …",
+   "has_file": true,
+   "file": "mp3/a8e8dbcde7a6.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:t14",
+    "cluster-d-praep-kasus:t26"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Aufgrund vieler Fehler <break time=\"0.7s\" />"
+  },
+  {
+   "n": 857,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Trotz der Kälte …",
+   "has_file": true,
+   "file": "mp3/e882e9d0b532.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:t25",
+    "cluster-d-praep-kasus:t11"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Trotz der Kälte <break time=\"0.7s\" />"
+  },
+  {
+   "n": 917,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Zum Einkaufen geht er…",
+   "has_file": true,
+   "file": "mp3/4a8b84fb5bf6.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:t43"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Zum Einkaufen geht er <break time=\"0.7s\" />"
+  },
+  {
+   "n": 926,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "+ -s-.",
+   "has_file": true,
+   "file": "mp3/df0d44d43c0c.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f27"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "„+ -s-“ là mảnh âm tiết (Fugenelement), không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 927,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "+ -er-.",
+   "has_file": true,
+   "file": "mp3/5a252f88ffde.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:f28"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "„+ -er-“ là mảnh âm tiết (Fugenelement), không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 1060,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "um nicht zu + Infinitiv.",
+   "has_file": true,
+   "file": "mp3/d361daaedb8c.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_FI_f06"
+   ],
+   "spoken": "um nicht zu plus Infinitiv.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1061,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Partizip II + zu werden.",
+   "has_file": true,
+   "file": "mp3/e1fb053d2f5d.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_FI_f08",
+    "cluster-e-satz-operationen:ne3_ZU_f06"
+   ],
+   "spoken": "Partizip zwei plus zu werden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1062,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "zu + der, zur: zur Information, zur Vorbereitung.",
+   "has_file": true,
+   "file": "mp3/3fb4de4dc414.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_FI_f11"
+   ],
+   "spoken": "zu plus der, zur: zur Information, zur Vorbereitung.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1064,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "um + Genitiv + willen.",
+   "has_file": true,
+   "file": "mp3/10464fbfb124.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_FI_f13"
+   ],
+   "spoken": "um plus Genitiv plus willen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1065,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "für + Akkusativ.",
+   "has_file": true,
+   "file": "mp3/6c3e089bb994.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_FI_f14",
+    "praeposition-trainer:f24",
+    "praeposition-trainer:f3"
+   ],
+   "spoken": "für plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1069,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Nomen + zum + Inf-Nomen: ein Messer zum Schneiden.",
+   "has_file": true,
+   "file": "mp3/404ead8310d3.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_FI_f24"
+   ],
+   "spoken": "Nomen plus zum plus Infinitiv-Nomen: ein Messer zum Schneiden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1070,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Infinitiv + zu + Modalverb-Infinitiv.",
+   "has_file": true,
+   "file": "mp3/759651ceed86.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_FI_f25"
+   ],
+   "spoken": "Infinitiv plus zu plus Modalverb-Infinitiv.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1125,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Infinitiv + zu + können/müssen: ohne warten zu müssen.",
+   "has_file": true,
+   "file": "mp3/1dd3438ff91d.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_MO_f15"
+   ],
+   "spoken": "Infinitiv plus zu plus können, oder, müssen: ohne warten zu müssen.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 1127,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Partizip II + zu haben.",
+   "has_file": true,
+   "file": "mp3/0cdc7c7c3660.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_MO_f18"
+   ],
+   "spoken": "Partizip zwei plus zu haben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1128,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Nebensatz + Konjunktiv II: Er tut so, als ob er alles wüsste.",
+   "has_file": true,
+   "file": "mp3/300ccc08bfad.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_MO_f21"
+   ],
+   "spoken": "Nebensatz plus Konjunktiv zwei: Er tut so, als ob er alles wüsste.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1129,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "je + Komparativ + NS, desto + Komparativ + Verb Pos.2.",
+   "has_file": true,
+   "file": "mp3/bee65dd12c6b.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc1_MO_f22"
+   ],
+   "spoken": "je plus Komparativ plus Nebensatz, desto plus Komparativ plus Verb Position zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1171,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Verb Pos.2 — denn + S + V.",
+   "has_file": true,
+   "file": "mp3/b3c8d0afa0db.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_KA_f01"
+   ],
+   "spoken": "Verb Position zwei, denn plus Subjekt plus Verb.",
+   "status": "manual",
+   "review": true,
+   "note": "„S + V“ → Subjekt/Verb: chữ cái đơn lẻ sẽ bị đọc tên chữ"
+  },
+  {
+   "n": 1220,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Verb: so sehr + Verb + dass.",
+   "has_file": true,
+   "file": "mp3/fba50a867800.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_KO_f09"
+   ],
+   "spoken": "Verb: so sehr plus Verb plus dass.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1221,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "so + Adjektiv/Adverb + dass.",
+   "has_file": true,
+   "file": "mp3/18c0036242c4.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_KO_f10"
+   ],
+   "spoken": "so plus Adjektiv, oder, Adverb plus dass.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 1223,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "solch ein + Nomen. ein solcher + Nomen.",
+   "has_file": true,
+   "file": "mp3/bbacc93f7fcd.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_KO_f13"
+   ],
+   "spoken": "solch ein plus Nomen. ein solcher plus Nomen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1224,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "so ein großes Problem, dass …",
+   "has_file": true,
+   "file": "mp3/77fede0ba48d.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_KO_f14"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "so ein großes Problem, dass <break time=\"0.7s\" />"
+  },
+  {
+   "n": 1229,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "als dass + Konjunktiv II.",
+   "has_file": true,
+   "file": "mp3/f700b495d1c6.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_KO_f20"
+   ],
+   "spoken": "als dass plus Konjunktiv zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1230,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Adj + genug, um … zu + Infinitiv.",
+   "has_file": true,
+   "file": "mp3/9e762a723db3.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_KO_f21"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Adj + genug, um <break time=\"0.7s\" /> zu + Infinitiv."
+  },
+  {
+   "n": 1292,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "wegen + G. aus + D. vor + D.",
+   "has_file": true,
+   "file": "mp3/486b8d1dd698.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_TK_f29"
+   ],
+   "spoken": "wegen plus Genitiv. aus plus Dativ. vor plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1296,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, dass sie heute wegen der Kälte zu Hause bleibt.",
+   "has_file": true,
+   "file": "mp3/83a6ad1e9982.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_TK_t04"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , dass sie heute wegen der Kälte zu Hause bleibt."
+  },
+  {
+   "n": 1301,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, weil er seiner Tochter jeden Abend ein Märchen vorliest.",
+   "has_file": true,
+   "file": "mp3/284ff448ae71.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_TK_t11"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , weil er seiner Tochter jeden Abend ein Märchen vorliest."
+  },
+  {
+   "n": 1335,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "+ Dativ.",
+   "has_file": true,
+   "file": "mp3/bf8eb62cffd8.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc3_KZ_f08"
+   ],
+   "spoken": "plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false,
+   "asr": {
+    "enable": false,
+    "heard": "Dativ",
+    "reason": "ký hiệu „+“ đứng đầu bị bỏ, chỉ nghe „Dativ“"
+   }
+  },
+  {
+   "n": 1404,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "die ganze Zeit, in der …",
+   "has_file": true,
+   "file": "mp3/b0d3fb23e55a.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc3_TE_f07"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "die ganze Zeit, in der <break time=\"0.7s\" />"
+  },
+  {
+   "n": 1405,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "jedes Mal, wenn …",
+   "has_file": true,
+   "file": "mp3/baacee072081.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc3_TE_f08"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "jedes Mal, wenn <break time=\"0.7s\" />"
+  },
+  {
+   "n": 1406,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "von + Dativ. bis + Akkusativ.",
+   "has_file": true,
+   "file": "mp3/71c4a7f21b34.mp3",
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc3_TE_f10"
+   ],
+   "spoken": "von plus Dativ. bis plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 1912,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Der Mann, dessen Auto gestohlen wurde, …",
+   "has_file": true,
+   "file": "mp3/305fb52c6850.mp3",
+   "uses": [
+    "cluster-e-satz-operationen:t59",
+    "cluster-e-satz-operationen:w24"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Der Mann, dessen Auto gestohlen wurde, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 2204,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "für + Akk. schwärmen.",
+   "has_file": true,
+   "file": "mp3/565dda5e6cc3.mp3",
+   "uses": [
+    "wortschatz:w4"
+   ],
+   "spoken": "für plus Akkusativ schwärmen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2206,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "nach + D. sich sehnen.",
+   "has_file": true,
+   "file": "mp3/05563870458f.mp3",
+   "uses": [
+    "wortschatz:w6"
+   ],
+   "spoken": "nach plus Dativ sich sehnen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2207,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm verfallen sein.",
+   "has_file": true,
+   "file": "mp3/4d88071c8c0a.mp3",
+   "uses": [
+    "wortschatz:lie2",
+    "wortschatz:w7"
+   ],
+   "spoken": "jemandem verfallen sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2217,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn abgrundtief hassen.",
+   "has_file": true,
+   "file": "mp3/fcd137a43e0e.mp3",
+   "uses": [
+    "wortschatz:w17"
+   ],
+   "spoken": "jemanden abgrundtief hassen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2218,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Groll hegen gegen jdn.",
+   "has_file": true,
+   "file": "mp3/db47087e5096.mp3",
+   "uses": [
+    "wortschatz:w18"
+   ],
+   "spoken": "Groll hegen gegen jemanden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2220,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Hass entwickeln gegen + Akk.",
+   "has_file": true,
+   "file": "mp3/f9bb18d039e3.mp3",
+   "uses": [
+    "wortschatz:hae3",
+    "wortschatz:w20"
+   ],
+   "spoken": "Hass entwickeln gegen plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2228,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich fürchten vor + D.",
+   "has_file": true,
+   "file": "mp3/48330f6bf658.mp3",
+   "uses": [
+    "wortschatz:w28"
+   ],
+   "spoken": "sich fürchten vor plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2260,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "erstaunt sein über + Akk.",
+   "has_file": true,
+   "file": "mp3/628323fd0045.mp3",
+   "uses": [
+    "wortschatz:w64"
+   ],
+   "spoken": "erstaunt sein über plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2263,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn in Erstaunen versetzen.",
+   "has_file": true,
+   "file": "mp3/9cf1f25c8ff4.mp3",
+   "uses": [
+    "wortschatz:w67"
+   ],
+   "spoken": "jemanden in Erstaunen versetzen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2264,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm die Sprache verschlagen.",
+   "has_file": true,
+   "file": "mp3/7ff5d4796d3e.mp3",
+   "uses": [
+    "wortschatz:w68"
+   ],
+   "spoken": "jemandem die Sprache verschlagen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2265,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn aus der Fassung bringen.",
+   "has_file": true,
+   "file": "mp3/39cc1c709e8f.mp3",
+   "uses": [
+    "wortschatz:w69"
+   ],
+   "spoken": "jemanden aus der Fassung bringen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2269,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn von oben herab betrachten.",
+   "has_file": true,
+   "file": "mp3/86b01e6ca576.mp3",
+   "uses": [
+    "wortschatz:w73"
+   ],
+   "spoken": "jemanden von oben herab betrachten.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2273,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf jdn herabschauen.",
+   "has_file": true,
+   "file": "mp3/00b426d1af46.mp3",
+   "uses": [
+    "wortschatz:w77"
+   ],
+   "spoken": "auf jemanden herabschauen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2280,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "zweifeln an + D.",
+   "has_file": true,
+   "file": "mp3/de482c3de39a.mp3",
+   "uses": [
+    "wortschatz:w86"
+   ],
+   "spoken": "zweifeln an plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false,
+   "asr": {
+    "enable": false,
+    "heard": "Zweifeln an plus Deg.",
+    "reason": "„D.“ bị đọc „Deg“"
+   }
+  },
+  {
+   "n": 2293,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "etw. in Erinnerung rufen.",
+   "has_file": true,
+   "file": "mp3/caf5a135ba5c.mp3",
+   "uses": [
+    "wortschatz:w99"
+   ],
+   "spoken": "etwas in Erinnerung rufen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 2647,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Als ich klein war, …",
+   "has_file": true,
+   "file": "mp3/66789c65c51f.mp3",
+   "uses": [
+    "cluster-e-satz-operationen:e9"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Als ich klein war, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 2845,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Die Frau, deren Kind krank ist…",
+   "has_file": true,
+   "file": "mp3/2415da92dba9.mp3",
+   "uses": [
+    "cluster-e-satz-operationen:e38"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Die Frau, deren Kind krank ist <break time=\"0.7s\" />"
+  },
+  {
+   "n": 2847,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, desto besser spreche ich.",
+   "has_file": true,
+   "file": "mp3/24c64d588730.mp3",
+   "uses": [
+    "cluster-e-satz-operationen:e40"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , desto besser spreche ich."
+  },
+  {
+   "n": 3077,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich verstehe dich schon, aber …",
+   "has_file": true,
+   "file": "mp3/b188ba6ed473.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:ysce20",
+    "cluster-f-modalpartikeln:ysct16"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich verstehe dich schon, aber <break time=\"0.7s\" />"
+  },
+  {
+   "n": 3102,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Wo ist bloß/denn das Problem?",
+   "has_file": true,
+   "file": "mp3/f58381a0406a.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:yree5"
+   ],
+   "spoken": "Wo ist bloß, oder, denn das Problem?",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3133,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "— „Ja/Genau, in Köln.“.",
+   "has_file": true,
+   "file": "mp3/3b857e475b82.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:yane16"
+   ],
+   "spoken": "Ja, oder, Genau, in Köln.",
+   "status": "manual",
+   "review": true,
+   "note": "hai câu trả lời thay thế; dấu — và ngoặc bỏ"
+  },
+  {
+   "n": 3149,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, Ihr Angebot ist äußerst interessant.",
+   "has_file": true,
+   "file": "mp3/05e5b199418a.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:ygre11"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , Ihr Angebot ist äußerst interessant."
+  },
+  {
+   "n": 3173,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Dann fahren wir eben/halt mit dem Bus.",
+   "has_file": true,
+   "file": "mp3/f2a96091bc4f.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:yfke17"
+   ],
+   "spoken": "Dann fahren wir eben, oder, halt mit dem Bus.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3178,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich wollte eigentlich heute kommen, aber …",
+   "has_file": true,
+   "file": "mp3/0b92ec3f1f27.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:yfke23"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich wollte eigentlich heute kommen, aber <break time=\"0.7s\" />"
+  },
+  {
+   "n": 3179,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Du hättest ruhig/ja anrufen können!",
+   "has_file": true,
+   "file": "mp3/f6918b9a4b7a.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:yfke25"
+   ],
+   "spoken": "Du hättest ruhig, oder, ja anrufen können!",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3182,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Das kostet ja/aber viel!",
+   "has_file": true,
+   "file": "mp3/687efe12b8a9.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:yfke28"
+   ],
+   "spoken": "Das kostet ja, oder, aber viel!",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3236,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Ich habe doch/eben keine Zeit.",
+   "has_file": true,
+   "file": "mp3/5c14cd8139f6.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:p23",
+    "mix-review:371"
+   ],
+   "spoken": "Ich habe doch, oder, eben keine Zeit.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3315,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, das ist äußerst wichtig.",
+   "has_file": true,
+   "file": "mp3/5cf714c7bcc0.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:ppgr31"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , das ist äußerst wichtig."
+  },
+  {
+   "n": 3323,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Was ist bloß/denn passiert?",
+   "has_file": true,
+   "file": "mp3/418c22491eb5.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:ppfk33"
+   ],
+   "spoken": "Was ist bloß, oder, denn passiert?",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3324,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Das ist halt/eben so, …",
+   "has_file": true,
+   "file": "mp3/5f90a5d884a0.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:ppfk34"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Das ist halt/eben so, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 3325,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Wenn er nur/doch anrufen würde!",
+   "has_file": true,
+   "file": "mp3/1fd2e505c71d.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:ppfk35"
+   ],
+   "spoken": "Wenn er nur, oder, doch anrufen würde!",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3326,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Das ist aber/ja teuer!",
+   "has_file": true,
+   "file": "mp3/b7dbbb7d204f.mp3",
+   "uses": [
+    "cluster-f-modalpartikeln:ppfk36"
+   ],
+   "spoken": "Das ist aber, oder, ja teuer!",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3771,
+   "cat": "1_loi_noi_dung",
+   "display": "Ich ist gelungen.",
+   "has_file": true,
+   "file": "mp3/ac226b90d2fa.mp3",
+   "uses": [
+    "unregelmaessige-verben:hse25"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "lỗi nội dung nguồn — sửa nguồn trước"
+  },
+  {
+   "n": 3772,
+   "cat": "1_loi_noi_dung",
+   "display": "Ich ist passiert.",
+   "has_file": true,
+   "file": "mp3/030921735afa.mp3",
+   "uses": [
+    "unregelmaessige-verben:hse26"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "lỗi nội dung nguồn — sửa nguồn trước"
+  },
+  {
+   "n": 3860,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … gehen.",
+   "has_file": true,
+   "file": "mp3/539f65112b75.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex1"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> gehen."
+  },
+  {
+   "n": 3861,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … fahren.",
+   "has_file": true,
+   "file": "mp3/24a91dfa4e19.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex2"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> fahren."
+  },
+  {
+   "n": 3862,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … kommen.",
+   "has_file": true,
+   "file": "mp3/50a7e300df29.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex3"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> kommen."
+  },
+  {
+   "n": 3863,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … fliegen.",
+   "has_file": true,
+   "file": "mp3/119bbc754ab8.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex4"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> fliegen."
+  },
+  {
+   "n": 3864,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … laufen.",
+   "has_file": true,
+   "file": "mp3/efbb3a5fa7ad.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex5"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> laufen."
+  },
+  {
+   "n": 3865,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … reisen.",
+   "has_file": true,
+   "file": "mp3/0a4f00911430.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex6"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> reisen."
+  },
+  {
+   "n": 3866,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … fallen.",
+   "has_file": true,
+   "file": "mp3/53f1bd325e75.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex7"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> fallen."
+  },
+  {
+   "n": 3867,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … aufstehen.",
+   "has_file": true,
+   "file": "mp3/5cfcddb5868b.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex8"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> aufstehen."
+  },
+  {
+   "n": 3868,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … einschlafen.",
+   "has_file": true,
+   "file": "mp3/3b605e9441c9.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex9"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> einschlafen."
+  },
+  {
+   "n": 3869,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … sterben.",
+   "has_file": true,
+   "file": "mp3/cd425f34a2da.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex10"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> sterben."
+  },
+  {
+   "n": 3870,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … wachsen.",
+   "has_file": true,
+   "file": "mp3/5ba3ea3588fd.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex11"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> wachsen."
+  },
+  {
+   "n": 3871,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … werden.",
+   "has_file": true,
+   "file": "mp3/1ae319d8315f.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex12"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> werden."
+  },
+  {
+   "n": 3872,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … bleiben.",
+   "has_file": true,
+   "file": "mp3/40dcd82bec35.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex13"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> bleiben."
+  },
+  {
+   "n": 3873,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … passieren.",
+   "has_file": true,
+   "file": "mp3/49feee8827ee.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex14"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> passieren."
+  },
+  {
+   "n": 3874,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … geschehen.",
+   "has_file": true,
+   "file": "mp3/4c052500c002.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex15"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> geschehen."
+  },
+  {
+   "n": 3875,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin … gelingen.",
+   "has_file": true,
+   "file": "mp3/195fbc79e40d.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex16"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" /> gelingen."
+  },
+  {
+   "n": 3876,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich habe … sehen.",
+   "has_file": true,
+   "file": "mp3/da4694819399.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex17"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich habe <break time=\"0.7s\" /> sehen."
+  },
+  {
+   "n": 3877,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich habe … lesen.",
+   "has_file": true,
+   "file": "mp3/14f7170a9d6e.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex18"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich habe <break time=\"0.7s\" /> lesen."
+  },
+  {
+   "n": 3878,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich habe … essen.",
+   "has_file": true,
+   "file": "mp3/156576a20294.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex19"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich habe <break time=\"0.7s\" /> essen."
+  },
+  {
+   "n": 3879,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich habe … trinken.",
+   "has_file": true,
+   "file": "mp3/dafb3e770277.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex20"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich habe <break time=\"0.7s\" /> trinken."
+  },
+  {
+   "n": 3880,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich habe … kaufen.",
+   "has_file": true,
+   "file": "mp3/9128e7822932.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex21"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich habe <break time=\"0.7s\" /> kaufen."
+  },
+  {
+   "n": 3881,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich habe … schreiben.",
+   "has_file": true,
+   "file": "mp3/81d03e5ecdf8.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex22"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich habe <break time=\"0.7s\" /> schreiben."
+  },
+  {
+   "n": 3882,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich habe … sich freuen.",
+   "has_file": true,
+   "file": "mp3/057a5826833e.mp3",
+   "uses": [
+    "unregelmaessige-verben:hsex23"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich habe <break time=\"0.7s\" /> sich freuen."
+  },
+  {
+   "n": 3899,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "total verknallt in + Akk.",
+   "has_file": true,
+   "file": "mp3/eea5edf7e24a.mp3",
+   "uses": [
+    "wortschatz:lie3"
+   ],
+   "spoken": "total verknallt in plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3901,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Abscheu empfinden gegenüber + D.",
+   "has_file": true,
+   "file": "mp3/f23dd37dc8ff.mp3",
+   "uses": [
+    "wortschatz:hae2"
+   ],
+   "spoken": "Abscheu empfinden gegenüber plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3922,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich den Kopf über etw. zerbrechen.",
+   "has_file": true,
+   "file": "mp3/5b8dee36cbc1.mp3",
+   "uses": [
+    "wortschatz:use3"
+   ],
+   "spoken": "sich den Kopf über etwas zerbrechen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3926,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Erbe ≠ Tradition.",
+   "has_file": true,
+   "file": "mp3/853fed21d15d.mp3",
+   "uses": [
+    "wortschatz:kue4"
+   ],
+   "spoken": "Erbe ist nicht gleich Tradition.",
+   "status": "hold",
+   "review": true,
+   "note": "„≠“ → „ist nicht gleich“: thêm từ không có trong nguồn, cần James duyệt"
+  },
+  {
+   "n": 3928,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "verliebt sein in jdn.",
+   "has_file": true,
+   "file": "mp3/e8f2b0e90c13.mp3",
+   "uses": [
+    "wortschatz:lie6"
+   ],
+   "spoken": "verliebt sein in jemanden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3930,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Sehnsucht nach jdm haben.",
+   "has_file": true,
+   "file": "mp3/0260fd886ebd.mp3",
+   "uses": [
+    "wortschatz:lie8"
+   ],
+   "spoken": "Sehnsucht nach jemandem haben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3932,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "begeistert von jdm sein.",
+   "has_file": true,
+   "file": "mp3/edbbda628387.mp3",
+   "uses": [
+    "wortschatz:lie10"
+   ],
+   "spoken": "begeistert von jemandem sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3933,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "vernarrt in jdn sein.",
+   "has_file": true,
+   "file": "mp3/4f942fd4ed00.mp3",
+   "uses": [
+    "wortschatz:lie11"
+   ],
+   "spoken": "vernarrt in jemanden sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3934,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich zu jdm hingezogen fühlen.",
+   "has_file": true,
+   "file": "mp3/abc445be942c.mp3",
+   "uses": [
+    "wortschatz:lie12"
+   ],
+   "spoken": "sich zu jemandem hingezogen fühlen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3935,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm treu sein/bleiben.",
+   "has_file": true,
+   "file": "mp3/60429c204415.mp3",
+   "uses": [
+    "wortschatz:lie13"
+   ],
+   "spoken": "jemandem treu sein, oder, jemandem treu bleiben.",
+   "status": "manual",
+   "review": true,
+   "note": "đọc trọn từng vế"
+  },
+  {
+   "n": 3936,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "in jdn verliebt sein.",
+   "has_file": true,
+   "file": "mp3/398d269e9c38.mp3",
+   "uses": [
+    "wortschatz:lie14"
+   ],
+   "spoken": "in jemanden verliebt sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3937,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn ins Herz schließen.",
+   "has_file": true,
+   "file": "mp3/3926b2341ae2.mp3",
+   "uses": [
+    "wortschatz:lie15"
+   ],
+   "spoken": "jemanden ins Herz schließen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3938,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm den Kopf verdrehen.",
+   "has_file": true,
+   "file": "mp3/307b867468f1.mp3",
+   "uses": [
+    "wortschatz:lie16"
+   ],
+   "spoken": "jemandem den Kopf verdrehen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3940,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn auf Händen tragen.",
+   "has_file": true,
+   "file": "mp3/f18585c082b2.mp3",
+   "uses": [
+    "wortschatz:lie18"
+   ],
+   "spoken": "jemanden auf Händen tragen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3945,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "mit jdm liiert sein.",
+   "has_file": true,
+   "file": "mp3/bed6833cb0a6.mp3",
+   "uses": [
+    "wortschatz:lie23"
+   ],
+   "spoken": "mit jemandem liiert sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3946,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "eine Beziehung zu/mit jdm haben.",
+   "has_file": true,
+   "file": "mp3/47bc6a2e98bc.mp3",
+   "uses": [
+    "wortschatz:lie24"
+   ],
+   "spoken": "eine Beziehung zu jemandem, oder, mit jemandem haben.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3949,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm untreu werden/sein.",
+   "has_file": true,
+   "file": "mp3/c75fafdc3592.mp3",
+   "uses": [
+    "wortschatz:lie27"
+   ],
+   "spoken": "jemandem untreu werden, oder, jemandem untreu sein.",
+   "status": "manual",
+   "review": true,
+   "note": "đọc trọn từng vế"
+  },
+  {
+   "n": 3950,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Gefühle für jdn haben.",
+   "has_file": true,
+   "file": "mp3/e26c0c95e20c.mp3",
+   "uses": [
+    "wortschatz:lie28"
+   ],
+   "spoken": "Gefühle für jemanden haben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3953,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Hass empfinden gegen jdn.",
+   "has_file": true,
+   "file": "mp3/f21b96be7bcf.mp3",
+   "uses": [
+    "wortschatz:hae4"
+   ],
+   "spoken": "Hass empfinden gegen jemanden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3955,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn verabscheuen.",
+   "has_file": true,
+   "file": "mp3/9fce8ade923d.mp3",
+   "uses": [
+    "wortschatz:hae6"
+   ],
+   "spoken": "jemanden verabscheuen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3956,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Abneigung gegen/gegenüber jdm haben.",
+   "has_file": true,
+   "file": "mp3/d7bdf0459229.mp3",
+   "uses": [
+    "wortschatz:hae7"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "nguồn: „gegen/gegenüber jdm“ — gegen đi với Akkusativ (jdn); sửa nguồn trước khi tạo"
+  },
+  {
+   "n": 3957,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn nicht ausstehen können.",
+   "has_file": true,
+   "file": "mp3/f6bff0016f7c.mp3",
+   "uses": [
+    "wortschatz:hae8"
+   ],
+   "spoken": "jemanden nicht ausstehen können.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3958,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn nicht leiden können/mögen.",
+   "has_file": true,
+   "file": "mp3/c327a4fa9de7.mp3",
+   "uses": [
+    "wortschatz:hae9"
+   ],
+   "spoken": "jemanden nicht leiden können, oder, jemanden nicht mögen.",
+   "status": "manual",
+   "review": true,
+   "note": "đọc trọn từng vế"
+  },
+  {
+   "n": 3960,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "feindselig gegenüber jdm sein.",
+   "has_file": true,
+   "file": "mp3/a55638e44e6b.mp3",
+   "uses": [
+    "wortschatz:hae11"
+   ],
+   "spoken": "feindselig gegenüber jemandem sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3961,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf jdn böse sein wegen etw.",
+   "has_file": true,
+   "file": "mp3/f52c57ccd8a8.mp3",
+   "uses": [
+    "wortschatz:hae12"
+   ],
+   "spoken": "auf jemanden böse sein wegen etwas.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3962,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn hassen wie die Pest.",
+   "has_file": true,
+   "file": "mp3/0ed53f39bee4.mp3",
+   "uses": [
+    "wortschatz:hae13"
+   ],
+   "spoken": "jemanden hassen wie die Pest.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3963,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm den Tod an den Hals wünschen.",
+   "has_file": true,
+   "file": "mp3/b9d75f4a8b2a.mp3",
+   "uses": [
+    "wortschatz:hae14"
+   ],
+   "spoken": "jemandem den Tod an den Hals wünschen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3964,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn nicht riechen können.",
+   "has_file": true,
+   "file": "mp3/8662c988b06e.mp3",
+   "uses": [
+    "wortschatz:hae15"
+   ],
+   "spoken": "jemanden nicht riechen können.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3965,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "einen Groll gegen jdn hegen.",
+   "has_file": true,
+   "file": "mp3/1a6b084c17b3.mp3",
+   "uses": [
+    "wortschatz:hae16"
+   ],
+   "spoken": "einen Groll gegen jemanden hegen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3966,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf dem Kriegsfuß mit jdm stehen/leben.",
+   "has_file": true,
+   "file": "mp3/c50419266405.mp3",
+   "uses": [
+    "wortschatz:hae17"
+   ],
+   "spoken": "auf dem Kriegsfuß mit jemandem stehen, oder, auf dem Kriegsfuß mit jemandem leben.",
+   "status": "manual",
+   "review": true,
+   "note": "đọc trọn từng vế"
+  },
+  {
+   "n": 3967,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm etwas nachtragen.",
+   "has_file": true,
+   "file": "mp3/27400e145da3.mp3",
+   "uses": [
+    "wortschatz:hae18"
+   ],
+   "spoken": "jemandem etwas nachtragen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3968,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "verfeindet mit jdm sein.",
+   "has_file": true,
+   "file": "mp3/426d8545cbb5.mp3",
+   "uses": [
+    "wortschatz:hae19"
+   ],
+   "spoken": "verfeindet mit jemandem sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3971,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Verachtung empfinden für/gegenüber jdn.",
+   "has_file": true,
+   "file": "mp3/6dbd093e1eeb.mp3",
+   "uses": [
+    "wortschatz:hae22"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "nguồn: „empfinden für/gegenüber jdn“ — gegenüber đi với Dativ (jdm); sửa nguồn trước khi tạo"
+  },
+  {
+   "n": 3973,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Rachegefühle gegen jdn hegen.",
+   "has_file": true,
+   "file": "mp3/0eb1408373d6.mp3",
+   "uses": [
+    "wortschatz:hae24"
+   ],
+   "spoken": "Rachegefühle gegen jemanden hegen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3975,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm die Freundschaft kündigen.",
+   "has_file": true,
+   "file": "mp3/cfbd9cd06920.mp3",
+   "uses": [
+    "wortschatz:hae26"
+   ],
+   "spoken": "jemandem die Freundschaft kündigen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3977,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn wie die Pest meiden.",
+   "has_file": true,
+   "file": "mp3/51238f1a44ba.mp3",
+   "uses": [
+    "wortschatz:hae28"
+   ],
+   "spoken": "jemanden wie die Pest meiden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3978,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn bis aufs Blut hassen.",
+   "has_file": true,
+   "file": "mp3/d291228d52cd.mp3",
+   "uses": [
+    "wortschatz:hae29"
+   ],
+   "spoken": "jemanden bis aufs Blut hassen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3981,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich vor etw. ängstigen.",
+   "has_file": true,
+   "file": "mp3/fd486b500639.mp3",
+   "uses": [
+    "wortschatz:ane5"
+   ],
+   "spoken": "sich vor etwas ängstigen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3982,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "vor/über etw. erschrecken.",
+   "has_file": true,
+   "file": "mp3/261a93a35e48.mp3",
+   "uses": [
+    "wortschatz:ane6"
+   ],
+   "spoken": "vor etwas, oder, über etwas erschrecken.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3986,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "panisch wegen etw. sein.",
+   "has_file": true,
+   "file": "mp3/2e9e43454ef2.mp3",
+   "uses": [
+    "wortschatz:ane10"
+   ],
+   "spoken": "panisch wegen etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3990,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "aus Angst etw. tun.",
+   "has_file": true,
+   "file": "mp3/d31ffd40a2a2.mp3",
+   "uses": [
+    "wortschatz:ane14"
+   ],
+   "spoken": "aus Angst etwas tun.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3991,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm eine Heidenangst einjagen/machen.",
+   "has_file": true,
+   "file": "mp3/1058a9709cf0.mp3",
+   "uses": [
+    "wortschatz:ane15"
+   ],
+   "spoken": "jemandem eine Heidenangst einjagen, oder, jemandem eine Heidenangst machen.",
+   "status": "manual",
+   "review": true,
+   "note": "đọc trọn từng vế"
+  },
+  {
+   "n": 3993,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm Angst und Bange werden.",
+   "has_file": true,
+   "file": "mp3/a3f955ebef18.mp3",
+   "uses": [
+    "wortschatz:ane17"
+   ],
+   "spoken": "jemandem Angst und Bange werden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3994,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "einen Bammel vor etw. haben.",
+   "has_file": true,
+   "file": "mp3/41846823665c.mp3",
+   "uses": [
+    "wortschatz:ane18"
+   ],
+   "spoken": "einen Bammel vor etwas haben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 3995,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "weiche Knie vor/bei Angst bekommen.",
+   "has_file": true,
+   "file": "mp3/37f289e404e7.mp3",
+   "uses": [
+    "wortschatz:ane19"
+   ],
+   "spoken": "weiche Knie vor Angst, oder, bei Angst bekommen.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 3998,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Herzklopfen vor etw. haben.",
+   "has_file": true,
+   "file": "mp3/3e2ecae0e316.mp3",
+   "uses": [
+    "wortschatz:ane22"
+   ],
+   "spoken": "Herzklopfen vor etwas haben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4000,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "verängstigt wegen/von etw. sein.",
+   "has_file": true,
+   "file": "mp3/2dce7c4bd56c.mp3",
+   "uses": [
+    "wortschatz:ane24"
+   ],
+   "spoken": "verängstigt wegen etwas, oder, von etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4003,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "mutlos wegen etw. sein.",
+   "has_file": true,
+   "file": "mp3/92a588660286.mp3",
+   "uses": [
+    "wortschatz:ane27"
+   ],
+   "spoken": "mutlos wegen etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4004,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm graut es vor etw.",
+   "has_file": true,
+   "file": "mp3/e494ce86a054.mp3",
+   "uses": [
+    "wortschatz:ane28"
+   ],
+   "spoken": "jemandem graut es vor etwas.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4006,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich fürchterlich vor etw. fürchten.",
+   "has_file": true,
+   "file": "mp3/922661139123.mp3",
+   "uses": [
+    "wortschatz:ane30"
+   ],
+   "spoken": "sich fürchterlich vor etwas fürchten.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4007,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "wütend auf/über jdn/etw.",
+   "has_file": true,
+   "file": "mp3/17ff96fad98e.mp3",
+   "uses": [
+    "wortschatz:wue4"
+   ],
+   "spoken": "wütend auf jemanden oder etwas, oder, über jemanden oder etwas.",
+   "status": "manual",
+   "review": true,
+   "note": "hai tầng lựa chọn (giới từ × jdn/etw.): „oder“ trong cụm giữ liền, „, oder,“ giữa hai vế"
+  },
+  {
+   "n": 4010,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "empört über etw. sein.",
+   "has_file": true,
+   "file": "mp3/3fc5af63583c.mp3",
+   "uses": [
+    "wortschatz:wue7"
+   ],
+   "spoken": "empört über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4011,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich über etw. aufregen.",
+   "has_file": true,
+   "file": "mp3/9fcd94f9d37f.mp3",
+   "uses": [
+    "wortschatz:wue8"
+   ],
+   "spoken": "sich über etwas aufregen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4019,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn auf die Palme bringen.",
+   "has_file": true,
+   "file": "mp3/0ff6c0334599.mp3",
+   "uses": [
+    "wortschatz:wue17"
+   ],
+   "spoken": "jemanden auf die Palme bringen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4021,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm platzt der Kragen.",
+   "has_file": true,
+   "file": "mp3/3214165406d2.mp3",
+   "uses": [
+    "wortschatz:wue19"
+   ],
+   "spoken": "jemandem platzt der Kragen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4023,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm die Zornesröte ins Gesicht treiben.",
+   "has_file": true,
+   "file": "mp3/3513bc4968b7.mp3",
+   "uses": [
+    "wortschatz:wue21"
+   ],
+   "spoken": "jemandem die Zornesröte ins Gesicht treiben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4024,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "wutentbrannt über etw. sein.",
+   "has_file": true,
+   "file": "mp3/d8b48a9d41d2.mp3",
+   "uses": [
+    "wortschatz:wue22"
+   ],
+   "spoken": "wutentbrannt über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4026,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm den letzten Nerv rauben.",
+   "has_file": true,
+   "file": "mp3/e96ab7c5e5c2.mp3",
+   "uses": [
+    "wortschatz:wue25"
+   ],
+   "spoken": "jemandem den letzten Nerv rauben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4031,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich schwarzärgern über etw.",
+   "has_file": true,
+   "file": "mp3/e10c12c7f952.mp3",
+   "uses": [
+    "wortschatz:wue30"
+   ],
+   "spoken": "sich schwarzärgern über etwas.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4032,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "betrübt über etw. sein.",
+   "has_file": true,
+   "file": "mp3/e4a383e017f6.mp3",
+   "uses": [
+    "wortschatz:tre4"
+   ],
+   "spoken": "betrübt über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4034,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "um jdn/etw. weinen.",
+   "has_file": true,
+   "file": "mp3/85874a134fa7.mp3",
+   "uses": [
+    "wortschatz:tre6"
+   ],
+   "spoken": "um jemanden, oder, um etwas weinen.",
+   "status": "manual",
+   "review": true,
+   "note": "lặp giới từ „um“ để không tách giới từ khỏi bổ ngữ"
+  },
+  {
+   "n": 4036,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich um/über jdn grämen.",
+   "has_file": true,
+   "file": "mp3/34e54fd6ed86.mp3",
+   "uses": [
+    "wortschatz:tre8"
+   ],
+   "spoken": "sich um jemanden, oder, über jemanden grämen.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4037,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "betroffen von etw. sein.",
+   "has_file": true,
+   "file": "mp3/664dcc405537.mp3",
+   "uses": [
+    "wortschatz:tre9"
+   ],
+   "spoken": "betroffen von etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4038,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "erschüttert von/über etw. sein.",
+   "has_file": true,
+   "file": "mp3/d6ed4b02429c.mp3",
+   "uses": [
+    "wortschatz:tre10"
+   ],
+   "spoken": "erschüttert von etwas, oder, über etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4039,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "verzweifelt über/an etw. sein.",
+   "has_file": true,
+   "file": "mp3/a53317e557b9.mp3",
+   "uses": [
+    "wortschatz:tre11"
+   ],
+   "spoken": "verzweifelt über etwas, oder, an etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4048,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "todunglücklich über etw. sein.",
+   "has_file": true,
+   "file": "mp3/b97d7cd5065e.mp3",
+   "uses": [
+    "wortschatz:tre20"
+   ],
+   "spoken": "todunglücklich über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4049,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "trostlos wegen etw. sein.",
+   "has_file": true,
+   "file": "mp3/e6578a86a627.mp3",
+   "uses": [
+    "wortschatz:tre21"
+   ],
+   "spoken": "trostlos wegen etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4050,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm das Herz schwer machen.",
+   "has_file": true,
+   "file": "mp3/8cc393c605ad.mp3",
+   "uses": [
+    "wortschatz:tre22"
+   ],
+   "spoken": "jemandem das Herz schwer machen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4051,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Trauer um jdn tragen.",
+   "has_file": true,
+   "file": "mp3/dd16948ae9a4.mp3",
+   "uses": [
+    "wortschatz:tre23"
+   ],
+   "spoken": "Trauer um jemanden tragen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4052,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich wegen etw. niedergeschlagen fühlen.",
+   "has_file": true,
+   "file": "mp3/e6846f0b8aaf.mp3",
+   "uses": [
+    "wortschatz:tre24"
+   ],
+   "spoken": "sich wegen etwas niedergeschlagen fühlen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4056,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich von jdm verabschieden.",
+   "has_file": true,
+   "file": "mp3/54f606284ca3.mp3",
+   "uses": [
+    "wortschatz:tre28"
+   ],
+   "spoken": "sich von jemandem verabschieden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4058,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "bekümmert über etw. sein.",
+   "has_file": true,
+   "file": "mp3/53d1420ea932.mp3",
+   "uses": [
+    "wortschatz:tre30"
+   ],
+   "spoken": "bekümmert über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4060,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "glücklich über etw. sein.",
+   "has_file": true,
+   "file": "mp3/8309b70b6148.mp3",
+   "uses": [
+    "wortschatz:fre5"
+   ],
+   "spoken": "glücklich über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4063,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "begeistert von etw. sein.",
+   "has_file": true,
+   "file": "mp3/6293ae20edb4.mp3",
+   "uses": [
+    "wortschatz:fre8"
+   ],
+   "spoken": "begeistert von etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4064,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "erfreut über etw. sein.",
+   "has_file": true,
+   "file": "mp3/5db8ca9ce4f3.mp3",
+   "uses": [
+    "wortschatz:fre9"
+   ],
+   "spoken": "erfreut über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4067,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "hocherfreut über etw. sein.",
+   "has_file": true,
+   "file": "mp3/3d3e7dc72fb6.mp3",
+   "uses": [
+    "wortschatz:fre12"
+   ],
+   "spoken": "hocherfreut über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4068,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "überglücklich über etw. sein.",
+   "has_file": true,
+   "file": "mp3/3d4f38e0ba5c.mp3",
+   "uses": [
+    "wortschatz:fre13"
+   ],
+   "spoken": "überglücklich über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4070,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf Wolke sieben schweben/sein.",
+   "has_file": true,
+   "file": "mp3/3970c72b670a.mp3",
+   "uses": [
+    "wortschatz:fre15"
+   ],
+   "spoken": "auf Wolke sieben schweben, oder, auf Wolke sieben sein.",
+   "status": "manual",
+   "review": true,
+   "note": "đọc trọn từng vế"
+  },
+  {
+   "n": 4073,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "über etw. jubeln.",
+   "has_file": true,
+   "file": "mp3/78402f49dcb2.mp3",
+   "uses": [
+    "wortschatz:fre18"
+   ],
+   "spoken": "über etwas jubeln.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4079,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich diebisch über etw. freuen.",
+   "has_file": true,
+   "file": "mp3/1f361a9275df.mp3",
+   "uses": [
+    "wortschatz:fre24"
+   ],
+   "spoken": "sich diebisch über etwas freuen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4083,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "beglückt über/von etw. sein.",
+   "has_file": true,
+   "file": "mp3/020c563ee83c.mp3",
+   "uses": [
+    "wortschatz:fre28"
+   ],
+   "spoken": "beglückt über etwas, oder, von etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4084,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm ein Lächeln ins Gesicht zaubern.",
+   "has_file": true,
+   "file": "mp3/5dee7bd18a37.mp3",
+   "uses": [
+    "wortschatz:fre29"
+   ],
+   "spoken": "jemandem ein Lächeln ins Gesicht zaubern.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4085,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "über etw. frohlocken.",
+   "has_file": true,
+   "file": "mp3/d68998c1f076.mp3",
+   "uses": [
+    "wortschatz:fre30"
+   ],
+   "spoken": "über etwas frohlocken.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4086,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "überrascht von/über etw. sein.",
+   "has_file": true,
+   "file": "mp3/8400ffcb227a.mp3",
+   "uses": [
+    "wortschatz:ube5"
+   ],
+   "spoken": "überrascht von etwas, oder, über etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4087,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "verblüfft über etw. sein.",
+   "has_file": true,
+   "file": "mp3/29fd8810cda9.mp3",
+   "uses": [
+    "wortschatz:ube6"
+   ],
+   "spoken": "verblüfft über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4088,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sprachlos über etw. sein.",
+   "has_file": true,
+   "file": "mp3/4c4843a0f09d.mp3",
+   "uses": [
+    "wortschatz:ube7"
+   ],
+   "spoken": "sprachlos über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4089,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "verwundert über etw. sein.",
+   "has_file": true,
+   "file": "mp3/b89c507164c3.mp3",
+   "uses": [
+    "wortschatz:ube8"
+   ],
+   "spoken": "verwundert über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4090,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "fassungslos über etw. sein.",
+   "has_file": true,
+   "file": "mp3/7a383277e4f2.mp3",
+   "uses": [
+    "wortschatz:ube9"
+   ],
+   "spoken": "fassungslos über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4092,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "über etw. staunen.",
+   "has_file": true,
+   "file": "mp3/02b186d024bb.mp3",
+   "uses": [
+    "wortschatz:ube11"
+   ],
+   "spoken": "über etwas staunen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4093,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm steht der Mund offen.",
+   "has_file": true,
+   "file": "mp3/b2673ecf3b94.mp3",
+   "uses": [
+    "wortschatz:ube12"
+   ],
+   "spoken": "jemandem steht der Mund offen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4099,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm bleibt die Sprache weg.",
+   "has_file": true,
+   "file": "mp3/5c7a9b128b3b.mp3",
+   "uses": [
+    "wortschatz:ube19"
+   ],
+   "spoken": "jemandem bleibt die Sprache weg.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4105,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm eine Überraschung bereiten.",
+   "has_file": true,
+   "file": "mp3/124b34176be5.mp3",
+   "uses": [
+    "wortschatz:ube25"
+   ],
+   "spoken": "jemandem eine Überraschung bereiten.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4107,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "perplex über etw. sein.",
+   "has_file": true,
+   "file": "mp3/f8a15b9379d6.mp3",
+   "uses": [
+    "wortschatz:ube27"
+   ],
+   "spoken": "perplex über etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4108,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "irritiert von/über etw. sein.",
+   "has_file": true,
+   "file": "mp3/b423477ddb20.mp3",
+   "uses": [
+    "wortschatz:ube28"
+   ],
+   "spoken": "irritiert von etwas, oder, über etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4109,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm fällt die Kinnlade herunter.",
+   "has_file": true,
+   "file": "mp3/829b4d27856d.mp3",
+   "uses": [
+    "wortschatz:ube29"
+   ],
+   "spoken": "jemandem fällt die Kinnlade herunter.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4110,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn auf dem falschen Fuß erwischen.",
+   "has_file": true,
+   "file": "mp3/072600d394dc.mp3",
+   "uses": [
+    "wortschatz:ube30"
+   ],
+   "spoken": "jemanden auf dem falschen Fuß erwischen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4111,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "arrogant gegenüber jdm sein.",
+   "has_file": true,
+   "file": "mp3/68d8f106e9ea.mp3",
+   "uses": [
+    "wortschatz:uhe5"
+   ],
+   "spoken": "arrogant gegenüber jemandem sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4112,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "überheblich gegenüber jdm sein.",
+   "has_file": true,
+   "file": "mp3/fc24963d24e0.mp3",
+   "uses": [
+    "wortschatz:uhe6"
+   ],
+   "spoken": "überheblich gegenüber jemandem sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4113,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf jdn herabsehen.",
+   "has_file": true,
+   "file": "mp3/76a9de7a1475.mp3",
+   "uses": [
+    "wortschatz:uhe7"
+   ],
+   "spoken": "auf jemanden herabsehen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4114,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich für etw. halten.",
+   "has_file": true,
+   "file": "mp3/d25af320d247.mp3",
+   "uses": [
+    "wortschatz:uhe8"
+   ],
+   "spoken": "sich für etwas halten.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4115,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "eingebildet auf etw. sein.",
+   "has_file": true,
+   "file": "mp3/2cdf416847b8.mp3",
+   "uses": [
+    "wortschatz:uhe9"
+   ],
+   "spoken": "eingebildet auf etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4116,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich mit etw. brüsten.",
+   "has_file": true,
+   "file": "mp3/5ac8e564ee87.mp3",
+   "uses": [
+    "wortschatz:uhe10"
+   ],
+   "spoken": "sich mit etwas brüsten.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4121,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich auf etw. einbilden.",
+   "has_file": true,
+   "file": "mp3/03ff2bbc7537.mp3",
+   "uses": [
+    "wortschatz:uhe15"
+   ],
+   "spoken": "sich auf etwas einbilden.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4122,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "herablassend zu/gegenüber jdm sein.",
+   "has_file": true,
+   "file": "mp3/7290151864a6.mp3",
+   "uses": [
+    "wortschatz:uhe16"
+   ],
+   "spoken": "herablassend zu jemandem, oder, gegenüber jemandem sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4126,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf jdn herabblicken.",
+   "has_file": true,
+   "file": "mp3/8f44c43b8e7f.mp3",
+   "uses": [
+    "wortschatz:uhe20"
+   ],
+   "spoken": "auf jemanden herabblicken.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4128,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "eitel auf etw. sein.",
+   "has_file": true,
+   "file": "mp3/758440019311.mp3",
+   "uses": [
+    "wortschatz:uhe22"
+   ],
+   "spoken": "eitel auf etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4129,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "dünkelhaft gegenüber jdm sein.",
+   "has_file": true,
+   "file": "mp3/1408bfd2765b.mp3",
+   "uses": [
+    "wortschatz:uhe23"
+   ],
+   "spoken": "dünkelhaft gegenüber jemandem sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4131,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich über jdn erheben.",
+   "has_file": true,
+   "file": "mp3/2e87e7a23e30.mp3",
+   "uses": [
+    "wortschatz:uhe25"
+   ],
+   "spoken": "sich über jemanden erheben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4132,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn von oben herab behandeln.",
+   "has_file": true,
+   "file": "mp3/52c20d2a9efd.mp3",
+   "uses": [
+    "wortschatz:uhe26"
+   ],
+   "spoken": "jemanden von oben herab behandeln.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4134,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich als etw. Besseres fühlen.",
+   "has_file": true,
+   "file": "mp3/a4e36e7e139a.mp3",
+   "uses": [
+    "wortschatz:uhe28"
+   ],
+   "spoken": "sich als etwas Besseres fühlen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4136,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "hochnäsig gegenüber jdm sein.",
+   "has_file": true,
+   "file": "mp3/46778fd398dc.mp3",
+   "uses": [
+    "wortschatz:uhe30"
+   ],
+   "spoken": "hochnäsig gegenüber jemandem sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4137,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "an etw. zweifeln.",
+   "has_file": true,
+   "file": "mp3/4dbd498455de.mp3",
+   "uses": [
+    "wortschatz:use4"
+   ],
+   "spoken": "an etwas zweifeln.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4138,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "unsicher in/bei etw. sein.",
+   "has_file": true,
+   "file": "mp3/79e8d19162b0.mp3",
+   "uses": [
+    "wortschatz:use5"
+   ],
+   "spoken": "unsicher in etwas, oder, bei etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4139,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich bei etw. unsicher fühlen.",
+   "has_file": true,
+   "file": "mp3/9c116e3a7bcf.mp3",
+   "uses": [
+    "wortschatz:use6"
+   ],
+   "spoken": "sich bei etwas unsicher fühlen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4140,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich bei etw. sicher sein.",
+   "has_file": true,
+   "file": "mp3/e12cbbd57cd0.mp3",
+   "uses": [
+    "wortschatz:use7"
+   ],
+   "spoken": "sich bei etwas sicher sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4143,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich nicht für/zwischen etw. entscheiden können.",
+   "has_file": true,
+   "file": "mp3/aa70721f6583.mp3",
+   "uses": [
+    "wortschatz:use10"
+   ],
+   "spoken": "sich nicht für etwas, oder, zwischen etwas entscheiden können.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4154,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "verunsichert von/durch etw. sein.",
+   "has_file": true,
+   "file": "mp3/db43db021be7.mp3",
+   "uses": [
+    "wortschatz:use21"
+   ],
+   "spoken": "verunsichert von etwas, oder, durch etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4155,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "ratlos vor/bei etw. sein.",
+   "has_file": true,
+   "file": "mp3/3c65b4357dad.mp3",
+   "uses": [
+    "wortschatz:use22"
+   ],
+   "spoken": "ratlos vor etwas, oder, bei etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4161,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "unschlüssig über/bei etw. sein.",
+   "has_file": true,
+   "file": "mp3/cbb1197f58e0.mp3",
+   "uses": [
+    "wortschatz:use28"
+   ],
+   "spoken": "unschlüssig über etwas, oder, bei etwas sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4164,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "zu etw. beitragen.",
+   "has_file": true,
+   "file": "mp3/b2e27079abbd.mp3",
+   "uses": [
+    "wortschatz:kue5"
+   ],
+   "spoken": "zu etwas beitragen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4165,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "eine Tradition fortsetzen/pflegen.",
+   "has_file": true,
+   "file": "mp3/4999547b88de.mp3",
+   "uses": [
+    "wortschatz:kue6"
+   ],
+   "spoken": "eine Tradition fortsetzen, oder, eine Tradition pflegen.",
+   "status": "manual",
+   "review": true,
+   "note": "đọc trọn từng vế"
+  },
+  {
+   "n": 4171,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich zu etw. bekennen.",
+   "has_file": true,
+   "file": "mp3/d46ee6d87372.mp3",
+   "uses": [
+    "wortschatz:kue12"
+   ],
+   "spoken": "sich zu etwas bekennen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4173,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "geprägt sein durch etw.",
+   "has_file": true,
+   "file": "mp3/f308e3627422.mp3",
+   "uses": [
+    "wortschatz:kue14"
+   ],
+   "spoken": "geprägt sein durch etwas.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4174,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Wurzeln in etw. haben.",
+   "has_file": true,
+   "file": "mp3/e280f0893fbe.mp3",
+   "uses": [
+    "wortschatz:kue16"
+   ],
+   "spoken": "Wurzeln in etwas haben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4175,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich für etw. einsetzen.",
+   "has_file": true,
+   "file": "mp3/5fe33d2ee9f6.mp3",
+   "uses": [
+    "wortschatz:kue17"
+   ],
+   "spoken": "sich für etwas einsetzen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4178,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "vor/gegenüber jdm Respekt zeigen.",
+   "has_file": true,
+   "file": "mp3/367cb5dc2699.mp3",
+   "uses": [
+    "wortschatz:kue20"
+   ],
+   "spoken": "vor jemandem, oder, gegenüber jemandem Respekt zeigen.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4179,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "eine Rolle bei/in etw. spielen.",
+   "has_file": true,
+   "file": "mp3/0ccb4d0dce1a.mp3",
+   "uses": [
+    "wortschatz:kue21"
+   ],
+   "spoken": "eine Rolle bei etwas, oder, in etwas spielen.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 4181,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich von etw. abgrenzen.",
+   "has_file": true,
+   "file": "mp3/968893157beb.mp3",
+   "uses": [
+    "wortschatz:kue23"
+   ],
+   "spoken": "sich von etwas abgrenzen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4183,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "im Einklang mit etw. stehen.",
+   "has_file": true,
+   "file": "mp3/56dce887ff28.mp3",
+   "uses": [
+    "wortschatz:kue25"
+   ],
+   "spoken": "im Einklang mit etwas stehen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4185,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "verwurzelt in etw. sein.",
+   "has_file": true,
+   "file": "mp3/74d9847555ed.mp3",
+   "uses": [
+    "wortschatz:kue27"
+   ],
+   "spoken": "verwurzelt in etwas sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4186,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf etw. zurückgehen.",
+   "has_file": true,
+   "file": "mp3/1baa2d0c7b24.mp3",
+   "uses": [
+    "wortschatz:kue28"
+   ],
+   "spoken": "auf etwas zurückgehen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4187,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich durch etw. auszeichnen.",
+   "has_file": true,
+   "file": "mp3/a0db08a7ebad.mp3",
+   "uses": [
+    "wortschatz:kue29"
+   ],
+   "spoken": "sich durch etwas auszeichnen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4188,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "im Zeichen von etw. stehen.",
+   "has_file": true,
+   "file": "mp3/fda9a1fabefd.mp3",
+   "uses": [
+    "wortschatz:kue30"
+   ],
+   "spoken": "im Zeichen von etwas stehen.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 6196,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, dass der Antrag bearbeitet werden muss.",
+   "has_file": true,
+   "file": "mp3/073f5c95e691.mp3",
+   "uses": [
+    "passiv-trainer:zv3#0.3.a"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , dass der Antrag bearbeitet werden muss."
+  },
+  {
+   "n": 6197,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, dass der Antrag bearbeitet sein muss.",
+   "has_file": true,
+   "file": "mp3/26042c6d6078.mp3",
+   "uses": [
+    "passiv-trainer:zv3#0.3.b"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , dass der Antrag bearbeitet sein muss."
+  },
+  {
+   "n": 1289,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "sau Verb: Morgen fahre ich …",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-c-angaben-konnektoren:nc2_TK_f22"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "sau Verb: Morgen fahre ich <break time=\"0.7s\" />"
+  },
+  {
+   "n": 4242,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Als ich letztes Jahr in Rom war, …",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "mix-review:342"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Als ich letztes Jahr in Rom war, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 4689,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "bei+D. zu+D. von+D.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:f3"
+   ],
+   "spoken": "bei plus Dativ. zu plus Dativ. von plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4693,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "- n.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:f15",
+    "genus-plural:pf1"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 4703,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf+D. auf+A. von.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:f20"
+   ],
+   "spoken": "auf plus Dativ. auf plus Akkusativ von.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4704,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "der Herr. den/dem/des Herrn.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:f22"
+   ],
+   "spoken": "der Herr. den, dem, des Herrn.",
+   "status": "manual",
+   "review": true,
+   "note": "liệt kê dạng biến cách, không phải lựa chọn → không „oder“"
+  },
+  {
+   "n": 4713,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "-en.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:f23",
+    "cluster-d-praep-kasus:f26",
+    "cluster-d-praep-kasus:nd1_AD_f01",
+    "cluster-d-praep-kasus:nd1_AD_f03",
+    "cluster-d-praep-kasus:nd1_AD_f04",
+    "cluster-d-praep-kasus:nd1_AD_f05"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 4714,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Nom Sg + Akk Sg N & F.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:f24"
+   ],
+   "spoken": "Nominativ Singular plus Akkusativ Singular, Neutrum und Femininum.",
+   "status": "hold",
+   "review": true,
+   "note": "viết tắt Nom Sg/Akk Sg N & F: bản đọc đầy đủ là phỏng đoán, cần James duyệt"
+  },
+  {
+   "n": 4733,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "-e.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_AD_f02",
+    "cluster-d-praep-kasus:nd1_AD_f06",
+    "cluster-d-praep-kasus:nd1_AD_f08",
+    "cluster-d-praep-kasus:nd1_AD_f14",
+    "cluster-d-praep-kasus:nd1_AD_f20",
+    "cluster-d-praep-kasus:nd1_AD_f21"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 4734,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "-er.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_AD_f07",
+    "cluster-d-praep-kasus:nd1_AD_f13",
+    "cluster-d-praep-kasus:nd1_AD_f17",
+    "cluster-d-praep-kasus:nd1_AD_f19"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 4735,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "-es.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_AD_f15"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 4736,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "-em.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_AD_f16"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 4761,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "in + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f02",
+    "cluster-d-praep-kasus:nd1_LP_f05"
+   ],
+   "spoken": "in plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4762,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "aus + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f03",
+    "cluster-d-praep-kasus:nd1_LP_f06",
+    "cluster-d-praep-kasus:nd1_LP_f16",
+    "praeposition-trainer:f5"
+   ],
+   "spoken": "aus plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4763,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "in + Akkusativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f04",
+    "cluster-d-praep-kasus:nd1_LP_f15",
+    "praeposition-trainer:f14"
+   ],
+   "spoken": "in plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4766,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf + Akkusativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f09",
+    "praeposition-trainer:f1",
+    "praeposition-trainer:f17",
+    "praeposition-trainer:nr1_RK_f01"
+   ],
+   "spoken": "auf plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4767,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "auf + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f10",
+    "cluster-d-praep-kasus:nd1_LP_f14"
+   ],
+   "spoken": "auf plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4769,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "an + Akkusativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f12",
+    "praeposition-trainer:f13",
+    "praeposition-trainer:f2",
+    "praeposition-trainer:f20",
+    "praeposition-trainer:nr2_BD_f14",
+    "praeposition-trainer:nr2_BD_f16"
+   ],
+   "spoken": "an plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4770,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "an + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f13",
+    "praeposition-trainer:f25",
+    "praeposition-trainer:f4",
+    "praeposition-trainer:nr2_BD_f15"
+   ],
+   "spoken": "an plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4771,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "zu + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f17",
+    "praeposition-trainer:f22",
+    "praeposition-trainer:f9"
+   ],
+   "spoken": "zu plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4772,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "von + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f18",
+    "genus-plural:gefx28",
+    "praeposition-trainer:f10",
+    "praeposition-trainer:f16",
+    "praeposition-trainer:nr1_RK_f04"
+   ],
+   "spoken": "von plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4773,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "bei + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f19"
+   ],
+   "spoken": "bei plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4774,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "nach dem Nomen + Akkusativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f20"
+   ],
+   "spoken": "nach dem Nomen plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4775,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "bis + Wohin-Präposition.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f21"
+   ],
+   "spoken": "bis plus Wohin-Präposition.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4776,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "über + Akkusativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd1_LP_f22",
+    "praeposition-trainer:f15",
+    "praeposition-trainer:nr1_RK_f02"
+   ],
+   "spoken": "über plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 4838,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "- s.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-d-praep-kasus:nd2_GE_f23",
+    "genus-plural:gef1"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 5002,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "wie, so+Grundform. als, Komparativ/anders.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:f6"
+   ],
+   "spoken": "wie, so plus Grundform. als, Komparativ, oder, anders.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5003,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "es ist+Adj. Nomen+haben. bestimmte Verben.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:f8"
+   ],
+   "spoken": "es ist plus Adjektiv. Nomen plus haben. bestimmte Verben.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5004,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Modalverben. werden. würden. lassen. gehen/hören/sehen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:f9"
+   ],
+   "spoken": "Modalverben. werden. würden. lassen. gehen, oder, hören, oder, sehen.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5032,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "so + Grundform + wie.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:f17"
+   ],
+   "spoken": "so plus Grundform plus wie.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5033,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Komparativ + als.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:f18"
+   ],
+   "spoken": "Komparativ plus als.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5039,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, als/wie mir + Partizip II + wurde.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:f21"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , als/wie mir + Partizip II + wurde."
+  },
+  {
+   "n": 5043,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "es eilig/gut/schwer haben. es satt haben. es weit bringen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne1_ES_f08"
+   ],
+   "spoken": "es eilig, oder, gut, oder, schwer haben. es satt haben. es weit bringen.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5044,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "dass-Satz. zu-Infinitiv. ob-/W-Satz.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne1_ES_f10"
+   ],
+   "spoken": "dass-Satz. zu-Infinitiv. ob-Satz, oder, W-Satz.",
+   "status": "manual",
+   "review": true,
+   "note": "„ob-/W-Satz“ là hai loại câu, ghi tay"
+  },
+  {
+   "n": 5074,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "kein/keine.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne1_NI_f10",
+    "cluster-e-satz-operationen:ne1_NI_f11"
+   ],
+   "spoken": "kein, oder, keine.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5077,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "nicht mehr, kein … mehr.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne1_NI_f17"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "nicht mehr, kein <break time=\"0.7s\" /> mehr."
+  },
+  {
+   "n": 5079,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "nicht … sondern.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne1_NI_f20"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "nicht <break time=\"0.7s\" /> sondern."
+  },
+  {
+   "n": 5080,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "weder … noch.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne1_NI_f21"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "weder <break time=\"0.7s\" /> noch."
+  },
+  {
+   "n": 5081,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "nicht nur … sondern auch.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne1_NI_f22"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "nicht nur <break time=\"0.7s\" /> sondern auch."
+  },
+  {
+   "n": 5083,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "in-/il-/im-/ir-.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne1_NI_f24"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "tiền tố „in-/il-/im-/ir-“ là mảnh âm tiết, không có cách đọc đúng duy nhất (cùng nhóm 4)"
+  },
+  {
+   "n": 5103,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "doppelt/halb/dreimal so + Grundform + wie.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_AW_f01",
+    "cluster-e-satz-operationen:ne2_VG_f06"
+   ],
+   "spoken": "doppelt, oder, halb, oder, dreimal so plus Grundform plus wie.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5104,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "nicht so + Grundform + wie.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_AW_f02"
+   ],
+   "spoken": "nicht so plus Grundform plus wie.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5105,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "anders + als.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_AW_f03",
+    "cluster-e-satz-operationen:ne2_VG_f05"
+   ],
+   "spoken": "anders plus als.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5110,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "der gleiche + Nomen + wie.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_AW_f15"
+   ],
+   "spoken": "der gleiche plus Nomen plus wie.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5112,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "… als.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_AW_f19"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> als."
+  },
+  {
+   "n": 5113,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "zu + Adj, als dass + Konjunktiv II.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_AW_f20"
+   ],
+   "spoken": "zu plus Adjektiv, als dass plus Konjunktiv zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5114,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "sowohl … als auch.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_AW_f21"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "sowohl <break time=\"0.7s\" /> als auch."
+  },
+  {
+   "n": 5115,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "so + Grundform + wie möglich.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_AW_f22"
+   ],
+   "spoken": "so plus Grundform plus wie möglich.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5116,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "wie + Partizip II.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_AW_f24"
+   ],
+   "spoken": "wie plus Partizip zwei.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5141,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "nicht so + Grundform + wie. weniger + Grundform + als.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_VG_f04"
+   ],
+   "spoken": "nicht so plus Grundform plus wie. weniger plus Grundform plus als.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5144,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Pos.2, ngay sau desto + Komparativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_VG_f13"
+   ],
+   "spoken": null,
+   "status": "skip",
+   "review": false,
+   "note": "có tiếng Việt xen trong chuỗi (mixed) — không tạo bằng giọng Đức"
+  },
+  {
+   "n": 5145,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "KII Perfekt: hätte/wäre + Partizip II.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_VG_f16"
+   ],
+   "spoken": "Konjunktiv zwei Perfekt: hätte, oder, wäre plus Partizip zwei.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5148,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Komparativ + Adjektivendung.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne2_VG_f23"
+   ],
+   "spoken": "Komparativ plus Adjektivendung.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5176,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "an/in dem + Zeitnomen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne3_RS_f12"
+   ],
+   "spoken": "an dem plus Zeitnomen, oder, in dem plus Zeitnomen.",
+   "status": "manual",
+   "review": true,
+   "note": "giới từ + bổ ngữ giữ liền"
+  },
+  {
+   "n": 5180,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "der/den/dem…",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne3_RS_f19"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "der/den/dem <break time=\"0.7s\" />"
+  },
+  {
+   "n": 5181,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "derjenige, der…",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne3_RS_f22"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "derjenige, der <break time=\"0.7s\" />"
+  },
+  {
+   "n": 5207,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "damit + Nebensatz.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne3_ZU_f02"
+   ],
+   "spoken": "damit plus Nebensatz.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5208,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Partizip II + zu haben, zu sein.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne3_ZU_f05"
+   ],
+   "spoken": "Partizip zwei plus zu haben, zu sein.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5213,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Nomen + zu-Inf.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne3_ZU_f21"
+   ],
+   "spoken": "Nomen plus zu-Infinitiv.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5214,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "nicht + zu + Infinitiv.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:ne3_ZU_f24"
+   ],
+   "spoken": "nicht plus zu plus Infinitiv.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5234,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Die Frau, deren Kind krank ist, …",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:t60"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Die Frau, deren Kind krank ist, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 5235,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Der Bus, auf den ich warte, …",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-e-satz-operationen:t61"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Der Bus, auf den ich warte, <break time=\"0.7s\" />"
+  },
+  {
+   "n": 5239,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Überraschung. Bekanntes. Drohung/Warnung.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-f-modalpartikeln:f1"
+   ],
+   "spoken": "Überraschung. Bekanntes. Drohung, oder, Warnung.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5240,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Gegensatz. Überraschung. Ärger/Widersprechen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-f-modalpartikeln:f2"
+   ],
+   "spoken": "Gegensatz. Überraschung. Ärger, oder, Widersprechen.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5241,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "freundliche Aufforderung. kurz/schnell. Plan ohne festen Zeitpunkt.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-f-modalpartikeln:f3"
+   ],
+   "spoken": "freundliche Aufforderung. kurz, oder, schnell. Plan ohne festen Zeitpunkt.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5242,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Aussage verstärken. motivieren. Ratschlag. genervte Aufforderung. Bejahung/Verneinung. erinnern.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-f-modalpartikeln:f4"
+   ],
+   "spoken": "Aussage verstärken. motivieren. Ratschlag. genervte Aufforderung. Bejahung, oder, Verneinung. erinnern.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5244,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Bestätigung. Ermutigung. Ungeduld. Aufgeben/Geringschätzung.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-f-modalpartikeln:f6"
+   ],
+   "spoken": "Bestätigung. Ermutigung. Ungeduld. Aufgeben, oder, Geringschätzung.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5282,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Das ist schon richtig, aber …",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-f-modalpartikeln:xsc5"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Das ist schon richtig, aber <break time=\"0.7s\" />"
+  },
+  {
+   "n": 5339,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "kurz/schnell — xem mail chút.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-f-modalpartikeln:ymlf15"
+   ],
+   "spoken": null,
+   "status": "skip",
+   "review": false,
+   "note": "có tiếng Việt xen trong chuỗi (mixed) — không tạo bằng giọng Đức"
+  },
+  {
+   "n": 5515,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Sag das ja/bloß nicht!",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-f-modalpartikeln:yfkt11"
+   ],
+   "spoken": "Sag das ja, oder, bloß nicht!",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5525,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich habe eigentlich keine Zeit, aber …",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "cluster-f-modalpartikeln:yfkt22"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich habe eigentlich keine Zeit, aber <break time=\"0.7s\" />"
+  },
+  {
+   "n": 5560,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Modalverb + Infinitiv.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "vermutung-futur-trainer:f27"
+   ],
+   "spoken": "Modalverb plus Infinitiv.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5561,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Modalverb + Partizip II + haben/sein.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "vermutung-futur-trainer:f28"
+   ],
+   "spoken": "Modalverb plus Partizip zwei plus haben, oder, sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5564,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "Präsens + Zeitangabe.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "vermutung-futur-trainer:f32"
+   ],
+   "spoken": "Präsens plus Zeitangabe.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5593,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "werden + Partizip II + haben/sein.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "vermutung-futur-trainer:nv1_VM_f07"
+   ],
+   "spoken": "werden plus Partizip zwei plus haben, oder, sein.",
+   "status": "auto",
+   "review": true,
+   "note": "",
+   "slash": true
+  },
+  {
+   "n": 5622,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "vor + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praeposition-trainer:f21",
+    "praeposition-trainer:f6"
+   ],
+   "spoken": "vor plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5623,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "nach + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praeposition-trainer:f26",
+    "praeposition-trainer:f7",
+    "praeposition-trainer:nr1_RK_f03"
+   ],
+   "spoken": "nach plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5624,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "mit + Dativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praeposition-trainer:f23",
+    "praeposition-trainer:f8"
+   ],
+   "spoken": "mit plus Dativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5625,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "gegen + Akkusativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praeposition-trainer:f11"
+   ],
+   "spoken": "gegen plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5626,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "um + Akkusativ.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praeposition-trainer:f12",
+    "praeposition-trainer:f18",
+    "praeposition-trainer:f19"
+   ],
+   "spoken": "um plus Akkusativ.",
+   "status": "auto",
+   "review": false,
+   "note": "",
+   "slash": false
+  },
+  {
+   "n": 5712,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, dass er einkauft.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t23"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , dass er einkauft."
+  },
+  {
+   "n": 5713,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, einzukaufen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t24"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , einzukaufen."
+  },
+  {
+   "n": 5714,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, zu verstehen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t25"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , zu verstehen."
+  },
+  {
+   "n": 5732,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, dass er die Aufgabe übernimmt.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t33"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , dass er die Aufgabe übernimmt."
+  },
+  {
+   "n": 5733,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, dass ich zunehme.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t34"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , dass ich zunehme."
+  },
+  {
+   "n": 5734,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, abzunehmen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t35"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , abzunehmen."
+  },
+  {
+   "n": 5735,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, zu übernehmen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t36"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , zu übernehmen."
+  },
+  {
+   "n": 5763,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, dass er es verspricht.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t47"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , dass er es verspricht."
+  },
+  {
+   "n": 5764,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, dass er ausgeht.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t48"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , dass er ausgeht."
+  },
+  {
+   "n": 5765,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, umzuziehen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t49"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , umzuziehen."
+  },
+  {
+   "n": 5766,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "…, es zu versprechen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "praefix-kompass:t50"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "<break time=\"0.7s\" /> , es zu versprechen."
+  },
+  {
+   "n": 5784,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "-s.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "genus-plural:pf3"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 5879,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "der/die Reisende.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "genus-plural:nofx9"
+   ],
+   "spoken": "der Reisende, oder, die Reisende.",
+   "status": "manual",
+   "review": true,
+   "note": "giữ trọn cụm danh từ"
+  },
+  {
+   "n": 5880,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "der/die Angestellte.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "genus-plural:nofx10"
+   ],
+   "spoken": "der Angestellte, oder, die Angestellte.",
+   "status": "manual",
+   "review": true,
+   "note": "giữ trọn cụm danh từ"
+  },
+  {
+   "n": 6034,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "bin/bist/ist – war – gewesen.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "unregelmaessige-verben:aufx16"
+   ],
+   "spoken": "bin, bist, ist. war. gewesen.",
+   "status": "manual",
+   "review": true,
+   "note": "liệt kê chia động từ, không phải lựa chọn → không „oder“"
+  },
+  {
+   "n": 6035,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "habe/hast/hat – hatte – gehabt.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "unregelmaessige-verben:aufx17"
+   ],
+   "spoken": "habe, hast, hat. hatte. gehabt.",
+   "status": "manual",
+   "review": true,
+   "note": "liệt kê chia động từ, không phải lựa chọn → không „oder“"
+  },
+  {
+   "n": 6045,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich bin …",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "unregelmaessige-verben:hstx1",
+    "unregelmaessige-verben:hstx10",
+    "unregelmaessige-verben:hstx11",
+    "unregelmaessige-verben:hstx12",
+    "unregelmaessige-verben:hstx13",
+    "unregelmaessige-verben:hstx14"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich bin <break time=\"0.7s\" />"
+  },
+  {
+   "n": 6046,
+   "cat": "2_de_bai_chua_hoan_chinh",
+   "display": "Ich habe …",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "unregelmaessige-verben:hstx17",
+    "unregelmaessige-verben:hstx18"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "đề chưa hoàn chỉnh („…“ bị đọc „äh“ khi kiểm bằng nhận dạng thật). Đề xuất: thay „…“ bằng thẻ <break time=\"0.7s\" /> khi dựng audio — chưa tạo, cần James quyết",
+   "proposal": "Ich habe <break time=\"0.7s\" />"
+  },
+  {
+   "n": 6047,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "ä.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "unregelmaessige-verben:gvfx10"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 6048,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "i.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "unregelmaessige-verben:gvfx11"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 6049,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "ie.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "unregelmaessige-verben:gvfx12"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 6050,
+   "cat": "4_manh_am_tiet_khong_phai_tu",
+   "display": "äu.",
+   "has_file": false,
+   "file": null,
+   "uses": [
+    "unregelmaessige-verben:gvfx13"
+   ],
+   "spoken": null,
+   "status": "hold",
+   "review": true,
+   "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  }
+ ]
+}

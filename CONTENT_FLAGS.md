@@ -6,7 +6,7 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 
 - 1_loi_noi_dung: 2
 - 2_de_bai_chua_hoan_chinh: 60
-- 3_kho_doc_bang_TTS: 222
+- 3_kho_doc_bang_TTS: 202
 
 ## 1_loi_noi_dung
 
@@ -122,7 +122,6 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 - „als dass + Konjunktiv II.“ — cluster-c-angaben-konnektoren:nc2_KO_f20
 - „wegen + G. aus + D. vor + D.“ — cluster-c-angaben-konnektoren:nc2_TK_f29
 - „+ Dativ.“ — cluster-c-angaben-konnektoren:nc3_KZ_f08
-- „trotz + Genitiv.“ — cluster-c-angaben-konnektoren:nc3_KZ_f23
 - „von + Dativ. bis + Akkusativ.“ — cluster-c-angaben-konnektoren:nc3_TE_f10
 - „für + Akk. schwärmen.“ — wortschatz:w4
 - „nach + D. sich sehnen.“ — wortschatz:w6
@@ -131,15 +130,12 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 - „Groll hegen gegen jdn.“ — wortschatz:w18
 - „Hass entwickeln gegen + Akk.“ — wortschatz:hae3, wortschatz:w20
 - „sich fürchten vor + D.“ — wortschatz:w28
-- „trauern um + Akk.“ — wortschatz:w45
 - „erstaunt sein über + Akk.“ — wortschatz:w64
-- „jdn erstaunt anschauen.“ — wortschatz:w65
 - „jdn in Erstaunen versetzen.“ — wortschatz:w67
 - „jdm die Sprache verschlagen.“ — wortschatz:w68
 - „jdn aus der Fassung bringen.“ — wortschatz:w69
 - „jdn von oben herab betrachten.“ — wortschatz:w73
 - „auf jdn herabschauen.“ — wortschatz:w77
-- „etw. bezweifeln.“ — wortschatz:w85
 - „zweifeln an + D.“ — wortschatz:w86
 - „etw. in Erinnerung rufen.“ — wortschatz:w99
 - „Wo ist bloß/denn das Problem?“ — cluster-f-modalpartikeln:yree5
@@ -151,15 +147,12 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 - „Was ist bloß/denn passiert?“ — cluster-f-modalpartikeln:ppfk33
 - „Wenn er nur/doch anrufen würde!“ — cluster-f-modalpartikeln:ppfk35
 - „Das ist aber/ja teuer!“ — cluster-f-modalpartikeln:ppfk36
-- „für etw. schwärmen.“ — wortschatz:lie1
 - „total verknallt in + Akk.“ — wortschatz:lie3
 - „Abscheu empfinden gegenüber + D.“ — wortschatz:hae2
-- „unter + D. leiden.“ — wortschatz:ane2
 - „sich den Kopf über etw. zerbrechen.“ — wortschatz:use3
 - „Erbe ≠ Tradition.“ — wortschatz:kue4
 - „verliebt sein in jdn.“ — wortschatz:lie6
 - „Sehnsucht nach jdm haben.“ — wortschatz:lie8
-- „verrückt nach jdm sein.“ — wortschatz:lie9
 - „begeistert von jdm sein.“ — wortschatz:lie10
 - „vernarrt in jdn sein.“ — wortschatz:lie11
 - „sich zu jdm hingezogen fühlen.“ — wortschatz:lie12
@@ -168,12 +161,10 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 - „jdn ins Herz schließen.“ — wortschatz:lie15
 - „jdm den Kopf verdrehen.“ — wortschatz:lie16
 - „jdn auf Händen tragen.“ — wortschatz:lie18
-- „jdn küssen.“ — wortschatz:lie22
 - „mit jdm liiert sein.“ — wortschatz:lie23
 - „eine Beziehung zu/mit jdm haben.“ — wortschatz:lie24
 - „jdm untreu werden/sein.“ — wortschatz:lie27
 - „Gefühle für jdn haben.“ — wortschatz:lie28
-- „jdm nahe stehen.“ — wortschatz:lie30
 - „Hass empfinden gegen jdn.“ — wortschatz:hae4
 - „jdn verabscheuen.“ — wortschatz:hae6
 - „Abneigung gegen/gegenüber jdm haben.“ — wortschatz:hae7
@@ -188,16 +179,11 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 - „auf dem Kriegsfuß mit jdm stehen/leben.“ — wortschatz:hae17
 - „jdm etwas nachtragen.“ — wortschatz:hae18
 - „verfeindet mit jdm sein.“ — wortschatz:hae19
-- „jdn verachten.“ — wortschatz:hae21
 - „Verachtung empfinden für/gegenüber jdn.“ — wortschatz:hae22
-- „jdn nicht ertragen können.“ — wortschatz:hae23
 - „Rachegefühle gegen jdn hegen.“ — wortschatz:hae24
 - „jdm die Freundschaft kündigen.“ — wortschatz:hae26
-- „jdn schneiden.“ — wortschatz:hae27
 - „jdn wie die Pest meiden.“ — wortschatz:hae28
 - „jdn bis aufs Blut hassen.“ — wortschatz:hae29
-- „jdm gram sein.“ — wortschatz:hae30
-- „vor etw. bange sein.“ — wortschatz:ane4
 - „sich vor etw. ängstigen.“ — wortschatz:ane5
 - „vor/über etw. erschrecken.“ — wortschatz:ane6
 - „panisch wegen etw. sein.“ — wortschatz:ane10
@@ -219,8 +205,6 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 - „jdm die Zornesröte ins Gesicht treiben.“ — wortschatz:wue21
 - „wutentbrannt über etw. sein.“ — wortschatz:wue22
 - „jdm den letzten Nerv rauben.“ — wortschatz:wue25
-- „bei etw. hochgehen.“ — wortschatz:wue26
-- „jdm schwillt der Kamm.“ — wortschatz:wue28
 - „sich schwarzärgern über etw.“ — wortschatz:wue30
 - „betrübt über etw. sein.“ — wortschatz:tre4
 - „um jdn/etw. weinen.“ — wortschatz:tre6
@@ -254,7 +238,6 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 - „über etw. staunen.“ — wortschatz:ube11
 - „jdm steht der Mund offen.“ — wortschatz:ube12
 - „jdm bleibt die Sprache weg.“ — wortschatz:ube19
-- „jdm den Atem rauben.“ — wortschatz:ube23
 - „jdm eine Überraschung bereiten.“ — wortschatz:ube25
 - „perplex über etw. sein.“ — wortschatz:ube27
 - „irritiert von/über etw. sein.“ — wortschatz:ube28
@@ -274,7 +257,6 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 - „sich über jdn erheben.“ — wortschatz:uhe25
 - „jdn von oben herab behandeln.“ — wortschatz:uhe26
 - „sich als etw. Besseres fühlen.“ — wortschatz:uhe28
-- „jdm etw. nicht gönnen.“ — wortschatz:uhe29
 - „hochnäsig gegenüber jdm sein.“ — wortschatz:uhe30
 - „an etw. zweifeln.“ — wortschatz:use4
 - „unsicher in/bei etw. sein.“ — wortschatz:use5
@@ -286,8 +268,6 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 - „unschlüssig über/bei etw. sein.“ — wortschatz:use28
 - „zu etw. beitragen.“ — wortschatz:kue5
 - „eine Tradition fortsetzen/pflegen.“ — wortschatz:kue6
-- „sich an etw. erinnern.“ — wortschatz:kue8
-- „von etw. geprägt sein.“ — wortschatz:kue9
 - „sich zu etw. bekennen.“ — wortschatz:kue12
 - „geprägt sein durch etw.“ — wortschatz:kue14
 - „Wurzeln in etw. haben.“ — wortschatz:kue16

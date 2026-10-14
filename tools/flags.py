@@ -13,10 +13,12 @@ def cat(t):
     # 2026-10-14: mảnh âm tiết/hậu tố không phải từ (đáp án kiểu „ä“, „ie“, „-en“, „- n“): giọng đọc không có cách đọc đúng duy nhất và bước cắt (so chữ Scribe) dễ lệch → không tạo, giữ giọng trình duyệt
     if re.fullmatch(r'\s*[-–]\s*[a-zäöüß]{1,3}\.?\s*|\s*(?:[aeiouäöü]|ie|ei|au|äu|eu)\.?\s*',t,re.I): return '4_manh_am_tiet_khong_phai_tu'
     return None
+OVF='state/flag_overrides.json'
+OV={int(k) for k,v in json.load(open(OVF))['items'].items() if v.get('enable')} if os.path.exists(OVF) else set()   # file đã kiểm nhận dạng thật từng cái → bật lại
 flags=[];usable={};D=[]
 for u in Q:
     if u['n'] not in ok: continue
-    c=cat(u['tts'])
+    c=None if u['n'] in OV else cat(u['tts'])
     if c: flags.append({'cat':c,'n':u['n'],'tts':u['tts'],'file':ok[u['n']]['file'],'uses':u['uses']})
     else:
         usable[u['tts']]=os.path.basename(ok[u['n']]['file'])
