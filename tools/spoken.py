@@ -126,6 +126,11 @@ def main():
     import os
     if os.path.exists('state/flag_overrides.json'):
         ov = json.load(open('state/flag_overrides.json'))['items']
+        have = {e['n'] for e in out}
+        for k, v in ov.items():   # đã bật lại → không còn trong content_flags, vẫn ghi lại để có hồ sơ
+            if int(k) not in have and v['enable']:
+                out.append({'n': int(k), 'cat': '3_kho_doc_bang_TTS', 'display': v['display'], 'has_file': True, 'file': None, 'uses': [],
+                            'spoken': v['spoken_expected'], 'status': 'da_bat_lai', 'review': False, 'note': 'đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa'})
         for e in out:
             v = ov.get(str(e['n']))
             if v: e['asr'] = {'enable': v['enable'], 'heard': v['heard'], 'reason': v['reason']}

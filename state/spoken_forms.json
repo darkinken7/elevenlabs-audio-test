@@ -5544,6 +5544,346 @@
    "status": "hold",
    "review": true,
    "note": "mảnh âm tiết/hậu tố — không có cách đọc đúng duy nhất"
+  },
+  {
+   "n": 4167,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "sich an etw. erinnern.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "sich an etwas erinnern.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "Sich an etwas erinnern",
+    "reason": ""
+   }
+  },
+  {
+   "n": 4027,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "bei etw. hochgehen.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "bei etwas hochgehen.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "bei etwas hochgehen",
+    "reason": ""
+   }
+  },
+  {
+   "n": 4168,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "von etw. geprägt sein.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "von etwas geprägt sein.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "von etwas geprägt sein",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3980,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "vor etw. bange sein.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "vor etwas bange sein.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "vor etwas Bange sein",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3898,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "für etw. schwärmen.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "für etwas schwärmen.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "für etwas schwärmen",
+    "reason": ""
+   }
+  },
+  {
+   "n": 2279,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "etw. bezweifeln.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "etwas bezweifeln.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "etwas bezweifeln",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3976,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn schneiden.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemanden schneiden.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "jemanden schneiden",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3944,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn küssen.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemanden küssen.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "jemanden küssen",
+    "reason": ""
+   }
+  },
+  {
+   "n": 2261,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn erstaunt anschauen.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemanden erstaunt anschauen.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "jemanden erstaunt anschauen",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3972,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn nicht ertragen können.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemanden nicht ertragen können.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "jemanden nicht ertragen können",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3970,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdn verachten.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemanden verachten.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "jemanden verachten",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3979,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm gram sein.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemandem gram sein.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "jemandem gram sein",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3952,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm nahe stehen.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemandem nahe stehen.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "jemandem nahestehen",
+    "reason": ""
+   }
+  },
+  {
+   "n": 4029,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm schwillt der Kamm.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemandem schwillt der Kamm.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "jemandem schwillt der Kamm",
+    "reason": ""
+   }
+  },
+  {
+   "n": 4103,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm den Atem rauben.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemandem den Atem rauben.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "jemandem den Atem rauben",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3931,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "verrückt nach jdm sein.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "verrückt nach jemandem sein.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "verrückt nach jemandem sein",
+    "reason": ""
+   }
+  },
+  {
+   "n": 1347,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "trotz + Genitiv.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "trotz plus Genitiv.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "Trotz plus Genitiv",
+    "reason": ""
+   }
+  },
+  {
+   "n": 3903,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "unter + D. leiden.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "unter plus Dativ leiden.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "Unter plus Dativ leiden",
+    "reason": ""
+   }
+  },
+  {
+   "n": 2242,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "trauern um + Akk.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "trauern um plus Akkusativ.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "Trauern um plus Akkusativ",
+    "reason": ""
+   }
+  },
+  {
+   "n": 4135,
+   "cat": "3_kho_doc_bang_TTS",
+   "display": "jdm etw. nicht gönnen.",
+   "has_file": true,
+   "file": null,
+   "uses": [],
+   "spoken": "jemandem etwas nicht gönnen.",
+   "status": "da_bat_lai",
+   "review": false,
+   "note": "đã kiểm nhận dạng thật từng file; file hiện tại đọc đúng lời chuẩn hóa",
+   "asr": {
+    "enable": true,
+    "heard": "Jemandem etwas nicht gönnen",
+    "reason": ""
+   }
   }
  ]
 }
