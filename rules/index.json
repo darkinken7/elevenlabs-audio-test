@@ -1,0 +1,60 @@
+{
+ "pa1": {
+  "app": "passiv-trainer",
+  "file": "pa1.mp3",
+  "sha256": "708963831a062a38f5a2e2a694cc849603d5b03186576c18988bf5bb371ae2d1",
+  "status": "pilot",
+  "gaps_ms": [
+   150,
+   900,
+   1100,
+   900
+  ],
+  "segments": [
+   {
+    "seg": "b0.de",
+    "file": "src/pa1.b0.de.mp3",
+    "sha256": "7e987b2fe28fed0ddd9a8ff62d520ca440b83aec9f3ff401f4a26cabbf3d0921",
+    "prompt": "Das Akkusativobjekt wird im Passiv zum neuen Subjekt im Nominativ. <break time=\"0.7s\" /> Für das Verb verwendet man eine Form von werden und das Partizip zwei.",
+    "prompt_sha": "834aded17efa8c23",
+    "model": "eleven_multilingual_v2",
+    "voice": "pMrwpTuGOma7Nubxs5jo",
+    "generation": "ONkuj7i2ARuKW13xiYVY",
+    "credits": 147.9852
+   },
+   {
+    "seg": "b0.vi",
+    "file": "src/pa1.b0.vi.mp3",
+    "sha256": "b0d5e2450a31f484042af8240115c52681d378f72e018bf9fe1a1c2f5f8b6a07",
+    "prompt": "Akkusativ ở câu chủ động chuyển thành Nominativ ở câu bị động. <break time=\"0.6s\" /> Động từ dùng werden, cộng với Partizip hai.",
+    "prompt_sha": "9a1928d3873afb65",
+    "model": "eleven_turbo_v2_5",
+    "voice": "uvbatWHVYbcsrr3H6hIy",
+    "generation": "iGfor1Wc65UnX2uM80Qp",
+    "credits": 116.9883
+   },
+   {
+    "seg": "b2.de",
+    "file": "src/pa1.b2.de.mp3",
+    "sha256": "f2e9faf8d6cb85137e0d56eb5ef18d5a0d4b91f97d4b9c8c06e14485fe63e7d6",
+    "prompt": "Aber Achtung: Der Dativ bleibt Dativ. <break time=\"0.7s\" /> Aus „Wir helfen dem Kind“ wird im Passiv: „Dem Kind wird geholfen.“ <break time=\"0.45s\" /> Es gibt hier also keinen Nominativ.",
+    "prompt_sha": "45491c9e511aa20f",
+    "model": "eleven_multilingual_v2",
+    "voice": "pMrwpTuGOma7Nubxs5jo",
+    "generation": "6mCUYX0IeQJbq4SwBmih",
+    "credits": 162.9837
+   },
+   {
+    "seg": "b2.vi",
+    "file": "src/pa1.b2.vi.mp3",
+    "sha256": "cbf7e33b0983fcdfce2eb82d1bebc0c3ed71294b6b17cb9285876e63031ebfd4",
+    "prompt": "Dativ giữ nguyên, không chuyển lên Nominativ.",
+    "prompt_sha": "684a61094eb00db4",
+    "model": "eleven_turbo_v2_5",
+    "voice": "uvbatWHVYbcsrr3H6hIy",
+    "generation": "XnrsimYqRjxOynq8cFPl",
+    "credits": 44.9955
+   }
+  ]
+ }
+}
