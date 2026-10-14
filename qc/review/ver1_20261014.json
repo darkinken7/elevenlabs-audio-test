@@ -1,0 +1,470 @@
+[
+ {
+  "n": 4167,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "sich an etw. erinnern.",
+  "has_file": true,
+  "file": "mp3/fe7be470e791.mp3",
+  "uses": [
+   "wortschatz:kue8"
+  ],
+  "spoken": "sich an etwas erinnern.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.332245,
+  "t0": 0,
+  "t1": 1.332245
+ },
+ {
+  "n": 4027,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "bei etw. hochgehen.",
+  "has_file": true,
+  "file": "mp3/6b8879e7a540.mp3",
+  "uses": [
+   "wortschatz:wue26"
+  ],
+  "spoken": "bei etwas hochgehen.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.410612,
+  "t0": 1.582245,
+  "t1": 2.992857
+ },
+ {
+  "n": 4168,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "von etw. geprägt sein.",
+  "has_file": true,
+  "file": "mp3/baa6cf5b7881.mp3",
+  "uses": [
+   "wortschatz:kue9"
+  ],
+  "spoken": "von etwas geprägt sein.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.436735,
+  "t0": 3.242857,
+  "t1": 4.6795919999999995
+ },
+ {
+  "n": 3980,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "vor etw. bange sein.",
+  "has_file": true,
+  "file": "mp3/78746b04cfae.mp3",
+  "uses": [
+   "wortschatz:ane4"
+  ],
+  "spoken": "vor etwas bange sein.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.567347,
+  "t0": 4.9295919999999995,
+  "t1": 6.496938999999999
+ },
+ {
+  "n": 3898,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "für etw. schwärmen.",
+  "has_file": true,
+  "file": "mp3/aa4a673a83f3.mp3",
+  "uses": [
+   "wortschatz:lie1"
+  ],
+  "spoken": "für etwas schwärmen.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.619592,
+  "t0": 6.746938999999999,
+  "t1": 8.366530999999998
+ },
+ {
+  "n": 2279,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "etw. bezweifeln.",
+  "has_file": true,
+  "file": "mp3/4c579c4870c0.mp3",
+  "uses": [
+   "wortschatz:w85"
+  ],
+  "spoken": "etwas bezweifeln.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.645714,
+  "t0": 8.616530999999998,
+  "t1": 10.262244999999998
+ },
+ {
+  "n": 3976,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdn schneiden.",
+  "has_file": true,
+  "file": "mp3/ccdccd907ceb.mp3",
+  "uses": [
+   "wortschatz:hae27"
+  ],
+  "spoken": "jemanden schneiden.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.38449,
+  "t0": 10.512244999999998,
+  "t1": 11.896734999999998
+ },
+ {
+  "n": 3944,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdn küssen.",
+  "has_file": true,
+  "file": "mp3/2a8880bb0fe4.mp3",
+  "uses": [
+   "wortschatz:lie22"
+  ],
+  "spoken": "jemanden küssen.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.48898,
+  "t0": 12.146734999999998,
+  "t1": 13.635714999999998
+ },
+ {
+  "n": 2261,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdn erstaunt anschauen.",
+  "has_file": true,
+  "file": "mp3/42e7bd6c5218.mp3",
+  "uses": [
+   "wortschatz:w65"
+  ],
+  "spoken": "jemanden erstaunt anschauen.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.724082,
+  "t0": 13.885714999999998,
+  "t1": 15.609796999999997
+ },
+ {
+  "n": 3972,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdn nicht ertragen können.",
+  "has_file": true,
+  "file": "mp3/acf90d41b21c.mp3",
+  "uses": [
+   "wortschatz:hae23"
+  ],
+  "spoken": "jemanden nicht ertragen können.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.906939,
+  "t0": 15.859796999999997,
+  "t1": 17.766735999999998
+ },
+ {
+  "n": 3970,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdn verachten.",
+  "has_file": true,
+  "file": "mp3/8515b422b7f8.mp3",
+  "uses": [
+   "wortschatz:hae21"
+  ],
+  "spoken": "jemanden verachten.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.959184,
+  "t0": 18.016735999999998,
+  "t1": 19.97592
+ },
+ {
+  "n": 3979,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdm gram sein.",
+  "has_file": true,
+  "file": "mp3/2ebe85d01bf8.mp3",
+  "uses": [
+   "wortschatz:hae30"
+  ],
+  "spoken": "jemandem gram sein.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.436735,
+  "t0": 20.22592,
+  "t1": 21.662654999999997
+ },
+ {
+  "n": 3952,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdm nahe stehen.",
+  "has_file": true,
+  "file": "mp3/d277120ae75f.mp3",
+  "uses": [
+   "wortschatz:lie30"
+  ],
+  "spoken": "jemandem nahe stehen.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.724082,
+  "t0": 21.912654999999997,
+  "t1": 23.636736999999997
+ },
+ {
+  "n": 4029,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdm schwillt der Kamm.",
+  "has_file": true,
+  "file": "mp3/0274b0ac5d1b.mp3",
+  "uses": [
+   "wortschatz:wue28"
+  ],
+  "spoken": "jemandem schwillt der Kamm.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.750204,
+  "t0": 23.886736999999997,
+  "t1": 25.636940999999997
+ },
+ {
+  "n": 4103,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdm den Atem rauben.",
+  "has_file": true,
+  "file": "mp3/f8d0a1a9b471.mp3",
+  "uses": [
+   "wortschatz:ube23"
+  ],
+  "spoken": "jemandem den Atem rauben.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.906939,
+  "t0": 25.886940999999997,
+  "t1": 27.793879999999998
+ },
+ {
+  "n": 3931,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "verrückt nach jdm sein.",
+  "has_file": true,
+  "file": "mp3/807ca26ec5c9.mp3",
+  "uses": [
+   "wortschatz:lie9"
+  ],
+  "spoken": "verrückt nach jemandem sein.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.985306,
+  "t0": 28.043879999999998,
+  "t1": 30.029186
+ },
+ {
+  "n": 248,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "war + PII.",
+  "has_file": true,
+  "file": "mp3/8eb0799cfd0a.mp3",
+  "uses": [
+   "passiv-trainer:np1_ZV_f02"
+  ],
+  "spoken": "war plus Partizip zwei.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.48898,
+  "t0": 30.279186,
+  "t1": 31.768166
+ },
+ {
+  "n": 256,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "würde + PII.",
+  "has_file": true,
+  "file": "mp3/00e4d69fc198.mp3",
+  "uses": [
+   "passiv-trainer:np1_ZV_f10"
+  ],
+  "spoken": "würde plus Partizip zwei.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.593469,
+  "t0": 32.018166,
+  "t1": 33.611635
+ },
+ {
+  "n": 257,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "wäre + PII.",
+  "has_file": true,
+  "file": "mp3/2e7629d7e5d5.mp3",
+  "uses": [
+   "passiv-trainer:np1_ZV_f11"
+  ],
+  "spoken": "wäre plus Partizip zwei.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.671837,
+  "t0": 33.861635,
+  "t1": 35.533472
+ },
+ {
+  "n": 251,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "war + PII + worden.",
+  "has_file": true,
+  "file": "mp3/2fa8b53323d2.mp3",
+  "uses": [
+   "passiv-trainer:np1_ZV_f05"
+  ],
+  "spoken": "war plus Partizip zwei plus worden.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 2.011429,
+  "t0": 35.783472,
+  "t1": 37.794901
+ },
+ {
+  "n": 1335,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "+ Dativ.",
+  "has_file": true,
+  "file": "mp3/bf8eb62cffd8.mp3",
+  "uses": [
+   "cluster-c-angaben-konnektoren:nc3_KZ_f08"
+  ],
+  "spoken": "plus Dativ.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 0.679184,
+  "t0": 38.044901,
+  "t1": 38.724085
+ },
+ {
+  "n": 1347,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "trotz + Genitiv.",
+  "has_file": true,
+  "file": "mp3/97f932459ff2.mp3",
+  "uses": [
+   "cluster-c-angaben-konnektoren:nc3_KZ_f23"
+  ],
+  "spoken": "trotz plus Genitiv.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 2.115918,
+  "t0": 38.974085,
+  "t1": 41.090003
+ },
+ {
+  "n": 2280,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "zweifeln an + D.",
+  "has_file": true,
+  "file": "mp3/de482c3de39a.mp3",
+  "uses": [
+   "wortschatz:w86"
+  ],
+  "spoken": "zweifeln an plus Dativ.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.38449,
+  "t0": 41.340003,
+  "t1": 42.724493
+ },
+ {
+  "n": 3903,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "unter + D. leiden.",
+  "has_file": true,
+  "file": "mp3/3e1b103a0fca.mp3",
+  "uses": [
+   "wortschatz:ane2"
+  ],
+  "spoken": "unter plus Dativ leiden.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 2.272653,
+  "t0": 42.974493,
+  "t1": 45.247146
+ },
+ {
+  "n": 2242,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "trauern um + Akk.",
+  "has_file": true,
+  "file": "mp3/a6a7df9f1724.mp3",
+  "uses": [
+   "wortschatz:w45"
+  ],
+  "spoken": "trauern um plus Akkusativ.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 2.377143,
+  "t0": 45.497146,
+  "t1": 47.874289
+ },
+ {
+  "n": 4135,
+  "cat": "3_kho_doc_bang_TTS",
+  "display": "jdm etw. nicht gönnen.",
+  "has_file": true,
+  "file": "mp3/d0080ef37594.mp3",
+  "uses": [
+   "wortschatz:uhe29"
+  ],
+  "spoken": "jemandem etwas nicht gönnen.",
+  "status": "auto",
+  "review": false,
+  "note": "",
+  "slash": false,
+  "dur": 1.802449,
+  "t0": 48.124289,
+  "t1": 49.926738
+ }
+]
