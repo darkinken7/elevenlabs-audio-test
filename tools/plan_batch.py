@@ -29,5 +29,13 @@ while S_ or Lg:
     if Lg: ord_.append(Lg.pop(0))
     if S_: ord_.append(S_.pop(0))
 ns = ord_
+# Câu từng hỏng: rải đều trong cả batch, không đứng cạnh nhau
+F_ = [n for n in ns if n in fails]
+if F_:
+    rest = [n for n in ns if n not in fails]; step = max(1, len(rest) // (len(F_) + 1)); out = []
+    for i, n in enumerate(rest):
+        out.append(n)
+        if F_ and (i + 1) % step == 0: out.append(F_.pop(0))
+    ns = out + F_
 if len(sys.argv) > 2: open(R + '/state/batches/' + sys.argv[2] + '.prompt.txt', 'w').write('\n\n'.join(Q[n]['tts'] for n in ns))
 print(json.dumps({'group': g, 'ns': ns, 'chars': c, 'remaining_in_group': sum(1 for e in todo if e['group'] == g) - len(ns), 'prompt': '\n\n'.join(Q[n]['tts'] for n in ns)}, ensure_ascii=False))
