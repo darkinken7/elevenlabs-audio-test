@@ -66,27 +66,25 @@ Ohne ein gültiges Visum darf er nicht einreisen.
 
 Er blieb im Bett, weil er Fieber hatte.
 
-Grund: Pos.3 — sau Verb, nicht im Vorfeld. „und zwar“: Pos.0 nach dem Hauptsatz.
+Pos.1: Weil er krank ist, bleibt er zu Hause.
 
 Ich komme später. Mein Zug hat nämlich Verspätung.
 
-Pos.1: Weil er krank ist, bleibt er zu Hause.
+Genitiv - s: wegen des Regens, des Staus.
 
 Sie zieht um, weil die Miete hoch ist.
 
-Genitiv - s: wegen des Regens, des Staus.
+Der Fahrer stand im Stau, deshalb kam die Lieferung zu spät.
 
 Sie weinte vor Freude.
 
-Der Fahrer stand im Stau, deshalb kam die Lieferung zu spät.
+Wegen des starken Schneefalls fällt der Zug aus.
 
 Er half ihr aus Mitleid.
 
-Wegen des starken Schneefalls fällt der Zug aus.
+Aufgrund fehlender Beweise wurde das Verfahren eingestellt.
 
 Wegen des Staus kamen wir zu spät.
-
-Aufgrund fehlender Beweise wurde das Verfahren eingestellt.
 
 Infolge eines Unfalls ist die Straße gesperrt.
 
@@ -113,3 +111,7 @@ Angesichts der ernsten Lage handelt die Regierung sofort.
 Wegen Bauarbeiten ist die Straße gesperrt.
 
 Weil es stark regnet, bleiben wir zu Hause.
+
+Deshalb habe ich die Stelle zum Ende des Monats gekündigt.
+
+Aufgrund seines Alters bekam er die Stelle nicht.
