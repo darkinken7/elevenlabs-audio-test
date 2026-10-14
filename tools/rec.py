@@ -45,8 +45,12 @@ elif cmd == 'bsubmit':   # bsubmit <id> <flow> <session> <gen> <credits> <n_from
     json.dump({'session': ses, 'ns': ns}, open(R + '/state/batches/' + bid + '.json', 'w'))
 elif cmd == 'sum':
     st = latest(); c = sum(float(v.get('credits', 0)) for v in st.values()); by = {}
-    for v in st.values(): by[v['status']] = by.get(v['status'], 0) + 1
-    prior = json.load(open(R + '/state/prior_spend.json'))['total']
-    print('job credits %.1f + prior %.1f = %.1f / cap 151000; status %s' % (c, prior, c + prior, by))
-    pend = [v['session'] for v in st.values() if v['status'] == 'submitted']
+    for v in st.values(): by[v.get('status', '?')] = by.get(v.get('status', '?'), 0) + 1
+    prior = json.load(open(R + '/state/prior_spend.json'))['total']; tot = c + prior
+    print('ledger: job %.1f + prior %.1f = %.1f credits đã chi; trạng thái %s' % (c, prior, tot, by))
+    bf = R + '/state/balance.json'
+    if os.path.exists(bf):   # số dư James cung cấp (mốc) → số dư SUY RA từ ledger; chỉ là suy ra, không phải số dư đã xác minh
+        b = json.load(open(bf)); a0 = b.get('ledger_total_at_anchor')
+        if a0 is not None: print('mốc James %s: %s credits · đã chi từ mốc theo ledger %.1f → số dư SUY RA ≈ %.1f (chưa xác minh trên elevenlabs.io)' % (b['as_of'], b['balance'], tot - a0, b['balance'] - (tot - a0)))
+    pend = [v['session'] for v in st.values() if v.get('status') == 'submitted']
     if pend: print('PENDING', json.dumps(pend))

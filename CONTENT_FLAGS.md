@@ -2,7 +2,7 @@
 
 Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.json → app dùng speechSynthesis. Chưa sửa nội dung học.
 
-1_loi_noi_dung = lỗi nội dung (câu sai ngữ pháp trong nguồn) · 2_de_bai_chua_hoan_chinh = đề bài/câu mẫu chưa hoàn chỉnh (có „…“ hoặc chỗ trống) · 3_kho_doc_bang_TTS = cách viết khó đọc bằng TTS (+, /, ≠, jdm, etw. … — TTS đọc nguyên ký hiệu, cần nghe lại hoặc viết bản đọc riêng)
+1_loi_noi_dung = lỗi nội dung (câu sai ngữ pháp trong nguồn) · 2_de_bai_chua_hoan_chinh = đề bài/câu mẫu chưa hoàn chỉnh (có „…“ hoặc chỗ trống) · 4_manh_am_tiet_khong_phai_tu = đáp án chỉ là âm tiết/hậu tố (ä, ie, -en, - n) · 3_kho_doc_bang_TTS = cách viết khó đọc bằng TTS (+, /, ≠, jdm, etw. … — TTS đọc nguyên ký hiệu, cần nghe lại hoặc viết bản đọc riêng)
 
 - 1_loi_noi_dung: 2
 - 2_de_bai_chua_hoan_chinh: 60

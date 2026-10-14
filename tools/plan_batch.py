@@ -14,7 +14,11 @@ for l in open(R + '/state/ledger.jsonl'):
 for b, ns_ in subm.items():
     if b not in closed: pend.update(ns_)
 GI = ['lernen+treppe', 'passiv', 'konjunktiv', 'cluster-c', 'schreiben', 'fehler-korrekt', 'rest']
-todo = sorted([e for e in Q if e['n'] not in have and e['n'] not in pend and not e.get('skip') and fails.get(e['n'], 0) < 3], key=lambda e: (GI.index(e['group']), e['n']))
+PF = set()
+if os.path.exists(R + '/state/pending_flags.json'): PF = {x['n'] for x in json.load(open(R + '/state/pending_flags.json'))}   # chưa tạo + thuộc diện đánh dấu (tools/flags.py) → không tốn credits
+ONLY = None
+if os.environ.get('PLAN_ONLY'): ONLY = {x['n'] for x in json.load(open(os.environ['PLAN_ONLY']))}   # danh sách câu cần tạo theo kiểm kê (theme/audio/inventory.mjs --emit)
+todo = sorted([e for e in Q if e['n'] not in have and e['n'] not in pend and not e.get('skip') and fails.get(e['n'], 0) < 3 and e['n'] not in PF and (ONLY is None or e['n'] in ONLY)], key=lambda e: (GI.index(e['group']), e['n']))
 if not todo: print('{}'); sys.exit()
 g = todo[0]['group']; ns = []; c = 0
 for e in todo:

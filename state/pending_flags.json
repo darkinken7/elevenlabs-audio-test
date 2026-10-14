@@ -1,0 +1,1591 @@
+[
+ {
+  "n": 1289,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "sau Verb: Morgen fahre ich …",
+  "uses": [
+   {
+    "app": "cluster-c-angaben-konnektoren",
+    "kind": "form",
+    "ref": "nc2_TK_f22"
+   }
+  ]
+ },
+ {
+  "n": 4242,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "Als ich letztes Jahr in Rom war, …",
+  "uses": [
+   {
+    "app": "mix-review",
+    "kind": "error",
+    "ref": 342
+   }
+  ]
+ },
+ {
+  "n": 4689,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "bei+D. zu+D. von+D.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "f3"
+   }
+  ]
+ },
+ {
+  "n": 4693,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "- n.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "f15"
+   },
+   {
+    "app": "genus-plural",
+    "kind": "form",
+    "ref": "pf1"
+   }
+  ]
+ },
+ {
+  "n": 4703,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "auf+D. auf+A. von.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "f20"
+   }
+  ]
+ },
+ {
+  "n": 4704,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "der Herr. den/dem/des Herrn.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "f22"
+   }
+  ]
+ },
+ {
+  "n": 4713,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "-en.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "f23"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "f26"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f01"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f03"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f04"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f05"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f09"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f10"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f11"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f12"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f18"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f22"
+   },
+   {
+    "app": "genus-plural",
+    "kind": "form",
+    "ref": "gefx23"
+   }
+  ]
+ },
+ {
+  "n": 4714,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Nom Sg + Akk Sg N & F.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "f24"
+   }
+  ]
+ },
+ {
+  "n": 4733,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "-e.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f02"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f06"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f08"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f14"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f20"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f21"
+   }
+  ]
+ },
+ {
+  "n": 4734,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "-er.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f07"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f13"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f17"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f19"
+   }
+  ]
+ },
+ {
+  "n": 4735,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "-es.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f15"
+   }
+  ]
+ },
+ {
+  "n": 4736,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "-em.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_AD_f16"
+   }
+  ]
+ },
+ {
+  "n": 4761,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "in + Dativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f02"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f05"
+   }
+  ]
+ },
+ {
+  "n": 4762,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "aus + Dativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f03"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f06"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f16"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f5"
+   }
+  ]
+ },
+ {
+  "n": 4763,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "in + Akkusativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f04"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f15"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f14"
+   }
+  ]
+ },
+ {
+  "n": 4766,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "auf + Akkusativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f09"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f1"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f17"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "nr1_RK_f01"
+   }
+  ]
+ },
+ {
+  "n": 4767,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "auf + Dativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f10"
+   },
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f14"
+   }
+  ]
+ },
+ {
+  "n": 4769,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "an + Akkusativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f12"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f2"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f13"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f20"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "nr2_BD_f14"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "nr2_BD_f16"
+   }
+  ]
+ },
+ {
+  "n": 4770,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "an + Dativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f13"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f4"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f25"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "nr2_BD_f15"
+   }
+  ]
+ },
+ {
+  "n": 4771,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "zu + Dativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f17"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f9"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f22"
+   }
+  ]
+ },
+ {
+  "n": 4772,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "von + Dativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f18"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f10"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f16"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "nr1_RK_f04"
+   },
+   {
+    "app": "genus-plural",
+    "kind": "form",
+    "ref": "gefx28"
+   }
+  ]
+ },
+ {
+  "n": 4773,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "bei + Dativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f19"
+   }
+  ]
+ },
+ {
+  "n": 4774,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "nach dem Nomen + Akkusativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f20"
+   }
+  ]
+ },
+ {
+  "n": 4775,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "bis + Wohin-Präposition.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f21"
+   }
+  ]
+ },
+ {
+  "n": 4776,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "über + Akkusativ.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd1_LP_f22"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f15"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "nr1_RK_f02"
+   }
+  ]
+ },
+ {
+  "n": 4838,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "- s.",
+  "uses": [
+   {
+    "app": "cluster-d-praep-kasus",
+    "kind": "form",
+    "ref": "nd2_GE_f23"
+   },
+   {
+    "app": "genus-plural",
+    "kind": "form",
+    "ref": "gef1"
+   }
+  ]
+ },
+ {
+  "n": 5002,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "wie, so+Grundform. als, Komparativ/anders.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "f6"
+   }
+  ]
+ },
+ {
+  "n": 5003,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "es ist+Adj. Nomen+haben. bestimmte Verben.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "f8"
+   }
+  ]
+ },
+ {
+  "n": 5004,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Modalverben. werden. würden. lassen. gehen/hören/sehen.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "f9"
+   }
+  ]
+ },
+ {
+  "n": 5032,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "so + Grundform + wie.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "f17"
+   }
+  ]
+ },
+ {
+  "n": 5033,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Komparativ + als.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "f18"
+   }
+  ]
+ },
+ {
+  "n": 5039,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, als/wie mir + Partizip II + wurde.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "f21"
+   }
+  ]
+ },
+ {
+  "n": 5043,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "es eilig/gut/schwer haben. es satt haben. es weit bringen.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne1_ES_f08"
+   }
+  ]
+ },
+ {
+  "n": 5044,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "dass-Satz. zu-Infinitiv. ob-/W-Satz.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne1_ES_f10"
+   }
+  ]
+ },
+ {
+  "n": 5074,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "kein/keine.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne1_NI_f10"
+   },
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne1_NI_f11"
+   }
+  ]
+ },
+ {
+  "n": 5077,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "nicht mehr, kein … mehr.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne1_NI_f17"
+   }
+  ]
+ },
+ {
+  "n": 5079,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "nicht … sondern.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne1_NI_f20"
+   }
+  ]
+ },
+ {
+  "n": 5080,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "weder … noch.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne1_NI_f21"
+   }
+  ]
+ },
+ {
+  "n": 5081,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "nicht nur … sondern auch.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne1_NI_f22"
+   }
+  ]
+ },
+ {
+  "n": 5083,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "in-/il-/im-/ir-.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne1_NI_f24"
+   }
+  ]
+ },
+ {
+  "n": 5103,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "doppelt/halb/dreimal so + Grundform + wie.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_AW_f01"
+   },
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_VG_f06"
+   }
+  ]
+ },
+ {
+  "n": 5104,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "nicht so + Grundform + wie.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_AW_f02"
+   }
+  ]
+ },
+ {
+  "n": 5105,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "anders + als.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_AW_f03"
+   },
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_VG_f05"
+   }
+  ]
+ },
+ {
+  "n": 5110,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "der gleiche + Nomen + wie.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_AW_f15"
+   }
+  ]
+ },
+ {
+  "n": 5112,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "… als.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_AW_f19"
+   }
+  ]
+ },
+ {
+  "n": 5113,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "zu + Adj, als dass + Konjunktiv II.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_AW_f20"
+   }
+  ]
+ },
+ {
+  "n": 5114,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "sowohl … als auch.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_AW_f21"
+   }
+  ]
+ },
+ {
+  "n": 5115,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "so + Grundform + wie möglich.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_AW_f22"
+   }
+  ]
+ },
+ {
+  "n": 5116,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "wie + Partizip II.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_AW_f24"
+   }
+  ]
+ },
+ {
+  "n": 5141,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "nicht so + Grundform + wie. weniger + Grundform + als.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_VG_f04"
+   }
+  ]
+ },
+ {
+  "n": 5144,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Pos.2, ngay sau desto + Komparativ.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_VG_f13"
+   }
+  ]
+ },
+ {
+  "n": 5145,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "KII Perfekt: hätte/wäre + Partizip II.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_VG_f16"
+   }
+  ]
+ },
+ {
+  "n": 5148,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Komparativ + Adjektivendung.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne2_VG_f23"
+   }
+  ]
+ },
+ {
+  "n": 5176,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "an/in dem + Zeitnomen.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne3_RS_f12"
+   }
+  ]
+ },
+ {
+  "n": 5180,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "der/den/dem…",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne3_RS_f19"
+   }
+  ]
+ },
+ {
+  "n": 5181,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "derjenige, der…",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne3_RS_f22"
+   }
+  ]
+ },
+ {
+  "n": 5207,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "damit + Nebensatz.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne3_ZU_f02"
+   }
+  ]
+ },
+ {
+  "n": 5208,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Partizip II + zu haben, zu sein.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne3_ZU_f05"
+   }
+  ]
+ },
+ {
+  "n": 5213,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Nomen + zu-Inf.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne3_ZU_f21"
+   }
+  ]
+ },
+ {
+  "n": 5214,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "nicht + zu + Infinitiv.",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "form",
+    "ref": "ne3_ZU_f24"
+   }
+  ]
+ },
+ {
+  "n": 5234,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "Die Frau, deren Kind krank ist, …",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "transform",
+    "ref": "t60"
+   }
+  ]
+ },
+ {
+  "n": 5235,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "Der Bus, auf den ich warte, …",
+  "uses": [
+   {
+    "app": "cluster-e-satz-operationen",
+    "kind": "transform",
+    "ref": "t61"
+   }
+  ]
+ },
+ {
+  "n": 5239,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Überraschung. Bekanntes. Drohung/Warnung.",
+  "uses": [
+   {
+    "app": "cluster-f-modalpartikeln",
+    "kind": "form",
+    "ref": "f1"
+   }
+  ]
+ },
+ {
+  "n": 5240,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Gegensatz. Überraschung. Ärger/Widersprechen.",
+  "uses": [
+   {
+    "app": "cluster-f-modalpartikeln",
+    "kind": "form",
+    "ref": "f2"
+   }
+  ]
+ },
+ {
+  "n": 5241,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "freundliche Aufforderung. kurz/schnell. Plan ohne festen Zeitpunkt.",
+  "uses": [
+   {
+    "app": "cluster-f-modalpartikeln",
+    "kind": "form",
+    "ref": "f3"
+   }
+  ]
+ },
+ {
+  "n": 5242,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Aussage verstärken. motivieren. Ratschlag. genervte Aufforderung. Bejahung/Verneinung. erinnern.",
+  "uses": [
+   {
+    "app": "cluster-f-modalpartikeln",
+    "kind": "form",
+    "ref": "f4"
+   }
+  ]
+ },
+ {
+  "n": 5244,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Bestätigung. Ermutigung. Ungeduld. Aufgeben/Geringschätzung.",
+  "uses": [
+   {
+    "app": "cluster-f-modalpartikeln",
+    "kind": "form",
+    "ref": "f6"
+   }
+  ]
+ },
+ {
+  "n": 5282,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "Das ist schon richtig, aber …",
+  "uses": [
+   {
+    "app": "cluster-f-modalpartikeln",
+    "kind": "transform",
+    "ref": "xsc5"
+   }
+  ]
+ },
+ {
+  "n": 5339,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "kurz/schnell — xem mail chút.",
+  "uses": [
+   {
+    "app": "cluster-f-modalpartikeln",
+    "kind": "form",
+    "ref": "ymlf15"
+   }
+  ]
+ },
+ {
+  "n": 5515,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Sag das ja/bloß nicht!",
+  "uses": [
+   {
+    "app": "cluster-f-modalpartikeln",
+    "kind": "transform",
+    "ref": "yfkt11"
+   }
+  ]
+ },
+ {
+  "n": 5525,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "Ich habe eigentlich keine Zeit, aber …",
+  "uses": [
+   {
+    "app": "cluster-f-modalpartikeln",
+    "kind": "transform",
+    "ref": "yfkt22"
+   }
+  ]
+ },
+ {
+  "n": 5560,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Modalverb + Infinitiv.",
+  "uses": [
+   {
+    "app": "vermutung-futur-trainer",
+    "kind": "form",
+    "ref": "f27"
+   }
+  ]
+ },
+ {
+  "n": 5561,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Modalverb + Partizip II + haben/sein.",
+  "uses": [
+   {
+    "app": "vermutung-futur-trainer",
+    "kind": "form",
+    "ref": "f28"
+   }
+  ]
+ },
+ {
+  "n": 5564,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "Präsens + Zeitangabe.",
+  "uses": [
+   {
+    "app": "vermutung-futur-trainer",
+    "kind": "form",
+    "ref": "f32"
+   }
+  ]
+ },
+ {
+  "n": 5593,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "werden + Partizip II + haben/sein.",
+  "uses": [
+   {
+    "app": "vermutung-futur-trainer",
+    "kind": "form",
+    "ref": "nv1_VM_f07"
+   }
+  ]
+ },
+ {
+  "n": 5622,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "vor + Dativ.",
+  "uses": [
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f6"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f21"
+   }
+  ]
+ },
+ {
+  "n": 5623,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "nach + Dativ.",
+  "uses": [
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f7"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f26"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "nr1_RK_f03"
+   }
+  ]
+ },
+ {
+  "n": 5624,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "mit + Dativ.",
+  "uses": [
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f8"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f23"
+   }
+  ]
+ },
+ {
+  "n": 5625,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "gegen + Akkusativ.",
+  "uses": [
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f11"
+   }
+  ]
+ },
+ {
+  "n": 5626,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "um + Akkusativ.",
+  "uses": [
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f12"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f18"
+   },
+   {
+    "app": "praeposition-trainer",
+    "kind": "form",
+    "ref": "f19"
+   }
+  ]
+ },
+ {
+  "n": 5712,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, dass er einkauft.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t23"
+   }
+  ]
+ },
+ {
+  "n": 5713,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, einzukaufen.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t24"
+   }
+  ]
+ },
+ {
+  "n": 5714,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, zu verstehen.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t25"
+   }
+  ]
+ },
+ {
+  "n": 5732,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, dass er die Aufgabe übernimmt.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t33"
+   }
+  ]
+ },
+ {
+  "n": 5733,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, dass ich zunehme.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t34"
+   }
+  ]
+ },
+ {
+  "n": 5734,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, abzunehmen.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t35"
+   }
+  ]
+ },
+ {
+  "n": 5735,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, zu übernehmen.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t36"
+   }
+  ]
+ },
+ {
+  "n": 5763,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, dass er es verspricht.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t47"
+   }
+  ]
+ },
+ {
+  "n": 5764,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, dass er ausgeht.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t48"
+   }
+  ]
+ },
+ {
+  "n": 5765,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, umzuziehen.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t49"
+   }
+  ]
+ },
+ {
+  "n": 5766,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "…, es zu versprechen.",
+  "uses": [
+   {
+    "app": "praefix-kompass",
+    "kind": "transform",
+    "ref": "t50"
+   }
+  ]
+ },
+ {
+  "n": 5784,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "-s.",
+  "uses": [
+   {
+    "app": "genus-plural",
+    "kind": "form",
+    "ref": "pf3"
+   }
+  ]
+ },
+ {
+  "n": 5879,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "der/die Reisende.",
+  "uses": [
+   {
+    "app": "genus-plural",
+    "kind": "form",
+    "ref": "nofx9"
+   }
+  ]
+ },
+ {
+  "n": 5880,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "der/die Angestellte.",
+  "uses": [
+   {
+    "app": "genus-plural",
+    "kind": "form",
+    "ref": "nofx10"
+   }
+  ]
+ },
+ {
+  "n": 6034,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "bin/bist/ist – war – gewesen.",
+  "uses": [
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "form",
+    "ref": "aufx16"
+   }
+  ]
+ },
+ {
+  "n": 6035,
+  "cat": "3_kho_doc_bang_TTS",
+  "tts": "habe/hast/hat – hatte – gehabt.",
+  "uses": [
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "form",
+    "ref": "aufx17"
+   }
+  ]
+ },
+ {
+  "n": 6045,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "Ich bin …",
+  "uses": [
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx1"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx2"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx3"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx4"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx5"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx6"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx7"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx8"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx9"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx10"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx11"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx12"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx13"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx14"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx15"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx16"
+   }
+  ]
+ },
+ {
+  "n": 6046,
+  "cat": "2_de_bai_chua_hoan_chinh",
+  "tts": "Ich habe …",
+  "uses": [
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx17"
+   },
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "transform",
+    "ref": "hstx18"
+   }
+  ]
+ },
+ {
+  "n": 6047,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "ä.",
+  "uses": [
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "form",
+    "ref": "gvfx10"
+   }
+  ]
+ },
+ {
+  "n": 6048,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "i.",
+  "uses": [
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "form",
+    "ref": "gvfx11"
+   }
+  ]
+ },
+ {
+  "n": 6049,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "ie.",
+  "uses": [
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "form",
+    "ref": "gvfx12"
+   }
+  ]
+ },
+ {
+  "n": 6050,
+  "cat": "4_manh_am_tiet_khong_phai_tu",
+  "tts": "äu.",
+  "uses": [
+   {
+    "app": "unregelmaessige-verben",
+    "kind": "form",
+    "ref": "gvfx13"
+   }
+  ]
+ }
+]
