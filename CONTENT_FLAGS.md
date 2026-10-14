@@ -2,18 +2,18 @@
 
 Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.json → app dùng speechSynthesis. Chưa sửa nội dung học.
 
-A_sai = câu sai ngữ pháp trong nguồn · B_chua_hoan_chinh = có „…“/chỗ trống · C_ky_hieu_viet_tat = có +, /, ≠, jdm, etw.… (TTS đọc ký hiệu, cần nghe lại)
+1_loi_noi_dung = lỗi nội dung (câu sai ngữ pháp trong nguồn) · 2_de_bai_chua_hoan_chinh = đề bài/câu mẫu chưa hoàn chỉnh (có „…“ hoặc chỗ trống) · 3_kho_doc_bang_TTS = cách viết khó đọc bằng TTS (+, /, ≠, jdm, etw. … — TTS đọc nguyên ký hiệu, cần nghe lại hoặc viết bản đọc riêng)
 
-- A_sai: 2
-- B_chua_hoan_chinh: 60
-- C_ky_hieu_viet_tat: 222
+- 1_loi_noi_dung: 2
+- 2_de_bai_chua_hoan_chinh: 60
+- 3_kho_doc_bang_TTS: 222
 
-## A_sai
+## 1_loi_noi_dung
 
 - „Ich ist gelungen.“ — unregelmaessige-verben:hse25
 - „Ich ist passiert.“ — unregelmaessige-verben:hse26
 
-## B_chua_hoan_chinh
+## 2_de_bai_chua_hoan_chinh
 
 - „Der Mann, dessen Auto gestohlen wurde… Die Frau, deren Kind krank ist… Die Leute, deren Haus brannte…“ — cluster-e-satz-operationen:rs4#2
 - „Höflich: Könnten Sie mir helfen? Ich hätte gern …“ — konjunktiv-trainer:kii4#2
@@ -76,7 +76,7 @@ A_sai = câu sai ngữ pháp trong nguồn · B_chua_hoan_chinh = có „…“/
 - „…, dass der Antrag bearbeitet werden muss.“ — passiv-trainer:zv3#0.3.a
 - „…, dass der Antrag bearbeitet sein muss.“ — passiv-trainer:zv3#0.3.b
 
-## C_ky_hieu_viet_tat
+## 3_kho_doc_bang_TTS
 
 - „Präsens + Zeitangabe: Diesen Sommer lerne ich schwimmen.“ — vermutung-futur-trainer:vm3#0
 - „werden + Partizip II.“ — passiv-trainer:f28

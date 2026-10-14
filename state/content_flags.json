@@ -1,6 +1,6 @@
 [
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 15,
   "tts": "Der Mann, dessen Auto gestohlen wurde… Die Frau, deren Kind krank ist… Die Leute, deren Haus brannte…",
   "file": "mp3/fa0be339653d.mp3",
@@ -13,7 +13,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 74,
   "tts": "Höflich: Könnten Sie mir helfen? Ich hätte gern …",
   "file": "mp3/3940405607d2.mp3",
@@ -26,7 +26,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 86,
   "tts": "Präsens + Zeitangabe: Diesen Sommer lerne ich schwimmen.",
   "file": "mp3/9c8c5bc4cd75.mp3",
@@ -39,7 +39,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 88,
   "tts": "etw. vor. haben, … zu: Ich habe vor, eine Sprache zu lernen.",
   "file": "mp3/ae597a69fe89.mp3",
@@ -52,7 +52,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 89,
   "tts": "an. fangen, sich etw. vor. nehmen, … zu: Ich habe mir vorgenommen, mich mehr zu bewegen.",
   "file": "mp3/2b7b0414606f.mp3",
@@ -65,7 +65,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 179,
   "tts": "werden + Partizip II.",
   "file": "mp3/b64a87448954.mp3",
@@ -78,7 +78,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 180,
   "tts": "sein + Partizip II.",
   "file": "mp3/5ecbf4fa3573.mp3",
@@ -91,7 +91,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 247,
   "tts": "wurde + PII.",
   "file": "mp3/83c9441d3992.mp3",
@@ -104,7 +104,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 248,
   "tts": "war + PII.",
   "file": "mp3/8eb0799cfd0a.mp3",
@@ -117,7 +117,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 249,
   "tts": "ist + PII + worden.",
   "file": "mp3/66523f144588.mp3",
@@ -130,7 +130,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 250,
   "tts": "ist + PII + gewesen.",
   "file": "mp3/1a8cce51b5f9.mp3",
@@ -143,7 +143,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 251,
   "tts": "war + PII + worden.",
   "file": "mp3/2fa8b53323d2.mp3",
@@ -156,7 +156,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 252,
   "tts": "war + PII + gewesen.",
   "file": "mp3/81b85d1cc038.mp3",
@@ -169,7 +169,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 253,
   "tts": "wird + PII + werden.",
   "file": "mp3/ace969564452.mp3",
@@ -182,7 +182,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 254,
   "tts": "Modalverb + PII + werden.",
   "file": "mp3/7a70f7ddf0d0.mp3",
@@ -195,7 +195,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 255,
   "tts": "Modalverb + PII + sein.",
   "file": "mp3/74c2a26e0712.mp3",
@@ -208,7 +208,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 256,
   "tts": "würde + PII.",
   "file": "mp3/00e4d69fc198.mp3",
@@ -221,7 +221,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 257,
   "tts": "wäre + PII.",
   "file": "mp3/2e7629d7e5d5.mp3",
@@ -234,7 +234,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 258,
   "tts": "bleiben + PII.",
   "file": "mp3/6ebf25d99060.mp3",
@@ -247,7 +247,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 268,
   "tts": "Wenn der Fehler korrigiert würde, …",
   "file": "mp3/a08406809977.mp3",
@@ -260,7 +260,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 269,
   "tts": "Wenn das Fenster geöffnet wäre, …",
   "file": "mp3/2a41a37da9ba.mp3",
@@ -273,7 +273,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 658,
   "tts": "Wenn ich Zeit hätte, …",
   "file": "mp3/a959d7bac4e0.mp3",
@@ -286,7 +286,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 659,
   "tts": "Wenn ich reich wäre, …",
   "file": "mp3/f29e680c1767.mp3",
@@ -299,7 +299,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 661,
   "tts": "…, würde ich bestehen.",
   "file": "mp3/fd3abd7fc4d0.mp3",
@@ -312,7 +312,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 667,
   "tts": "Infinitivstamm + e.",
   "file": "mp3/0d33c4283a35.mp3",
@@ -325,7 +325,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 773,
   "tts": "denn. weil/da. wegen+G. nämlich.",
   "file": "mp3/8e07ac159cb2.mp3",
@@ -338,7 +338,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 776,
   "tts": "bevor/ehe. nachdem.",
   "file": "mp3/66edef4ab59f.mp3",
@@ -351,7 +351,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 778,
   "tts": "ohne…zu. ohne dass.",
   "file": "mp3/6ea833f9ab6b.mp3",
@@ -364,7 +364,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 779,
   "tts": "trotz + Genitiv. ungeachtet + Genitiv.",
   "file": "mp3/4d2eea5f2229.mp3",
@@ -377,7 +377,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 787,
   "tts": "…, denn er ist krank.",
   "file": "mp3/407fb38101c3.mp3",
@@ -390,7 +390,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 788,
   "tts": "Wegen des Regens …",
   "file": "mp3/374a11dbd171.mp3",
@@ -408,7 +408,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 794,
   "tts": "Trotz des Regens …",
   "file": "mp3/cbd6f950fad9.mp3",
@@ -421,7 +421,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 821,
   "tts": "trotzdem. dennoch. zwar…aber.",
   "file": "mp3/85ed34f3215b.mp3",
@@ -434,7 +434,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 824,
   "tts": "seit. seitdem. seit + D.",
   "file": "mp3/e956fb53264b.mp3",
@@ -447,7 +447,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 825,
   "tts": "bis. bis + A. bis zu + D.",
   "file": "mp3/21f8735a3be4.mp3",
@@ -460,7 +460,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 826,
   "tts": "durch + A. mit + D.",
   "file": "mp3/84bd56dd2d10.mp3",
@@ -473,7 +473,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 827,
   "tts": "statt…zu. statt dass. statt + G.",
   "file": "mp3/95a5643f3044.mp3",
@@ -486,7 +486,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 828,
   "tts": "mithilfe. anhand + Genitiv.",
   "file": "mp3/965d97fb3c95.mp3",
@@ -499,7 +499,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 831,
   "tts": "wegen. aufgrund. infolge + Genitiv.",
   "file": "mp3/c27b0534653b.mp3",
@@ -512,7 +512,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 843,
   "tts": "…, denn sie ist müde.",
   "file": "mp3/17c50584f68e.mp3",
@@ -525,7 +525,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 844,
   "tts": "…, weil er keine Zeit hat.",
   "file": "mp3/e1eb074c6bd8.mp3",
@@ -538,7 +538,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 846,
   "tts": "Aufgrund vieler Fehler …",
   "file": "mp3/a8e8dbcde7a6.mp3",
@@ -556,7 +556,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 857,
   "tts": "Trotz der Kälte …",
   "file": "mp3/e882e9d0b532.mp3",
@@ -574,7 +574,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 917,
   "tts": "Zum Einkaufen geht er…",
   "file": "mp3/4a8b84fb5bf6.mp3",
@@ -587,7 +587,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 926,
   "tts": "+ -s-.",
   "file": "mp3/df0d44d43c0c.mp3",
@@ -600,7 +600,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 927,
   "tts": "+ -er-.",
   "file": "mp3/5a252f88ffde.mp3",
@@ -613,7 +613,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1060,
   "tts": "um nicht zu + Infinitiv.",
   "file": "mp3/d361daaedb8c.mp3",
@@ -626,7 +626,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1061,
   "tts": "Partizip II + zu werden.",
   "file": "mp3/e1fb053d2f5d.mp3",
@@ -644,7 +644,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1062,
   "tts": "zu + der, zur: zur Information, zur Vorbereitung.",
   "file": "mp3/3fb4de4dc414.mp3",
@@ -657,7 +657,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1064,
   "tts": "um + Genitiv + willen.",
   "file": "mp3/10464fbfb124.mp3",
@@ -670,7 +670,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1065,
   "tts": "für + Akkusativ.",
   "file": "mp3/6c3e089bb994.mp3",
@@ -693,7 +693,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1069,
   "tts": "Nomen + zum + Inf-Nomen: ein Messer zum Schneiden.",
   "file": "mp3/404ead8310d3.mp3",
@@ -706,7 +706,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1070,
   "tts": "Infinitiv + zu + Modalverb-Infinitiv.",
   "file": "mp3/759651ceed86.mp3",
@@ -719,7 +719,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1125,
   "tts": "Infinitiv + zu + können/müssen: ohne warten zu müssen.",
   "file": "mp3/1dd3438ff91d.mp3",
@@ -732,7 +732,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1127,
   "tts": "Partizip II + zu haben.",
   "file": "mp3/0cdc7c7c3660.mp3",
@@ -745,7 +745,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1128,
   "tts": "Nebensatz + Konjunktiv II: Er tut so, als ob er alles wüsste.",
   "file": "mp3/300ccc08bfad.mp3",
@@ -758,7 +758,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1129,
   "tts": "je + Komparativ + NS, desto + Komparativ + Verb Pos.2.",
   "file": "mp3/bee65dd12c6b.mp3",
@@ -771,7 +771,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1171,
   "tts": "Verb Pos.2 — denn + S + V.",
   "file": "mp3/b3c8d0afa0db.mp3",
@@ -784,7 +784,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1220,
   "tts": "Verb: so sehr + Verb + dass.",
   "file": "mp3/fba50a867800.mp3",
@@ -797,7 +797,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1221,
   "tts": "so + Adjektiv/Adverb + dass.",
   "file": "mp3/18c0036242c4.mp3",
@@ -810,7 +810,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1223,
   "tts": "solch ein + Nomen. ein solcher + Nomen.",
   "file": "mp3/bbacc93f7fcd.mp3",
@@ -823,7 +823,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 1224,
   "tts": "so ein großes Problem, dass …",
   "file": "mp3/77fede0ba48d.mp3",
@@ -836,7 +836,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1229,
   "tts": "als dass + Konjunktiv II.",
   "file": "mp3/f700b495d1c6.mp3",
@@ -849,7 +849,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 1230,
   "tts": "Adj + genug, um … zu + Infinitiv.",
   "file": "mp3/9e762a723db3.mp3",
@@ -862,7 +862,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1292,
   "tts": "wegen + G. aus + D. vor + D.",
   "file": "mp3/486b8d1dd698.mp3",
@@ -875,7 +875,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 1296,
   "tts": "…, dass sie heute wegen der Kälte zu Hause bleibt.",
   "file": "mp3/83a6ad1e9982.mp3",
@@ -888,7 +888,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 1301,
   "tts": "…, weil er seiner Tochter jeden Abend ein Märchen vorliest.",
   "file": "mp3/284ff448ae71.mp3",
@@ -901,7 +901,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1335,
   "tts": "+ Dativ.",
   "file": "mp3/bf8eb62cffd8.mp3",
@@ -914,7 +914,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1347,
   "tts": "trotz + Genitiv.",
   "file": "mp3/97f932459ff2.mp3",
@@ -927,7 +927,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 1404,
   "tts": "die ganze Zeit, in der …",
   "file": "mp3/b0d3fb23e55a.mp3",
@@ -940,7 +940,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 1405,
   "tts": "jedes Mal, wenn …",
   "file": "mp3/baacee072081.mp3",
@@ -953,7 +953,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 1406,
   "tts": "von + Dativ. bis + Akkusativ.",
   "file": "mp3/71c4a7f21b34.mp3",
@@ -966,7 +966,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 1912,
   "tts": "Der Mann, dessen Auto gestohlen wurde, …",
   "file": "mp3/305fb52c6850.mp3",
@@ -984,7 +984,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2204,
   "tts": "für + Akk. schwärmen.",
   "file": "mp3/565dda5e6cc3.mp3",
@@ -997,7 +997,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2206,
   "tts": "nach + D. sich sehnen.",
   "file": "mp3/05563870458f.mp3",
@@ -1010,7 +1010,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2207,
   "tts": "jdm verfallen sein.",
   "file": "mp3/4d88071c8c0a.mp3",
@@ -1028,7 +1028,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2217,
   "tts": "jdn abgrundtief hassen.",
   "file": "mp3/fcd137a43e0e.mp3",
@@ -1041,7 +1041,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2218,
   "tts": "Groll hegen gegen jdn.",
   "file": "mp3/db47087e5096.mp3",
@@ -1054,7 +1054,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2220,
   "tts": "Hass entwickeln gegen + Akk.",
   "file": "mp3/f9bb18d039e3.mp3",
@@ -1072,7 +1072,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2228,
   "tts": "sich fürchten vor + D.",
   "file": "mp3/48330f6bf658.mp3",
@@ -1085,7 +1085,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2242,
   "tts": "trauern um + Akk.",
   "file": "mp3/a6a7df9f1724.mp3",
@@ -1098,7 +1098,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2260,
   "tts": "erstaunt sein über + Akk.",
   "file": "mp3/628323fd0045.mp3",
@@ -1111,7 +1111,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2261,
   "tts": "jdn erstaunt anschauen.",
   "file": "mp3/42e7bd6c5218.mp3",
@@ -1124,7 +1124,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2263,
   "tts": "jdn in Erstaunen versetzen.",
   "file": "mp3/9cf1f25c8ff4.mp3",
@@ -1137,7 +1137,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2264,
   "tts": "jdm die Sprache verschlagen.",
   "file": "mp3/7ff5d4796d3e.mp3",
@@ -1150,7 +1150,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2265,
   "tts": "jdn aus der Fassung bringen.",
   "file": "mp3/39cc1c709e8f.mp3",
@@ -1163,7 +1163,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2269,
   "tts": "jdn von oben herab betrachten.",
   "file": "mp3/86b01e6ca576.mp3",
@@ -1176,7 +1176,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2273,
   "tts": "auf jdn herabschauen.",
   "file": "mp3/00b426d1af46.mp3",
@@ -1189,7 +1189,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2279,
   "tts": "etw. bezweifeln.",
   "file": "mp3/4c579c4870c0.mp3",
@@ -1202,7 +1202,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2280,
   "tts": "zweifeln an + D.",
   "file": "mp3/de482c3de39a.mp3",
@@ -1215,7 +1215,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 2293,
   "tts": "etw. in Erinnerung rufen.",
   "file": "mp3/caf5a135ba5c.mp3",
@@ -1228,7 +1228,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 2647,
   "tts": "Als ich klein war, …",
   "file": "mp3/66789c65c51f.mp3",
@@ -1241,7 +1241,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 2845,
   "tts": "Die Frau, deren Kind krank ist…",
   "file": "mp3/2415da92dba9.mp3",
@@ -1254,7 +1254,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 2847,
   "tts": "…, desto besser spreche ich.",
   "file": "mp3/24c64d588730.mp3",
@@ -1267,7 +1267,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3077,
   "tts": "Ich verstehe dich schon, aber …",
   "file": "mp3/b188ba6ed473.mp3",
@@ -1285,7 +1285,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3102,
   "tts": "Wo ist bloß/denn das Problem?",
   "file": "mp3/f58381a0406a.mp3",
@@ -1298,7 +1298,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3133,
   "tts": "— „Ja/Genau, in Köln.“.",
   "file": "mp3/3b857e475b82.mp3",
@@ -1311,7 +1311,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3149,
   "tts": "…, Ihr Angebot ist äußerst interessant.",
   "file": "mp3/05e5b199418a.mp3",
@@ -1324,7 +1324,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3173,
   "tts": "Dann fahren wir eben/halt mit dem Bus.",
   "file": "mp3/f2a96091bc4f.mp3",
@@ -1337,7 +1337,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3178,
   "tts": "Ich wollte eigentlich heute kommen, aber …",
   "file": "mp3/0b92ec3f1f27.mp3",
@@ -1350,7 +1350,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3179,
   "tts": "Du hättest ruhig/ja anrufen können!",
   "file": "mp3/f6918b9a4b7a.mp3",
@@ -1363,7 +1363,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3182,
   "tts": "Das kostet ja/aber viel!",
   "file": "mp3/687efe12b8a9.mp3",
@@ -1376,7 +1376,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3236,
   "tts": "Ich habe doch/eben keine Zeit.",
   "file": "mp3/5c14cd8139f6.mp3",
@@ -1394,7 +1394,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3315,
   "tts": "…, das ist äußerst wichtig.",
   "file": "mp3/5cf714c7bcc0.mp3",
@@ -1407,7 +1407,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3323,
   "tts": "Was ist bloß/denn passiert?",
   "file": "mp3/418c22491eb5.mp3",
@@ -1420,7 +1420,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3324,
   "tts": "Das ist halt/eben so, …",
   "file": "mp3/5f90a5d884a0.mp3",
@@ -1433,7 +1433,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3325,
   "tts": "Wenn er nur/doch anrufen würde!",
   "file": "mp3/1fd2e505c71d.mp3",
@@ -1446,7 +1446,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3326,
   "tts": "Das ist aber/ja teuer!",
   "file": "mp3/b7dbbb7d204f.mp3",
@@ -1459,7 +1459,7 @@
   ]
  },
  {
-  "cat": "A_sai",
+  "cat": "1_loi_noi_dung",
   "n": 3771,
   "tts": "Ich ist gelungen.",
   "file": "mp3/ac226b90d2fa.mp3",
@@ -1472,7 +1472,7 @@
   ]
  },
  {
-  "cat": "A_sai",
+  "cat": "1_loi_noi_dung",
   "n": 3772,
   "tts": "Ich ist passiert.",
   "file": "mp3/030921735afa.mp3",
@@ -1485,7 +1485,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3860,
   "tts": "Ich bin … gehen.",
   "file": "mp3/539f65112b75.mp3",
@@ -1498,7 +1498,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3861,
   "tts": "Ich bin … fahren.",
   "file": "mp3/24a91dfa4e19.mp3",
@@ -1511,7 +1511,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3862,
   "tts": "Ich bin … kommen.",
   "file": "mp3/50a7e300df29.mp3",
@@ -1524,7 +1524,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3863,
   "tts": "Ich bin … fliegen.",
   "file": "mp3/119bbc754ab8.mp3",
@@ -1537,7 +1537,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3864,
   "tts": "Ich bin … laufen.",
   "file": "mp3/efbb3a5fa7ad.mp3",
@@ -1550,7 +1550,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3865,
   "tts": "Ich bin … reisen.",
   "file": "mp3/0a4f00911430.mp3",
@@ -1563,7 +1563,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3866,
   "tts": "Ich bin … fallen.",
   "file": "mp3/53f1bd325e75.mp3",
@@ -1576,7 +1576,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3867,
   "tts": "Ich bin … aufstehen.",
   "file": "mp3/5cfcddb5868b.mp3",
@@ -1589,7 +1589,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3868,
   "tts": "Ich bin … einschlafen.",
   "file": "mp3/3b605e9441c9.mp3",
@@ -1602,7 +1602,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3869,
   "tts": "Ich bin … sterben.",
   "file": "mp3/cd425f34a2da.mp3",
@@ -1615,7 +1615,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3870,
   "tts": "Ich bin … wachsen.",
   "file": "mp3/5ba3ea3588fd.mp3",
@@ -1628,7 +1628,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3871,
   "tts": "Ich bin … werden.",
   "file": "mp3/1ae319d8315f.mp3",
@@ -1641,7 +1641,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3872,
   "tts": "Ich bin … bleiben.",
   "file": "mp3/40dcd82bec35.mp3",
@@ -1654,7 +1654,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3873,
   "tts": "Ich bin … passieren.",
   "file": "mp3/49feee8827ee.mp3",
@@ -1667,7 +1667,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3874,
   "tts": "Ich bin … geschehen.",
   "file": "mp3/4c052500c002.mp3",
@@ -1680,7 +1680,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3875,
   "tts": "Ich bin … gelingen.",
   "file": "mp3/195fbc79e40d.mp3",
@@ -1693,7 +1693,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3876,
   "tts": "Ich habe … sehen.",
   "file": "mp3/da4694819399.mp3",
@@ -1706,7 +1706,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3877,
   "tts": "Ich habe … lesen.",
   "file": "mp3/14f7170a9d6e.mp3",
@@ -1719,7 +1719,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3878,
   "tts": "Ich habe … essen.",
   "file": "mp3/156576a20294.mp3",
@@ -1732,7 +1732,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3879,
   "tts": "Ich habe … trinken.",
   "file": "mp3/dafb3e770277.mp3",
@@ -1745,7 +1745,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3880,
   "tts": "Ich habe … kaufen.",
   "file": "mp3/9128e7822932.mp3",
@@ -1758,7 +1758,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3881,
   "tts": "Ich habe … schreiben.",
   "file": "mp3/81d03e5ecdf8.mp3",
@@ -1771,7 +1771,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 3882,
   "tts": "Ich habe … sich freuen.",
   "file": "mp3/057a5826833e.mp3",
@@ -1784,7 +1784,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3898,
   "tts": "für etw. schwärmen.",
   "file": "mp3/aa4a673a83f3.mp3",
@@ -1797,7 +1797,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3899,
   "tts": "total verknallt in + Akk.",
   "file": "mp3/eea5edf7e24a.mp3",
@@ -1810,7 +1810,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3901,
   "tts": "Abscheu empfinden gegenüber + D.",
   "file": "mp3/f23dd37dc8ff.mp3",
@@ -1823,7 +1823,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3903,
   "tts": "unter + D. leiden.",
   "file": "mp3/3e1b103a0fca.mp3",
@@ -1836,7 +1836,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3922,
   "tts": "sich den Kopf über etw. zerbrechen.",
   "file": "mp3/5b8dee36cbc1.mp3",
@@ -1849,7 +1849,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3926,
   "tts": "Erbe ≠ Tradition.",
   "file": "mp3/853fed21d15d.mp3",
@@ -1862,7 +1862,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3928,
   "tts": "verliebt sein in jdn.",
   "file": "mp3/e8f2b0e90c13.mp3",
@@ -1875,7 +1875,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3930,
   "tts": "Sehnsucht nach jdm haben.",
   "file": "mp3/0260fd886ebd.mp3",
@@ -1888,7 +1888,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3931,
   "tts": "verrückt nach jdm sein.",
   "file": "mp3/807ca26ec5c9.mp3",
@@ -1901,7 +1901,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3932,
   "tts": "begeistert von jdm sein.",
   "file": "mp3/edbbda628387.mp3",
@@ -1914,7 +1914,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3933,
   "tts": "vernarrt in jdn sein.",
   "file": "mp3/4f942fd4ed00.mp3",
@@ -1927,7 +1927,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3934,
   "tts": "sich zu jdm hingezogen fühlen.",
   "file": "mp3/abc445be942c.mp3",
@@ -1940,7 +1940,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3935,
   "tts": "jdm treu sein/bleiben.",
   "file": "mp3/60429c204415.mp3",
@@ -1953,7 +1953,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3936,
   "tts": "in jdn verliebt sein.",
   "file": "mp3/398d269e9c38.mp3",
@@ -1966,7 +1966,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3937,
   "tts": "jdn ins Herz schließen.",
   "file": "mp3/3926b2341ae2.mp3",
@@ -1979,7 +1979,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3938,
   "tts": "jdm den Kopf verdrehen.",
   "file": "mp3/307b867468f1.mp3",
@@ -1992,7 +1992,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3940,
   "tts": "jdn auf Händen tragen.",
   "file": "mp3/f18585c082b2.mp3",
@@ -2005,7 +2005,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3944,
   "tts": "jdn küssen.",
   "file": "mp3/2a8880bb0fe4.mp3",
@@ -2018,7 +2018,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3945,
   "tts": "mit jdm liiert sein.",
   "file": "mp3/bed6833cb0a6.mp3",
@@ -2031,7 +2031,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3946,
   "tts": "eine Beziehung zu/mit jdm haben.",
   "file": "mp3/47bc6a2e98bc.mp3",
@@ -2044,7 +2044,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3949,
   "tts": "jdm untreu werden/sein.",
   "file": "mp3/c75fafdc3592.mp3",
@@ -2057,7 +2057,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3950,
   "tts": "Gefühle für jdn haben.",
   "file": "mp3/e26c0c95e20c.mp3",
@@ -2070,7 +2070,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3952,
   "tts": "jdm nahe stehen.",
   "file": "mp3/d277120ae75f.mp3",
@@ -2083,7 +2083,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3953,
   "tts": "Hass empfinden gegen jdn.",
   "file": "mp3/f21b96be7bcf.mp3",
@@ -2096,7 +2096,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3955,
   "tts": "jdn verabscheuen.",
   "file": "mp3/9fce8ade923d.mp3",
@@ -2109,7 +2109,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3956,
   "tts": "Abneigung gegen/gegenüber jdm haben.",
   "file": "mp3/d7bdf0459229.mp3",
@@ -2122,7 +2122,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3957,
   "tts": "jdn nicht ausstehen können.",
   "file": "mp3/f6bff0016f7c.mp3",
@@ -2135,7 +2135,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3958,
   "tts": "jdn nicht leiden können/mögen.",
   "file": "mp3/c327a4fa9de7.mp3",
@@ -2148,7 +2148,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3960,
   "tts": "feindselig gegenüber jdm sein.",
   "file": "mp3/a55638e44e6b.mp3",
@@ -2161,7 +2161,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3961,
   "tts": "auf jdn böse sein wegen etw.",
   "file": "mp3/f52c57ccd8a8.mp3",
@@ -2174,7 +2174,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3962,
   "tts": "jdn hassen wie die Pest.",
   "file": "mp3/0ed53f39bee4.mp3",
@@ -2187,7 +2187,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3963,
   "tts": "jdm den Tod an den Hals wünschen.",
   "file": "mp3/b9d75f4a8b2a.mp3",
@@ -2200,7 +2200,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3964,
   "tts": "jdn nicht riechen können.",
   "file": "mp3/8662c988b06e.mp3",
@@ -2213,7 +2213,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3965,
   "tts": "einen Groll gegen jdn hegen.",
   "file": "mp3/1a6b084c17b3.mp3",
@@ -2226,7 +2226,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3966,
   "tts": "auf dem Kriegsfuß mit jdm stehen/leben.",
   "file": "mp3/c50419266405.mp3",
@@ -2239,7 +2239,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3967,
   "tts": "jdm etwas nachtragen.",
   "file": "mp3/27400e145da3.mp3",
@@ -2252,7 +2252,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3968,
   "tts": "verfeindet mit jdm sein.",
   "file": "mp3/426d8545cbb5.mp3",
@@ -2265,7 +2265,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3970,
   "tts": "jdn verachten.",
   "file": "mp3/8515b422b7f8.mp3",
@@ -2278,7 +2278,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3971,
   "tts": "Verachtung empfinden für/gegenüber jdn.",
   "file": "mp3/6dbd093e1eeb.mp3",
@@ -2291,7 +2291,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3972,
   "tts": "jdn nicht ertragen können.",
   "file": "mp3/acf90d41b21c.mp3",
@@ -2304,7 +2304,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3973,
   "tts": "Rachegefühle gegen jdn hegen.",
   "file": "mp3/0eb1408373d6.mp3",
@@ -2317,7 +2317,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3975,
   "tts": "jdm die Freundschaft kündigen.",
   "file": "mp3/cfbd9cd06920.mp3",
@@ -2330,7 +2330,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3976,
   "tts": "jdn schneiden.",
   "file": "mp3/ccdccd907ceb.mp3",
@@ -2343,7 +2343,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3977,
   "tts": "jdn wie die Pest meiden.",
   "file": "mp3/51238f1a44ba.mp3",
@@ -2356,7 +2356,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3978,
   "tts": "jdn bis aufs Blut hassen.",
   "file": "mp3/d291228d52cd.mp3",
@@ -2369,7 +2369,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3979,
   "tts": "jdm gram sein.",
   "file": "mp3/2ebe85d01bf8.mp3",
@@ -2382,7 +2382,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3980,
   "tts": "vor etw. bange sein.",
   "file": "mp3/78746b04cfae.mp3",
@@ -2395,7 +2395,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3981,
   "tts": "sich vor etw. ängstigen.",
   "file": "mp3/fd486b500639.mp3",
@@ -2408,7 +2408,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3982,
   "tts": "vor/über etw. erschrecken.",
   "file": "mp3/261a93a35e48.mp3",
@@ -2421,7 +2421,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3986,
   "tts": "panisch wegen etw. sein.",
   "file": "mp3/2e9e43454ef2.mp3",
@@ -2434,7 +2434,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3990,
   "tts": "aus Angst etw. tun.",
   "file": "mp3/d31ffd40a2a2.mp3",
@@ -2447,7 +2447,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3991,
   "tts": "jdm eine Heidenangst einjagen/machen.",
   "file": "mp3/1058a9709cf0.mp3",
@@ -2460,7 +2460,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3993,
   "tts": "jdm Angst und Bange werden.",
   "file": "mp3/a3f955ebef18.mp3",
@@ -2473,7 +2473,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3994,
   "tts": "einen Bammel vor etw. haben.",
   "file": "mp3/41846823665c.mp3",
@@ -2486,7 +2486,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3995,
   "tts": "weiche Knie vor/bei Angst bekommen.",
   "file": "mp3/37f289e404e7.mp3",
@@ -2499,7 +2499,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 3998,
   "tts": "Herzklopfen vor etw. haben.",
   "file": "mp3/3e2ecae0e316.mp3",
@@ -2512,7 +2512,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4000,
   "tts": "verängstigt wegen/von etw. sein.",
   "file": "mp3/2dce7c4bd56c.mp3",
@@ -2525,7 +2525,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4003,
   "tts": "mutlos wegen etw. sein.",
   "file": "mp3/92a588660286.mp3",
@@ -2538,7 +2538,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4004,
   "tts": "jdm graut es vor etw.",
   "file": "mp3/e494ce86a054.mp3",
@@ -2551,7 +2551,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4006,
   "tts": "sich fürchterlich vor etw. fürchten.",
   "file": "mp3/922661139123.mp3",
@@ -2564,7 +2564,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4007,
   "tts": "wütend auf/über jdn/etw.",
   "file": "mp3/17ff96fad98e.mp3",
@@ -2577,7 +2577,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4010,
   "tts": "empört über etw. sein.",
   "file": "mp3/3fc5af63583c.mp3",
@@ -2590,7 +2590,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4011,
   "tts": "sich über etw. aufregen.",
   "file": "mp3/9fcd94f9d37f.mp3",
@@ -2603,7 +2603,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4019,
   "tts": "jdn auf die Palme bringen.",
   "file": "mp3/0ff6c0334599.mp3",
@@ -2616,7 +2616,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4021,
   "tts": "jdm platzt der Kragen.",
   "file": "mp3/3214165406d2.mp3",
@@ -2629,7 +2629,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4023,
   "tts": "jdm die Zornesröte ins Gesicht treiben.",
   "file": "mp3/3513bc4968b7.mp3",
@@ -2642,7 +2642,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4024,
   "tts": "wutentbrannt über etw. sein.",
   "file": "mp3/d8b48a9d41d2.mp3",
@@ -2655,7 +2655,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4026,
   "tts": "jdm den letzten Nerv rauben.",
   "file": "mp3/e96ab7c5e5c2.mp3",
@@ -2668,7 +2668,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4027,
   "tts": "bei etw. hochgehen.",
   "file": "mp3/6b8879e7a540.mp3",
@@ -2681,7 +2681,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4029,
   "tts": "jdm schwillt der Kamm.",
   "file": "mp3/0274b0ac5d1b.mp3",
@@ -2694,7 +2694,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4031,
   "tts": "sich schwarzärgern über etw.",
   "file": "mp3/e10c12c7f952.mp3",
@@ -2707,7 +2707,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4032,
   "tts": "betrübt über etw. sein.",
   "file": "mp3/e4a383e017f6.mp3",
@@ -2720,7 +2720,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4034,
   "tts": "um jdn/etw. weinen.",
   "file": "mp3/85874a134fa7.mp3",
@@ -2733,7 +2733,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4036,
   "tts": "sich um/über jdn grämen.",
   "file": "mp3/34e54fd6ed86.mp3",
@@ -2746,7 +2746,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4037,
   "tts": "betroffen von etw. sein.",
   "file": "mp3/664dcc405537.mp3",
@@ -2759,7 +2759,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4038,
   "tts": "erschüttert von/über etw. sein.",
   "file": "mp3/d6ed4b02429c.mp3",
@@ -2772,7 +2772,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4039,
   "tts": "verzweifelt über/an etw. sein.",
   "file": "mp3/a53317e557b9.mp3",
@@ -2785,7 +2785,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4048,
   "tts": "todunglücklich über etw. sein.",
   "file": "mp3/b97d7cd5065e.mp3",
@@ -2798,7 +2798,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4049,
   "tts": "trostlos wegen etw. sein.",
   "file": "mp3/e6578a86a627.mp3",
@@ -2811,7 +2811,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4050,
   "tts": "jdm das Herz schwer machen.",
   "file": "mp3/8cc393c605ad.mp3",
@@ -2824,7 +2824,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4051,
   "tts": "Trauer um jdn tragen.",
   "file": "mp3/dd16948ae9a4.mp3",
@@ -2837,7 +2837,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4052,
   "tts": "sich wegen etw. niedergeschlagen fühlen.",
   "file": "mp3/e6846f0b8aaf.mp3",
@@ -2850,7 +2850,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4056,
   "tts": "sich von jdm verabschieden.",
   "file": "mp3/54f606284ca3.mp3",
@@ -2863,7 +2863,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4058,
   "tts": "bekümmert über etw. sein.",
   "file": "mp3/53d1420ea932.mp3",
@@ -2876,7 +2876,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4060,
   "tts": "glücklich über etw. sein.",
   "file": "mp3/8309b70b6148.mp3",
@@ -2889,7 +2889,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4063,
   "tts": "begeistert von etw. sein.",
   "file": "mp3/6293ae20edb4.mp3",
@@ -2902,7 +2902,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4064,
   "tts": "erfreut über etw. sein.",
   "file": "mp3/5db8ca9ce4f3.mp3",
@@ -2915,7 +2915,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4067,
   "tts": "hocherfreut über etw. sein.",
   "file": "mp3/3d3e7dc72fb6.mp3",
@@ -2928,7 +2928,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4068,
   "tts": "überglücklich über etw. sein.",
   "file": "mp3/3d4f38e0ba5c.mp3",
@@ -2941,7 +2941,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4070,
   "tts": "auf Wolke sieben schweben/sein.",
   "file": "mp3/3970c72b670a.mp3",
@@ -2954,7 +2954,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4073,
   "tts": "über etw. jubeln.",
   "file": "mp3/78402f49dcb2.mp3",
@@ -2967,7 +2967,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4079,
   "tts": "sich diebisch über etw. freuen.",
   "file": "mp3/1f361a9275df.mp3",
@@ -2980,7 +2980,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4083,
   "tts": "beglückt über/von etw. sein.",
   "file": "mp3/020c563ee83c.mp3",
@@ -2993,7 +2993,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4084,
   "tts": "jdm ein Lächeln ins Gesicht zaubern.",
   "file": "mp3/5dee7bd18a37.mp3",
@@ -3006,7 +3006,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4085,
   "tts": "über etw. frohlocken.",
   "file": "mp3/d68998c1f076.mp3",
@@ -3019,7 +3019,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4086,
   "tts": "überrascht von/über etw. sein.",
   "file": "mp3/8400ffcb227a.mp3",
@@ -3032,7 +3032,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4087,
   "tts": "verblüfft über etw. sein.",
   "file": "mp3/29fd8810cda9.mp3",
@@ -3045,7 +3045,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4088,
   "tts": "sprachlos über etw. sein.",
   "file": "mp3/4c4843a0f09d.mp3",
@@ -3058,7 +3058,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4089,
   "tts": "verwundert über etw. sein.",
   "file": "mp3/b89c507164c3.mp3",
@@ -3071,7 +3071,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4090,
   "tts": "fassungslos über etw. sein.",
   "file": "mp3/7a383277e4f2.mp3",
@@ -3084,7 +3084,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4092,
   "tts": "über etw. staunen.",
   "file": "mp3/02b186d024bb.mp3",
@@ -3097,7 +3097,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4093,
   "tts": "jdm steht der Mund offen.",
   "file": "mp3/b2673ecf3b94.mp3",
@@ -3110,7 +3110,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4099,
   "tts": "jdm bleibt die Sprache weg.",
   "file": "mp3/5c7a9b128b3b.mp3",
@@ -3123,7 +3123,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4103,
   "tts": "jdm den Atem rauben.",
   "file": "mp3/f8d0a1a9b471.mp3",
@@ -3136,7 +3136,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4105,
   "tts": "jdm eine Überraschung bereiten.",
   "file": "mp3/124b34176be5.mp3",
@@ -3149,7 +3149,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4107,
   "tts": "perplex über etw. sein.",
   "file": "mp3/f8a15b9379d6.mp3",
@@ -3162,7 +3162,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4108,
   "tts": "irritiert von/über etw. sein.",
   "file": "mp3/b423477ddb20.mp3",
@@ -3175,7 +3175,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4109,
   "tts": "jdm fällt die Kinnlade herunter.",
   "file": "mp3/829b4d27856d.mp3",
@@ -3188,7 +3188,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4110,
   "tts": "jdn auf dem falschen Fuß erwischen.",
   "file": "mp3/072600d394dc.mp3",
@@ -3201,7 +3201,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4111,
   "tts": "arrogant gegenüber jdm sein.",
   "file": "mp3/68d8f106e9ea.mp3",
@@ -3214,7 +3214,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4112,
   "tts": "überheblich gegenüber jdm sein.",
   "file": "mp3/fc24963d24e0.mp3",
@@ -3227,7 +3227,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4113,
   "tts": "auf jdn herabsehen.",
   "file": "mp3/76a9de7a1475.mp3",
@@ -3240,7 +3240,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4114,
   "tts": "sich für etw. halten.",
   "file": "mp3/d25af320d247.mp3",
@@ -3253,7 +3253,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4115,
   "tts": "eingebildet auf etw. sein.",
   "file": "mp3/2cdf416847b8.mp3",
@@ -3266,7 +3266,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4116,
   "tts": "sich mit etw. brüsten.",
   "file": "mp3/5ac8e564ee87.mp3",
@@ -3279,7 +3279,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4121,
   "tts": "sich auf etw. einbilden.",
   "file": "mp3/03ff2bbc7537.mp3",
@@ -3292,7 +3292,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4122,
   "tts": "herablassend zu/gegenüber jdm sein.",
   "file": "mp3/7290151864a6.mp3",
@@ -3305,7 +3305,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4126,
   "tts": "auf jdn herabblicken.",
   "file": "mp3/8f44c43b8e7f.mp3",
@@ -3318,7 +3318,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4128,
   "tts": "eitel auf etw. sein.",
   "file": "mp3/758440019311.mp3",
@@ -3331,7 +3331,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4129,
   "tts": "dünkelhaft gegenüber jdm sein.",
   "file": "mp3/1408bfd2765b.mp3",
@@ -3344,7 +3344,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4131,
   "tts": "sich über jdn erheben.",
   "file": "mp3/2e87e7a23e30.mp3",
@@ -3357,7 +3357,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4132,
   "tts": "jdn von oben herab behandeln.",
   "file": "mp3/52c20d2a9efd.mp3",
@@ -3370,7 +3370,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4134,
   "tts": "sich als etw. Besseres fühlen.",
   "file": "mp3/a4e36e7e139a.mp3",
@@ -3383,7 +3383,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4135,
   "tts": "jdm etw. nicht gönnen.",
   "file": "mp3/d0080ef37594.mp3",
@@ -3396,7 +3396,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4136,
   "tts": "hochnäsig gegenüber jdm sein.",
   "file": "mp3/46778fd398dc.mp3",
@@ -3409,7 +3409,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4137,
   "tts": "an etw. zweifeln.",
   "file": "mp3/4dbd498455de.mp3",
@@ -3422,7 +3422,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4138,
   "tts": "unsicher in/bei etw. sein.",
   "file": "mp3/79e8d19162b0.mp3",
@@ -3435,7 +3435,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4139,
   "tts": "sich bei etw. unsicher fühlen.",
   "file": "mp3/9c116e3a7bcf.mp3",
@@ -3448,7 +3448,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4140,
   "tts": "sich bei etw. sicher sein.",
   "file": "mp3/e12cbbd57cd0.mp3",
@@ -3461,7 +3461,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4143,
   "tts": "sich nicht für/zwischen etw. entscheiden können.",
   "file": "mp3/aa70721f6583.mp3",
@@ -3474,7 +3474,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4154,
   "tts": "verunsichert von/durch etw. sein.",
   "file": "mp3/db43db021be7.mp3",
@@ -3487,7 +3487,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4155,
   "tts": "ratlos vor/bei etw. sein.",
   "file": "mp3/3c65b4357dad.mp3",
@@ -3500,7 +3500,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4161,
   "tts": "unschlüssig über/bei etw. sein.",
   "file": "mp3/cbb1197f58e0.mp3",
@@ -3513,7 +3513,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4164,
   "tts": "zu etw. beitragen.",
   "file": "mp3/b2e27079abbd.mp3",
@@ -3526,7 +3526,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4165,
   "tts": "eine Tradition fortsetzen/pflegen.",
   "file": "mp3/4999547b88de.mp3",
@@ -3539,7 +3539,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4167,
   "tts": "sich an etw. erinnern.",
   "file": "mp3/fe7be470e791.mp3",
@@ -3552,7 +3552,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4168,
   "tts": "von etw. geprägt sein.",
   "file": "mp3/baa6cf5b7881.mp3",
@@ -3565,7 +3565,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4171,
   "tts": "sich zu etw. bekennen.",
   "file": "mp3/d46ee6d87372.mp3",
@@ -3578,7 +3578,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4173,
   "tts": "geprägt sein durch etw.",
   "file": "mp3/f308e3627422.mp3",
@@ -3591,7 +3591,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4174,
   "tts": "Wurzeln in etw. haben.",
   "file": "mp3/e280f0893fbe.mp3",
@@ -3604,7 +3604,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4175,
   "tts": "sich für etw. einsetzen.",
   "file": "mp3/5fe33d2ee9f6.mp3",
@@ -3617,7 +3617,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4178,
   "tts": "vor/gegenüber jdm Respekt zeigen.",
   "file": "mp3/367cb5dc2699.mp3",
@@ -3630,7 +3630,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4179,
   "tts": "eine Rolle bei/in etw. spielen.",
   "file": "mp3/0ccb4d0dce1a.mp3",
@@ -3643,7 +3643,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4181,
   "tts": "sich von etw. abgrenzen.",
   "file": "mp3/968893157beb.mp3",
@@ -3656,7 +3656,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4183,
   "tts": "im Einklang mit etw. stehen.",
   "file": "mp3/56dce887ff28.mp3",
@@ -3669,7 +3669,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4185,
   "tts": "verwurzelt in etw. sein.",
   "file": "mp3/74d9847555ed.mp3",
@@ -3682,7 +3682,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4186,
   "tts": "auf etw. zurückgehen.",
   "file": "mp3/1baa2d0c7b24.mp3",
@@ -3695,7 +3695,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4187,
   "tts": "sich durch etw. auszeichnen.",
   "file": "mp3/a0db08a7ebad.mp3",
@@ -3708,7 +3708,7 @@
   ]
  },
  {
-  "cat": "C_ky_hieu_viet_tat",
+  "cat": "3_kho_doc_bang_TTS",
   "n": 4188,
   "tts": "im Zeichen von etw. stehen.",
   "file": "mp3/fda9a1fabefd.mp3",
@@ -3721,7 +3721,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 6196,
   "tts": "…, dass der Antrag bearbeitet werden muss.",
   "file": "mp3/073f5c95e691.mp3",
@@ -3734,7 +3734,7 @@
   ]
  },
  {
-  "cat": "B_chua_hoan_chinh",
+  "cat": "2_de_bai_chua_hoan_chinh",
   "n": 6197,
   "tts": "…, dass der Antrag bearbeitet sein muss.",
   "file": "mp3/26042c6d6078.mp3",
