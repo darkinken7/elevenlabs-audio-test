@@ -3,7 +3,7 @@
 Bản đầy đủ nằm ở repo `darkinken7/grammatik-trainer`, nhánh `claude/audio-integration`, file **`docs/AUDIO_HANDOFF.md`** (đọc file đó trước). Dưới đây chỉ là phần riêng của repo audio.
 
 ## Trạng thái một dòng
-4.625 MP3 trong `mp3/` (4.341 mục dùng được trong `audio-index.json`, 284 file đã có nhưng bị loại theo `CONTENT_FLAGS.md`). Quy tắc tạm dừng; mẫu pa1 chưa duyệt. Số dư do James cung cấp 10.857 (14/10) → suy ra từ ledger ≈ 2.579 sau đợt 4 app.
+4.676 MP3 trong `mp3/` (4.412 mục dùng được trong `audio-index.json`; 264 file đã có nhưng bị loại theo `CONTENT_FLAGS.md`, 20 đã bật lại sau kiểm nhận dạng thật). Quy tắc tạm dừng; mẫu pa1 chưa duyệt. Neo số dư James 3.238 (sau đợt 4 app) → suy ra ≈ 1.200–1.547 sau Präposition + kiểm nhận dạng. Lời đọc chuẩn hóa: `state/spoken_forms.json`.
 
 ## Nhánh và nơi đặt dữ liệu
 - Nhánh làm việc: `claude/grammatik-audio-workflow-b5injh` (chưa merge main, không merge khi James chưa bảo).
@@ -16,6 +16,10 @@ Bản đầy đủ nằm ở repo `darkinken7/grammatik-trainer`, nhánh `claude
 
 ## Quy trình tạo tiếp
 Xem mục „Quy trình tạo tiếp (cập nhật 2026-10-14 chiều)“ trong `README.md`. Ba điều dễ quên nhất:
-1. Giá = 0,9999 × ký tự gửi đi (kể cả „\n\n“ ngăn câu); Scribe = 165 credits mỗi lần gọi và `estimate_only` của Scribe luôn báo 0.
+1. Giá = 0,9999 × ký tự gửi đi (kể cả „\n\n“ ngăn câu); Scribe trên file TTS vừa tạo niêm yết 165/lần nhưng KHÔNG bị trừ số dư (đối soát 10.857 → 3.238); Scribe trên file tải lên = nhận dạng thật ≈ 5,48 credits/giây niêm yết. `estimate_only` của Scribe luôn 0, đừng dùng làm căn cứ.
 2. `tools/cut.py` chạy đúng một lần mỗi lô.
 3. Kiểm kê bằng `theme/audio/inventory.mjs` (repo grammatik-trainer) trước mỗi đợt, không dùng số ước tính cũ.
+
+## Bổ sung 2026-10-14 tối
+- `tools/spoken.py` → `state/spoken_forms.json` (display vs spoken, trạng thái auto/manual/hold/skip/da_bat_lai, review). `state/flag_overrides.json` = kết quả kiểm nhận dạng thật từng file; `tools/flags.py` đọc để bật lại. `qc/review/` = master kiểm + file nghe thử 129 file chưa kiểm.
+- Chi thật từ neo 3.238: TTS sm-005 1.690,83; nhận dạng thật 78,62 + 268,74 niêm yết (chưa biết có trừ).
