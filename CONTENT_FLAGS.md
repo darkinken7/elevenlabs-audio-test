@@ -303,4 +303,4 @@ Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.j
 
 ## Thông tin (vẫn dùng): câu một từ — đáp án dạng Partizip/từ đơn, hợp lệ
 
-186 câu, ví dụ: repariert., gebaut., geöffnet., gemacht., informiert., gegeben., genommen., geschrieben., geschlossen., gebracht., gelöst., verkauft., lachend., spielend., schlafend.
+305 câu, ví dụ: repariert., gebaut., geöffnet., gemacht., informiert., gegeben., genommen., geschrieben., geschlossen., gebracht., gelöst., verkauft., lachend., spielend., schlafend.
