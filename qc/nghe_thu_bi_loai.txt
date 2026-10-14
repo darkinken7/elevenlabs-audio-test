@@ -1,0 +1,8 @@
+Mẫu nghe thử 4 file ĐÃ CÓ nhưng bị CONTENT_FLAGS loại (không tốn thêm credits). Thứ tự trong qc/nghe_thu_bi_loai.mp3, cách nhau 1 giây:
+1. jdn ins Herz schließen.
+2. verzweifelt über/an etw. sein.
+3. Hass entwickeln gegen + Akk.
+4. Ich bin … gehen.
+
+Câu 1–3: nhóm 3_kho_doc_bang_TTS (jdn, etw., „/“, „+ Akk.“). Câu 4: nhóm 2_de_bai_chua_hoan_chinh („…“).
+Nếu đọc chấp nhận được → có thể bật lại (bỏ khỏi CONTENT_FLAGS); nếu không → tạo lại với ký hiệu đọc thành lời (xem docs/AUDIO_HANDOFF.md ở grammatik-trainer, mục 9).
