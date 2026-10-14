@@ -14,3 +14,6 @@ Giọng Lea Brandt – Explainer (pMrwpTuGOma7Nubxs5jo), eleven_multilingual_v2,
 ## Khóa tra cho app (2026-10-14)
 - `audio-map.json` / `audio-map.usable.json` khóa theo văn bản gửi TTS (`tts`, có thể thêm dấu chấm) — chỉ dùng nội bộ, KHÔNG dùng để tra trong app.
 - App dùng `audio-index.json` (tools/export_index.py): mỗi mục `{file, texts, apps}`, `texts` = chuỗi app truyền vào speakDe() đã chuẩn hóa bằng đúng quy tắc `gtNorm` (theme/audio/norm.mjs bên grammatik-trainer). Chỉ gồm câu cắt đạt và không nằm trong CONTENT_FLAGS.md.
+
+## Ngân sách (James, 2026-10-14 chiều)
+Bỏ dự phòng 10.000 và trần cũ 151.000 credits. Khi tạo tiếp câu còn thiếu: dùng trong số credits THỰC TẾ còn trong tài khoản, không tạo trùng (kiểm queue/ledger trước mỗi đợt), không mua thêm, không bật phí vượt hạn mức. Chưa tạo thêm cho đến khi James bảo tiếp tục.
