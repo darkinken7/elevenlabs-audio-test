@@ -1,0 +1,306 @@
+# Nội dung nguồn cần xem lại (2026-10-14)
+
+Các câu dưới đây CÓ file MP3 nhưng KHÔNG đưa vào audio-map.usable.json → app dùng speechSynthesis. Chưa sửa nội dung học.
+
+A_sai = câu sai ngữ pháp trong nguồn · B_chua_hoan_chinh = có „…“/chỗ trống · C_ky_hieu_viet_tat = có +, /, ≠, jdm, etw.… (TTS đọc ký hiệu, cần nghe lại)
+
+- A_sai: 2
+- B_chua_hoan_chinh: 60
+- C_ky_hieu_viet_tat: 222
+
+## A_sai
+
+- „Ich ist gelungen.“ — unregelmaessige-verben:hse25
+- „Ich ist passiert.“ — unregelmaessige-verben:hse26
+
+## B_chua_hoan_chinh
+
+- „Der Mann, dessen Auto gestohlen wurde… Die Frau, deren Kind krank ist… Die Leute, deren Haus brannte…“ — cluster-e-satz-operationen:rs4#2
+- „Höflich: Könnten Sie mir helfen? Ich hätte gern …“ — konjunktiv-trainer:kii4#2
+- „etw. vor. haben, … zu: Ich habe vor, eine Sprache zu lernen.“ — vermutung-futur-trainer:vm3#2
+- „an. fangen, sich etw. vor. nehmen, … zu: Ich habe mir vorgenommen, mich mehr zu bewegen.“ — vermutung-futur-trainer:vm3#3
+- „Wenn der Fehler korrigiert würde, …“ — passiv-trainer:np1_ZV_f22
+- „Wenn das Fenster geöffnet wäre, …“ — passiv-trainer:np1_ZV_f23
+- „Wenn ich Zeit hätte, …“ — konjunktiv-trainer:p40
+- „Wenn ich reich wäre, …“ — konjunktiv-trainer:p42
+- „…, würde ich bestehen.“ — konjunktiv-trainer:p48
+- „ohne…zu. ohne dass.“ — cluster-c-angaben-konnektoren:f7
+- „…, denn er ist krank.“ — cluster-c-angaben-konnektoren:t2
+- „Wegen des Regens …“ — cluster-c-angaben-konnektoren:t3, cluster-d-praep-kasus:t10
+- „Trotz des Regens …“ — cluster-c-angaben-konnektoren:t9
+- „trotzdem. dennoch. zwar…aber.“ — cluster-c-angaben-konnektoren:f9
+- „statt…zu. statt dass. statt + G.“ — cluster-c-angaben-konnektoren:f15
+- „…, denn sie ist müde.“ — cluster-c-angaben-konnektoren:t11
+- „…, weil er keine Zeit hat.“ — cluster-c-angaben-konnektoren:t12
+- „Aufgrund vieler Fehler …“ — cluster-c-angaben-konnektoren:t14, cluster-d-praep-kasus:t26
+- „Trotz der Kälte …“ — cluster-c-angaben-konnektoren:t25, cluster-d-praep-kasus:t11
+- „Zum Einkaufen geht er…“ — cluster-c-angaben-konnektoren:t43
+- „so ein großes Problem, dass …“ — cluster-c-angaben-konnektoren:nc2_KO_f14
+- „Adj + genug, um … zu + Infinitiv.“ — cluster-c-angaben-konnektoren:nc2_KO_f21
+- „…, dass sie heute wegen der Kälte zu Hause bleibt.“ — cluster-c-angaben-konnektoren:nc2_TK_t04
+- „…, weil er seiner Tochter jeden Abend ein Märchen vorliest.“ — cluster-c-angaben-konnektoren:nc2_TK_t11
+- „die ganze Zeit, in der …“ — cluster-c-angaben-konnektoren:nc3_TE_f07
+- „jedes Mal, wenn …“ — cluster-c-angaben-konnektoren:nc3_TE_f08
+- „Der Mann, dessen Auto gestohlen wurde, …“ — cluster-e-satz-operationen:t59, cluster-e-satz-operationen:w24
+- „Als ich klein war, …“ — cluster-e-satz-operationen:e9
+- „Die Frau, deren Kind krank ist…“ — cluster-e-satz-operationen:e38
+- „…, desto besser spreche ich.“ — cluster-e-satz-operationen:e40
+- „Ich verstehe dich schon, aber …“ — cluster-f-modalpartikeln:ysce20, cluster-f-modalpartikeln:ysct16
+- „…, Ihr Angebot ist äußerst interessant.“ — cluster-f-modalpartikeln:ygre11
+- „Ich wollte eigentlich heute kommen, aber …“ — cluster-f-modalpartikeln:yfke23
+- „…, das ist äußerst wichtig.“ — cluster-f-modalpartikeln:ppgr31
+- „Das ist halt/eben so, …“ — cluster-f-modalpartikeln:ppfk34
+- „Ich bin … gehen.“ — unregelmaessige-verben:hsex1
+- „Ich bin … fahren.“ — unregelmaessige-verben:hsex2
+- „Ich bin … kommen.“ — unregelmaessige-verben:hsex3
+- „Ich bin … fliegen.“ — unregelmaessige-verben:hsex4
+- „Ich bin … laufen.“ — unregelmaessige-verben:hsex5
+- „Ich bin … reisen.“ — unregelmaessige-verben:hsex6
+- „Ich bin … fallen.“ — unregelmaessige-verben:hsex7
+- „Ich bin … aufstehen.“ — unregelmaessige-verben:hsex8
+- „Ich bin … einschlafen.“ — unregelmaessige-verben:hsex9
+- „Ich bin … sterben.“ — unregelmaessige-verben:hsex10
+- „Ich bin … wachsen.“ — unregelmaessige-verben:hsex11
+- „Ich bin … werden.“ — unregelmaessige-verben:hsex12
+- „Ich bin … bleiben.“ — unregelmaessige-verben:hsex13
+- „Ich bin … passieren.“ — unregelmaessige-verben:hsex14
+- „Ich bin … geschehen.“ — unregelmaessige-verben:hsex15
+- „Ich bin … gelingen.“ — unregelmaessige-verben:hsex16
+- „Ich habe … sehen.“ — unregelmaessige-verben:hsex17
+- „Ich habe … lesen.“ — unregelmaessige-verben:hsex18
+- „Ich habe … essen.“ — unregelmaessige-verben:hsex19
+- „Ich habe … trinken.“ — unregelmaessige-verben:hsex20
+- „Ich habe … kaufen.“ — unregelmaessige-verben:hsex21
+- „Ich habe … schreiben.“ — unregelmaessige-verben:hsex22
+- „Ich habe … sich freuen.“ — unregelmaessige-verben:hsex23
+- „…, dass der Antrag bearbeitet werden muss.“ — passiv-trainer:zv3#0.3.a
+- „…, dass der Antrag bearbeitet sein muss.“ — passiv-trainer:zv3#0.3.b
+
+## C_ky_hieu_viet_tat
+
+- „Präsens + Zeitangabe: Diesen Sommer lerne ich schwimmen.“ — vermutung-futur-trainer:vm3#0
+- „werden + Partizip II.“ — passiv-trainer:f28
+- „sein + Partizip II.“ — passiv-trainer:f29
+- „wurde + PII.“ — passiv-trainer:np1_ZV_f01
+- „war + PII.“ — passiv-trainer:np1_ZV_f02
+- „ist + PII + worden.“ — passiv-trainer:np1_ZV_f03
+- „ist + PII + gewesen.“ — passiv-trainer:np1_ZV_f04
+- „war + PII + worden.“ — passiv-trainer:np1_ZV_f05
+- „war + PII + gewesen.“ — passiv-trainer:np1_ZV_f06
+- „wird + PII + werden.“ — passiv-trainer:np1_ZV_f07
+- „Modalverb + PII + werden.“ — passiv-trainer:np1_ZV_f08
+- „Modalverb + PII + sein.“ — passiv-trainer:np1_ZV_f09
+- „würde + PII.“ — passiv-trainer:np1_ZV_f10
+- „wäre + PII.“ — passiv-trainer:np1_ZV_f11
+- „bleiben + PII.“ — passiv-trainer:np1_ZV_f12
+- „Infinitivstamm + e.“ — konjunktiv-trainer:f57
+- „denn. weil/da. wegen+G. nämlich.“ — cluster-c-angaben-konnektoren:f2
+- „bevor/ehe. nachdem.“ — cluster-c-angaben-konnektoren:f5
+- „trotz + Genitiv. ungeachtet + Genitiv.“ — cluster-c-angaben-konnektoren:f8
+- „seit. seitdem. seit + D.“ — cluster-c-angaben-konnektoren:f12
+- „bis. bis + A. bis zu + D.“ — cluster-c-angaben-konnektoren:f13
+- „durch + A. mit + D.“ — cluster-c-angaben-konnektoren:f14
+- „mithilfe. anhand + Genitiv.“ — cluster-c-angaben-konnektoren:f16
+- „wegen. aufgrund. infolge + Genitiv.“ — cluster-c-angaben-konnektoren:f19
+- „+ -s-.“ — cluster-c-angaben-konnektoren:f27
+- „+ -er-.“ — cluster-c-angaben-konnektoren:f28
+- „um nicht zu + Infinitiv.“ — cluster-c-angaben-konnektoren:nc1_FI_f06
+- „Partizip II + zu werden.“ — cluster-c-angaben-konnektoren:nc1_FI_f08, cluster-e-satz-operationen:ne3_ZU_f06
+- „zu + der, zur: zur Information, zur Vorbereitung.“ — cluster-c-angaben-konnektoren:nc1_FI_f11
+- „um + Genitiv + willen.“ — cluster-c-angaben-konnektoren:nc1_FI_f13
+- „für + Akkusativ.“ — cluster-c-angaben-konnektoren:nc1_FI_f14, praeposition-trainer:f24, praeposition-trainer:f3
+- „Nomen + zum + Inf-Nomen: ein Messer zum Schneiden.“ — cluster-c-angaben-konnektoren:nc1_FI_f24
+- „Infinitiv + zu + Modalverb-Infinitiv.“ — cluster-c-angaben-konnektoren:nc1_FI_f25
+- „Infinitiv + zu + können/müssen: ohne warten zu müssen.“ — cluster-c-angaben-konnektoren:nc1_MO_f15
+- „Partizip II + zu haben.“ — cluster-c-angaben-konnektoren:nc1_MO_f18
+- „Nebensatz + Konjunktiv II: Er tut so, als ob er alles wüsste.“ — cluster-c-angaben-konnektoren:nc1_MO_f21
+- „je + Komparativ + NS, desto + Komparativ + Verb Pos.2.“ — cluster-c-angaben-konnektoren:nc1_MO_f22
+- „Verb Pos.2 — denn + S + V.“ — cluster-c-angaben-konnektoren:nc2_KA_f01
+- „Verb: so sehr + Verb + dass.“ — cluster-c-angaben-konnektoren:nc2_KO_f09
+- „so + Adjektiv/Adverb + dass.“ — cluster-c-angaben-konnektoren:nc2_KO_f10
+- „solch ein + Nomen. ein solcher + Nomen.“ — cluster-c-angaben-konnektoren:nc2_KO_f13
+- „als dass + Konjunktiv II.“ — cluster-c-angaben-konnektoren:nc2_KO_f20
+- „wegen + G. aus + D. vor + D.“ — cluster-c-angaben-konnektoren:nc2_TK_f29
+- „+ Dativ.“ — cluster-c-angaben-konnektoren:nc3_KZ_f08
+- „trotz + Genitiv.“ — cluster-c-angaben-konnektoren:nc3_KZ_f23
+- „von + Dativ. bis + Akkusativ.“ — cluster-c-angaben-konnektoren:nc3_TE_f10
+- „für + Akk. schwärmen.“ — wortschatz:w4
+- „nach + D. sich sehnen.“ — wortschatz:w6
+- „jdm verfallen sein.“ — wortschatz:lie2, wortschatz:w7
+- „jdn abgrundtief hassen.“ — wortschatz:w17
+- „Groll hegen gegen jdn.“ — wortschatz:w18
+- „Hass entwickeln gegen + Akk.“ — wortschatz:hae3, wortschatz:w20
+- „sich fürchten vor + D.“ — wortschatz:w28
+- „trauern um + Akk.“ — wortschatz:w45
+- „erstaunt sein über + Akk.“ — wortschatz:w64
+- „jdn erstaunt anschauen.“ — wortschatz:w65
+- „jdn in Erstaunen versetzen.“ — wortschatz:w67
+- „jdm die Sprache verschlagen.“ — wortschatz:w68
+- „jdn aus der Fassung bringen.“ — wortschatz:w69
+- „jdn von oben herab betrachten.“ — wortschatz:w73
+- „auf jdn herabschauen.“ — wortschatz:w77
+- „etw. bezweifeln.“ — wortschatz:w85
+- „zweifeln an + D.“ — wortschatz:w86
+- „etw. in Erinnerung rufen.“ — wortschatz:w99
+- „Wo ist bloß/denn das Problem?“ — cluster-f-modalpartikeln:yree5
+- „— „Ja/Genau, in Köln.“.“ — cluster-f-modalpartikeln:yane16
+- „Dann fahren wir eben/halt mit dem Bus.“ — cluster-f-modalpartikeln:yfke17
+- „Du hättest ruhig/ja anrufen können!“ — cluster-f-modalpartikeln:yfke25
+- „Das kostet ja/aber viel!“ — cluster-f-modalpartikeln:yfke28
+- „Ich habe doch/eben keine Zeit.“ — cluster-f-modalpartikeln:p23, mix-review:371
+- „Was ist bloß/denn passiert?“ — cluster-f-modalpartikeln:ppfk33
+- „Wenn er nur/doch anrufen würde!“ — cluster-f-modalpartikeln:ppfk35
+- „Das ist aber/ja teuer!“ — cluster-f-modalpartikeln:ppfk36
+- „für etw. schwärmen.“ — wortschatz:lie1
+- „total verknallt in + Akk.“ — wortschatz:lie3
+- „Abscheu empfinden gegenüber + D.“ — wortschatz:hae2
+- „unter + D. leiden.“ — wortschatz:ane2
+- „sich den Kopf über etw. zerbrechen.“ — wortschatz:use3
+- „Erbe ≠ Tradition.“ — wortschatz:kue4
+- „verliebt sein in jdn.“ — wortschatz:lie6
+- „Sehnsucht nach jdm haben.“ — wortschatz:lie8
+- „verrückt nach jdm sein.“ — wortschatz:lie9
+- „begeistert von jdm sein.“ — wortschatz:lie10
+- „vernarrt in jdn sein.“ — wortschatz:lie11
+- „sich zu jdm hingezogen fühlen.“ — wortschatz:lie12
+- „jdm treu sein/bleiben.“ — wortschatz:lie13
+- „in jdn verliebt sein.“ — wortschatz:lie14
+- „jdn ins Herz schließen.“ — wortschatz:lie15
+- „jdm den Kopf verdrehen.“ — wortschatz:lie16
+- „jdn auf Händen tragen.“ — wortschatz:lie18
+- „jdn küssen.“ — wortschatz:lie22
+- „mit jdm liiert sein.“ — wortschatz:lie23
+- „eine Beziehung zu/mit jdm haben.“ — wortschatz:lie24
+- „jdm untreu werden/sein.“ — wortschatz:lie27
+- „Gefühle für jdn haben.“ — wortschatz:lie28
+- „jdm nahe stehen.“ — wortschatz:lie30
+- „Hass empfinden gegen jdn.“ — wortschatz:hae4
+- „jdn verabscheuen.“ — wortschatz:hae6
+- „Abneigung gegen/gegenüber jdm haben.“ — wortschatz:hae7
+- „jdn nicht ausstehen können.“ — wortschatz:hae8
+- „jdn nicht leiden können/mögen.“ — wortschatz:hae9
+- „feindselig gegenüber jdm sein.“ — wortschatz:hae11
+- „auf jdn böse sein wegen etw.“ — wortschatz:hae12
+- „jdn hassen wie die Pest.“ — wortschatz:hae13
+- „jdm den Tod an den Hals wünschen.“ — wortschatz:hae14
+- „jdn nicht riechen können.“ — wortschatz:hae15
+- „einen Groll gegen jdn hegen.“ — wortschatz:hae16
+- „auf dem Kriegsfuß mit jdm stehen/leben.“ — wortschatz:hae17
+- „jdm etwas nachtragen.“ — wortschatz:hae18
+- „verfeindet mit jdm sein.“ — wortschatz:hae19
+- „jdn verachten.“ — wortschatz:hae21
+- „Verachtung empfinden für/gegenüber jdn.“ — wortschatz:hae22
+- „jdn nicht ertragen können.“ — wortschatz:hae23
+- „Rachegefühle gegen jdn hegen.“ — wortschatz:hae24
+- „jdm die Freundschaft kündigen.“ — wortschatz:hae26
+- „jdn schneiden.“ — wortschatz:hae27
+- „jdn wie die Pest meiden.“ — wortschatz:hae28
+- „jdn bis aufs Blut hassen.“ — wortschatz:hae29
+- „jdm gram sein.“ — wortschatz:hae30
+- „vor etw. bange sein.“ — wortschatz:ane4
+- „sich vor etw. ängstigen.“ — wortschatz:ane5
+- „vor/über etw. erschrecken.“ — wortschatz:ane6
+- „panisch wegen etw. sein.“ — wortschatz:ane10
+- „aus Angst etw. tun.“ — wortschatz:ane14
+- „jdm eine Heidenangst einjagen/machen.“ — wortschatz:ane15
+- „jdm Angst und Bange werden.“ — wortschatz:ane17
+- „einen Bammel vor etw. haben.“ — wortschatz:ane18
+- „weiche Knie vor/bei Angst bekommen.“ — wortschatz:ane19
+- „Herzklopfen vor etw. haben.“ — wortschatz:ane22
+- „verängstigt wegen/von etw. sein.“ — wortschatz:ane24
+- „mutlos wegen etw. sein.“ — wortschatz:ane27
+- „jdm graut es vor etw.“ — wortschatz:ane28
+- „sich fürchterlich vor etw. fürchten.“ — wortschatz:ane30
+- „wütend auf/über jdn/etw.“ — wortschatz:wue4
+- „empört über etw. sein.“ — wortschatz:wue7
+- „sich über etw. aufregen.“ — wortschatz:wue8
+- „jdn auf die Palme bringen.“ — wortschatz:wue17
+- „jdm platzt der Kragen.“ — wortschatz:wue19
+- „jdm die Zornesröte ins Gesicht treiben.“ — wortschatz:wue21
+- „wutentbrannt über etw. sein.“ — wortschatz:wue22
+- „jdm den letzten Nerv rauben.“ — wortschatz:wue25
+- „bei etw. hochgehen.“ — wortschatz:wue26
+- „jdm schwillt der Kamm.“ — wortschatz:wue28
+- „sich schwarzärgern über etw.“ — wortschatz:wue30
+- „betrübt über etw. sein.“ — wortschatz:tre4
+- „um jdn/etw. weinen.“ — wortschatz:tre6
+- „sich um/über jdn grämen.“ — wortschatz:tre8
+- „betroffen von etw. sein.“ — wortschatz:tre9
+- „erschüttert von/über etw. sein.“ — wortschatz:tre10
+- „verzweifelt über/an etw. sein.“ — wortschatz:tre11
+- „todunglücklich über etw. sein.“ — wortschatz:tre20
+- „trostlos wegen etw. sein.“ — wortschatz:tre21
+- „jdm das Herz schwer machen.“ — wortschatz:tre22
+- „Trauer um jdn tragen.“ — wortschatz:tre23
+- „sich wegen etw. niedergeschlagen fühlen.“ — wortschatz:tre24
+- „sich von jdm verabschieden.“ — wortschatz:tre28
+- „bekümmert über etw. sein.“ — wortschatz:tre30
+- „glücklich über etw. sein.“ — wortschatz:fre5
+- „begeistert von etw. sein.“ — wortschatz:fre8
+- „erfreut über etw. sein.“ — wortschatz:fre9
+- „hocherfreut über etw. sein.“ — wortschatz:fre12
+- „überglücklich über etw. sein.“ — wortschatz:fre13
+- „auf Wolke sieben schweben/sein.“ — wortschatz:fre15
+- „über etw. jubeln.“ — wortschatz:fre18
+- „sich diebisch über etw. freuen.“ — wortschatz:fre24
+- „beglückt über/von etw. sein.“ — wortschatz:fre28
+- „jdm ein Lächeln ins Gesicht zaubern.“ — wortschatz:fre29
+- „über etw. frohlocken.“ — wortschatz:fre30
+- „überrascht von/über etw. sein.“ — wortschatz:ube5
+- „verblüfft über etw. sein.“ — wortschatz:ube6
+- „sprachlos über etw. sein.“ — wortschatz:ube7
+- „verwundert über etw. sein.“ — wortschatz:ube8
+- „fassungslos über etw. sein.“ — wortschatz:ube9
+- „über etw. staunen.“ — wortschatz:ube11
+- „jdm steht der Mund offen.“ — wortschatz:ube12
+- „jdm bleibt die Sprache weg.“ — wortschatz:ube19
+- „jdm den Atem rauben.“ — wortschatz:ube23
+- „jdm eine Überraschung bereiten.“ — wortschatz:ube25
+- „perplex über etw. sein.“ — wortschatz:ube27
+- „irritiert von/über etw. sein.“ — wortschatz:ube28
+- „jdm fällt die Kinnlade herunter.“ — wortschatz:ube29
+- „jdn auf dem falschen Fuß erwischen.“ — wortschatz:ube30
+- „arrogant gegenüber jdm sein.“ — wortschatz:uhe5
+- „überheblich gegenüber jdm sein.“ — wortschatz:uhe6
+- „auf jdn herabsehen.“ — wortschatz:uhe7
+- „sich für etw. halten.“ — wortschatz:uhe8
+- „eingebildet auf etw. sein.“ — wortschatz:uhe9
+- „sich mit etw. brüsten.“ — wortschatz:uhe10
+- „sich auf etw. einbilden.“ — wortschatz:uhe15
+- „herablassend zu/gegenüber jdm sein.“ — wortschatz:uhe16
+- „auf jdn herabblicken.“ — wortschatz:uhe20
+- „eitel auf etw. sein.“ — wortschatz:uhe22
+- „dünkelhaft gegenüber jdm sein.“ — wortschatz:uhe23
+- „sich über jdn erheben.“ — wortschatz:uhe25
+- „jdn von oben herab behandeln.“ — wortschatz:uhe26
+- „sich als etw. Besseres fühlen.“ — wortschatz:uhe28
+- „jdm etw. nicht gönnen.“ — wortschatz:uhe29
+- „hochnäsig gegenüber jdm sein.“ — wortschatz:uhe30
+- „an etw. zweifeln.“ — wortschatz:use4
+- „unsicher in/bei etw. sein.“ — wortschatz:use5
+- „sich bei etw. unsicher fühlen.“ — wortschatz:use6
+- „sich bei etw. sicher sein.“ — wortschatz:use7
+- „sich nicht für/zwischen etw. entscheiden können.“ — wortschatz:use10
+- „verunsichert von/durch etw. sein.“ — wortschatz:use21
+- „ratlos vor/bei etw. sein.“ — wortschatz:use22
+- „unschlüssig über/bei etw. sein.“ — wortschatz:use28
+- „zu etw. beitragen.“ — wortschatz:kue5
+- „eine Tradition fortsetzen/pflegen.“ — wortschatz:kue6
+- „sich an etw. erinnern.“ — wortschatz:kue8
+- „von etw. geprägt sein.“ — wortschatz:kue9
+- „sich zu etw. bekennen.“ — wortschatz:kue12
+- „geprägt sein durch etw.“ — wortschatz:kue14
+- „Wurzeln in etw. haben.“ — wortschatz:kue16
+- „sich für etw. einsetzen.“ — wortschatz:kue17
+- „vor/gegenüber jdm Respekt zeigen.“ — wortschatz:kue20
+- „eine Rolle bei/in etw. spielen.“ — wortschatz:kue21
+- „sich von etw. abgrenzen.“ — wortschatz:kue23
+- „im Einklang mit etw. stehen.“ — wortschatz:kue25
+- „verwurzelt in etw. sein.“ — wortschatz:kue27
+- „auf etw. zurückgehen.“ — wortschatz:kue28
+- „sich durch etw. auszeichnen.“ — wortschatz:kue29
+- „im Zeichen von etw. stehen.“ — wortschatz:kue30
+
+## Thông tin (vẫn dùng): câu một từ — đáp án dạng Partizip/từ đơn, hợp lệ
+
+186 câu, ví dụ: repariert., gebaut., geöffnet., gemacht., informiert., gegeben., genommen., geschrieben., geschlossen., gebracht., gelöst., verkauft., lachend., spielend., schlafend.
