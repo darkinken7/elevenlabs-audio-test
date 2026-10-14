@@ -1,10 +1,10 @@
 {
- "as_of": "2026-10-14",
- "balance": 10857,
+ "as_of": "2026-10-14 (số mới nhất James cung cấp, sau đợt 4 app)",
+ "balance": 3238,
  "allowance_shown": 160971,
  "source": "James đọc trên màn hình elevenlabs.io („10,857 / 160,971“); connector ElevenLabs KHÔNG có lệnh đọc số dư",
- "ledger_total_at_anchor": 149908.0,
- "note": "Số dư suy ra = balance − (tổng ledger hiện tại − ledger_total_at_anchor). Đây là SUY RA, chưa phải số dư đã xác minh; kiểm lại trên elevenlabs.io đầu mỗi đợt.",
+ "ledger_total_at_anchor": 157526.2,
+ "note": "Số dư James đọc trên elevenlabs.io (3.238 / 160.971). Số dư SUY RA = balance − (tổng ledger hiện tại − ledger_total_at_anchor). Scribe trên node TTS niêm yết 165 nhưng không bị trừ (xem ledger scribe_reconcile). Phí chép file tải lên (≈5,48 credits/s) chưa rõ có bị trừ: tính thận trọng như đã trừ.",
  "unexplained_vs_display": 206.0,
  "unexplained_note": "Mức chênh hiển thị (160.971 − 10.857 = 150.114) lớn hơn ledger 149.908,0 là 206,0 credits: KHÔNG có trong ledger, chưa rõ nguồn (có thể thử nghiệm ngoài dự án); không quy cho 14 app.",
  "plan_2026-10-14": {
@@ -12,5 +12,12 @@
   "reserve_for_fixes": 1000,
   "plan_example_audio_5_apps_credits": 8200,
   "plan_basis": "ước tính cũ, SAI giá: dùng 0,94 credit/ký tự và bỏ qua ký tự ngăn câu; giá thật 0,9999 × ký tự gửi đi (kể cả „\\n\\n“)"
- }
+ },
+ "history": [
+  {
+   "as_of": "2026-10-14",
+   "balance": 10857,
+   "ledger_total_at_anchor": 149908.0
+  }
+ ]
 }
