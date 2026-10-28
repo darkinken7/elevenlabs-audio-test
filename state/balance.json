@@ -19,5 +19,14 @@
    "balance": 10857,
    "ledger_total_at_anchor": 149908.0
   }
- ]
+ ],
+ "la_app_2026-10-29": {
+  "as_of": "2026-10-29 (James đọc trên elevenlabs.io sau 6 mẫu)",
+  "remaining_james": 1165,
+  "total_shown": 160971,
+  "scope": "chỉ app laender-aussprache",
+  "spent_since_anchor_tool_reported": 865.9134,
+  "remaining_by_ledger": 299.0866,
+  "note": "Sáu mẫu (33,9966) đã nằm trong mức trừ trước mốc 1.165; không trừ lại. Số tiêu là số credit_costs công cụ báo, chưa đối chiếu số dư thật (connector không có lệnh đọc số dư)."
+ }
 }
